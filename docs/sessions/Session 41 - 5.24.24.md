@@ -48,4 +48,9 @@ tags:
 - We're going to meet [[Emi]]'s father
 - [[Ardric]] is talking to the plants... *again*
 - [[Emi]]'s father gives her a surprise gift
+- [[Olivia]] and [[Fish]] is insinuating that [[Ardric]] and [[Emi]] are together after they communicate through awakened mind in front of her father
+- [[Emi]] tells her father about what she's experienced
+- her father calls [[Nadine]] oblivious
+- He has exclusively raspberry bushes
+- [[Nadine]] gifts [[Emi]] a new outfit with the message "Go Get em lil phoenix" attached to it
 - 

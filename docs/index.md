@@ -1,5 +1,2 @@
 # Sessions
-The notes for individual sessions can be seen below:
-```dataview
-list from #sessions sort desc
-```
+The notes for individual sessions can be seen at [[sessions]]
