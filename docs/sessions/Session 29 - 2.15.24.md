@@ -1,0 +1,53 @@
+---
+tags:
+  - notes
+  - dnd
+  - sessions
+---
+# General
+- Post moon pool gazing we head to visit the children
+- It is time to tell stories ig
+- [[Ardric]] recolors a child
+- Conflicting response on the nature of wildshape from [[Olivia]] and [[Ardric]]
+- [[Ave]] uses a nearby hammer to play music for the children
+- Gab regrets giving [[Ave]] the smart hat as he realizes her knowing how to make thermite is one of the ramifications
+- [[Cadence]] has canonically insulted a dragon that was assaulting a village
+- [[Sthertiing]] was given [[Cadence]]'s blessing (no idea if this is important)
+- [[Amber Thornclaw|Amber]] had a lot of sisters, however all of them were "mean"
+- [[Ardric]] un-greens the child
+- [[Amber Thornclaw]] was a part of a (witch) coven? and often hid her face
+- The [[Mail Squirrels]] are setting up expedition services?
+- [[Melody]] checks with [[Cosmo]] when we were last here to get a better idea of the flow of time
+- [[Mail Squirrels]] cannot get uranium
+- Stealthing our way to Deborah's hut in the [[Fae Wild]]
+- Both [[Ardric]] and [[Melody]] rolled a nat 1 on stealth
+- Retry stealth.  [[Fish]] and [[Ave]] go with [[Belle]]
+- There are 7 hags in the hut with [[Deborah]]
+- 3 Men arrive and seem to be making a deal with the hags.  They are the dragons in human form
+- Deal involved killing 2 girls. One of the dragons is named [[Belphegor]]
+- potentially kill [[Mammon]]?
+- [[Belphegor]] has been de-winged
+- [[Amber Thornclaw]] is in the group of witches and called Coraline?
+- [[Olivia]] offers a counter deal to [[Deborah]] with a written contract
+- [[Deborah]] wants [[Olivia]] to join the coven
+- [[Ave]] gets a 2 on a wisdom save for a grand total of -1. She is now a chicken
+- ![[Pasted image 20240215125420.png]] (Ava)
+- We did not get a deal
+- chicken [[Ave]] lays an egg. It is a bomb
+- We head to [[Distant Rain]] to check on [[River]] and do some shopping
+- [[River]] is gone now... Disappeared about 3 days ago after exhibiting signs reminiscent of [[The Great Eye]]
+	- Remove curse did not get rid of the effects. Could be pink eye?
+- [[Sunrise]] has met the [[yuan-ti]] before
+	- Wants to know which sister we met
+	- apparently one of the sisters was a very nice person and the other is a warmonger
+- Apparently [[River]] went to find a doctor in a swamp somewhere
+- [[River]] is in the swamp with what is presumably a [[Nagpa]] and also tentacles according to a fortune teller's magic ball
+- *[[Session 29.5 - 2.20.24]] occurs in this timespan*
+- [[Belphegor|red dragon]] and co. are headed to the [[Kingdom of Boob-ADoob]]
+- Cabin time! (long rest moment)
+- There is some type of lore conversation rp going on during the first nightwatch. [[Advena]] is explaining dnd world name etymology now or smth to [[Olivia]] and [[Emi]]. [[Ave]] meanwhile is constructing an octopus hamster bowl for [[Frederick]]
+- [[Advena]] is getting all of the trauma that has happened to the party explained to her in one sitting
+- [[Ave]] sees a frog man in the swamp
+- [[Melody]] and [[Ave]] spar while [[Fish]] watches on. [[Ave]] goes down in two turns
+- [[Fish]] and [[Melody]] talk about what [[Fish]] saw in the moon pool while [[Ave]] creates thermite nearby.
+- [[Ave]] shares what she saw in the moon pool with [[Melody]] and proceeds to create functional thermite ~~This is how I get gab to let me have arson >:)~~

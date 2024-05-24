@@ -1,0 +1,100 @@
+---
+tags:
+  - notes
+  - dnd
+  - sessions
+---
+# Ave's Perspective
+- Maggot Man ([[Us]]) might have met [[Cain]], [[Deborah]], and [Ave's mother](Awan.md)
+	- Warned about [[Ardric]] acting any differently or showing black tentacles/manifestations in the eyes
+	- Bullet upgrade!
+	- [[Ave]] has not been paying enough attention to [[Ardric]] to have noticed any of these occurrences
+- Returns to the group during the beginning of the third watch
+- Talk to [[Fish]] about the ocean
+
+# General
+- [[Barren Height]] attempting to cast spells from inside the cabin
+- [[Melody]] collapses the cabin, ejecting everyone
+- Entire party attempts to prevent [[Barren Height]] from casting spells
+- [[Barren Height]] attempts to cast banishment on himself to escape. Gets counterspelled by [[Ardric]]. Continues arguing that [[Emi]] is hiding stuff from the party and trying to actively hurt them all.
+	- [[Barren Height]] simply tells [[Cedric]] to run
+	- [[Cedric]] does not run since there isn't enough evidence
+- Party takes restrained [[Barren Height]] back into the cabin after [[Melody]] re-opens it
+- [[Fish]] and [[Ardric]] take the next watch
+	- [[Ardric]] investigating the crown, which is in better condition no for some reason
+	- He sees a reflection of himself with pitch black eyes that is pointing at him
+	- Conversation regarding their respective powers from higher entities
+	- Something about how loved ones are sent on to the [[astral plain]]
+- [[Advena]] and [[Emi]] take third watch
+	- [[Ave]] rejoins the group
+	- [[Advena]] questions why [[Emi]] trusts the party to watch her back but doesn't trust them with the truth
+	- [[Emi]] didn't want to put the party in "danger" and wanted to deal with it on her own
+	- She has no idea what [[Barren Height]] was talking about
+	- OH YEAH THE CLOCK MUSIC STARTED AGAIN?!?
+	- [[Emi]] was telling the truth
+	- ![[cain in the room.png]]
+	- [[Ardric]] convulsing in his sleep?!?!
+		- Sees himself with completely blackened eyes approaching him
+		- [[Cain]] appears behind [[Ardric]] and says "Time's up"?!
+		- [[Ardric]] tries to dimension door out, Gab pulls shenanigans and says no
+		- Wakes up as the crown touches his head
+	- identify cast through [[Jason]] on the crown; necromancy and transmutation magic. Appears to change the person wearing it to a new body for the creature to inhabit
+	- [[Ardric]] is reluctant to destroy it
+	- [[Advena]] attempts to dispell magic on the crown, crown shakes for a moment then falls to the ground
+	- re-identify does not detect anything
+	- Nat 1 trying to shoot the crown to prevent [[Ardric]] from putting the crown on
+	- Ardric **REALLY** does not want this crown destroyed
+	- Crown currently non-magical, blow it up?
+	- [[Advena]] detects thoughts on [[Ardric]]
+		- Ardric believes he is telling the truth on the surface level
+		- No malevolent or evil thoughts deeper down
+		- Desire to keep the crown is present
+	- Vote on what to do with the crown:
+		- Destroy
+		- Keep on our person
+		- Keep in safe location
+	- [[Emi]] genuinely would have told the party about the crown if she found it?!?!
+	- Crown is kept on our person
+------------
+### 2.5 hour long rest concludes
+- [[Barren Height]] is chillin' (sus)
+- [[Ave]] is now spaced out
+- [[Cedric]] does not let [[Barren Height]] go off on his own
+- [[Jason]], [[Fish]], and [[Melody]] go to enter the palace
+# The Palace
+- The group gets trolled at the main door by being asked for a password that isn't real
+- Use prestidigitation to fake the spiral eyes to get in
+- ![[Pasted image 20240109142212.png]]
+- Next room has the gloom hands from totk? Room is cracked? Slimy walls
+	- Slime is not Bob slime or slime from the well
+- Rest of the party moves closer to the palace entrance
+- Room on the left is a "garden"
+- [[Melody]] wrestles [[Jason]] in [[Fish]]'s hood and folds him
+- Voice from the entrance welcomes them to the garden, mentioning it is a collection of murderous stuff
+- There's a second voice somewhere in the background named [[Phil]]
+- Stuff here has been captured from the material plain
+- They have access to portals (plural)
+- [[Fish]] fumbles the bag and almost gets caught? [[Melody]] is coming in clutch to recover it
+- Treasury room to the right has a GIANT diamond, also several statues on both sides
+- dude on the phone is named Maxim. Rest of us are allowed in to get something put in our eyes
+- [[Ardric]], [[Ave]], and [[Advena]](invisible) go into the palace
+	- The voice looked at the party
+- Jason touched the wall like an idiot
+-  We're all inside a giant mimic?!?!?
+- [[Melody]] is now using [[Fish]] as a puppet character
+- It is now [[Olivia]]'s first turn, whereupon she shall shoot into the room to injure it
+	- Deals 29 + 35 dmg, gets the room goaded total of like 80 dmg or smth
+- [[Melody]] gets eaten by the mimic
+- [[Barren Height]] did `legendary action: leaving`, cast banishment on himself, and DIPPED
+- [[Tiamat]] was behind a door that [[Ardric]] opened, immediately closed the door
+- [[Melody]] opens the door to double check. [[Tiamat]] is still there. Immediately closes door again
+- [[Maxim]] does not know about the dragon in the room
+- [[Tiamat]] was not willing to let [[Ave]] pass after asking
+- We are now trying to bribe [[Tiamat]] with sugar cookies. The cookies have a taste of 23 whatever that means
+- Dragon wants a bribe of 3k gold to pass
+- So [[Tiamat]] was just a firesprite with a furnace creating an illusion
+- [[Melody]] decimates the house of the firesprite. Firesprite proceeds to misty step 30ft away. Runs to the other door trying to leave.
+- Firesprite is named Justin
+- Temple on the left with a spiwit maintaining the temple of [[Caiphon]]
+- we must now perform for the spirit to gain passage
+------------------------

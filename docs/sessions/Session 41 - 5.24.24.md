@@ -1,0 +1,51 @@
+---
+tags:
+  - dnd
+  - sessions
+  - notes
+---
+# General
+- [[Flint]] and [[Amber Thornclaw|Amber]] are talking about plans for rebuilding [[Redwood]]
+- [[Flint]] was planning on murdering all of the [[yuan-ti]]
+- The two are not super keen on the idea of living alongside the [[yuan-ti]]
+- [[Ardric]] wants to handle the situation reactively
+- the [[Assassin's Guild]] wanted [[Redwood]] for their new base since the area is fertile land
+- [[Ardric]] is the lorax, he speaks to the trees
+	- He wants the trees to make it harder for others to enter the area
+- [[Ardric]] is directed to talk to [[Jacob]] for better assistance
+- [[Jacob]] asks [[Ardric]] to use simpler words
+- [[Jacob]] is going to make the west side of [[Redwood]] harder to get into
+- [[Melody]] is unsure if the trees had a change in demeanor
+- [[Melody]] is checking on the status of the [[yuan-ti]]
+	- They seem to be standing guard at the fort, but nothing else is happening there
+- A [[harengon]] approaches the party
+- [[Olivia]] is forging [[Emi]]'s signature for a package by using [[Emi]]'s hand to sign since she's unconcious
+- [[Amber Thornclaw|Amber]] is gonna try to scry using the focus we just got
+- [[Fish]] uses minor illusion to create an image of [[Barren Height]]
+	- [[Barren Height]] is talking to [[Harr]]
+	- [[Ave]] lip reads [[Harr]] saying that the shipment will arrive on time
+- [[Barren Height]] has the spiral eye still, but [[Harr]] does not
+- [[Barren Height]] opened a portal and just left
+- [[Flint]] and [[Amber Thornclaw|Amber]] are leaving [[Redwood]]
+- [[Olivia]] tells them that [[Sapphire]] effectively adopted three girls that are now under the care of [[Mammon]]
+- [[Olivia]] is part hag and [[Deborah|Debbie]] put a curse on [[Amber Thornclaw|Amber]]'s descendants
+	- This is why she's not as strong as others
+	- Also the reason she was sick before becoming a werewolf
+- [[Melody]] pulls out the boat again
+- [[Ave]] fixes the boat wheels and gives it an insane suspension system
+- There are several [[Tabaxi]]'s in [[Serenity]]
+- [[River]] is talking to [[Vesta]]
+- It seems to be a trade route with [[Serenity]] and [[Distant Rain]]
+- [[River]] tells [[Fish]] about the book he wrote
+- [[River]] asks [[Fish]] if [[Vesta]] is married
+- According to [[Vesta]] this is just [[Emi]]'s afternoon nap
+- [[Nadine]] is trying to figure out more about her father
+- The [[magmans]] ate some of the diamonds they were gathering so we didn't get as many as we could have
+- [[Vesta]] notices that something is up with [[Advena]]
+- [[Emi]]'s father's garden is blooming right now :D (she is sleep)
+- [[Bob]] is doing a lot of "gardening" now
+- The party is catching up with [[Bob]]
+- We're going to meet [[Emi]]'s father
+- [[Ardric]] is talking to the plants... *again*
+- [[Emi]]'s father gives her a surprise gift
+- 

@@ -1,0 +1,82 @@
+---
+tags:
+  - dnd
+  - sessions
+  - notes
+---
+# War
+## C-3
+- [[Emi]], [[Ardric]], and [[Fish]] protecting the [[Dryad]]s
+- [[Ardric]] was unaware that EVERY OTHER PARTY MEMBER was stealthing to approach the combat, and is confused as to where they went
+- [[Agamemnon|Red Abishai]] casts fireball on the [[Dryad]]s
+- [[Emi]] conjures animals and summons 8 wolves
+- [[Agamemnon|Red Abishai]] is ranting about [[Belphegor]] now
+	- [[Fish]] is terrified of this, as well as the wolves
+- [[Emi]] tells the [[Dryad]]s to run
+- [[Fish]] hits the [[Agamemnon|Red Abishai]]  and sends him 10 feet higher, where he is now unwillingly 50 feet above the ground
+- The [[Dryad]] children are now being attacked
+- [[Agamemnon|Red Abishai]] falls and takes 34 points of falling dmg
+- [[Fish]] does 55 damage on an opportunity attack
+- *(stuff happened but i spaced out)*
+- Zone pacified!
+## B-2
+- [[Ave]], [[Melody]], and [[Advena]] protecting the [[Mail Squirrels]]
+- [[Melody]] pops out and deals big damage to the fire salamander dudes
+- The lizards then begin to throw fire javelins at the tree, lighting it on fire, then proceed to attack the squirrels who all go down
+- [[Topi Topi]] runs into the burning tree to get the gatling ballista
+- [[Ave]] crits one of the lizards with a gun dealing 39 piercing damage in one shot and finishing him off
+- [[Advena]] casts cone of cold on all the lizards who fail the required con save, dealing 34 cold damage to all of them
+- [[Advena]] hits [[Ave]] with vitriolic sphere adding acid damage (she's used to getting hit)
+- [[Melody]] does geyser from the decanter to hit put out the fire on the tree
+- [[Topi Topi]] is gunning the salamanders down, killing not just one, but TWO of them and destroying the ballista in the process
+- [[Artemicion]] has been fed a goodberry and is fine now
+- [[Melody]] throws a berry to [[Topi Topi]] to heal another squirrel
+- Zone cleared
+## A-1
+- [[Olivia]] and [[Cedric]] against the [[Hags]] and [[Leviathan]]
+- [[Olivia]] uses sending on [[Leviathan]] to mimic [[Belphegor]] telling him not to kill the [[Hags]]
+- [[Deborah|Debbie]] does not see [[Olivia]] hiding, and casts tiny hut
+- [[Cedric]] casts hunger of Hadar on [[Leviathan]] and the half dragons. [[Leviathan]] turns into a full dragon, and roars for [[Deborah]]
+- [[Leviathan]] uses lightning breath on [[Deborah]] and [[Coraline]] dealing 78 lightning damage and instantly downing [[Coraline]] while [[Deborah]] burns two legendary resistances to maintain concentration and survive
+- The hag named [[Coraline]] is not actually [[Amber Thornclaw|Amber]]?!
+- [[Olivia]] shoots [[Amber Thornclaw|Coraline]] with a healing arrow to get her back up, then tries to shoot the dragon
+- [[Amber Thornclaw|Amber]] gets polymorphed into a mammoth
+- [[Leviathan]] is now hard focusing [[Olivia]]
+- [[Olivia]] gets frightened
+- lightning breath does another 79 damage to the [[Hags]]
+- [[Cedric]] does black tentacles on the half dragons
+- [[Ave]] moves to this zone, using expeditious retreat
+- [[Amber Thornclaw|Coraline]] almost goes down to the half dragons
+- [[Leviathan]] does a wing attack to hit the hags
+- [[Ave]] uses catapult to hurl a rock at [[Leviathan]] who barely doesn't save with a dex save of 16
+- Everyone begins to pull up from their previous areas
+- [[Cedric]] dodges lightning and [[Olivia]] gets hit by it
+- [[Amber Thornclaw|Amber]] is downed by the half dragons but not quite killed
+- [[Team One Large Guy|The Gang]]'s all here
+- [[Amber Thornclaw|Amber]] once again does not recognize [[Olivia]]
+- Tactical nuke has failed :(
+- [[Advena]] uses wall of force to protect the hags
+- [[Fish]] climbs onto the dragon who then proceeds to rise 160ft into the air
+- [[Melody]] cannot do anything this turn
+	- nvm 44 damage to a half dragon instantly killing him
+- [[Olivia]] is mad, the dragon is being shot out of the air
+- [[Ardric]] catches [[Fish]] as he's falling with the dragon
+- [[Ardric]] convinces the half dragons to leave
+- The [[hags]] are still trapped in the wall of force while we speak to them
+- The dragons wanted [[Belphegor]]'s wings back
+- [[Deborah|Debbie]] is surprised as well that the dragons tried to get the wings back
+- [[Amber Thornclaw|Amber]] seems incapable of looking at [[Olivia]]
+- [[Deborah]] is saying she'll give [[Amber Thornclaw|Coraline]] back free of any current contracts to her
+	- [[Deborah|Debbie]] is actually telling the truth?!?
+- [[Amber Thornclaw|Amber]] came to [[Deborah|Debbie]] when [[Olivia]] was very young, and knew that any girl she had would need to come to the coven
+- [[Deborah]] has agreed not to contact [[Cain]] anymore
+- [[Amber Thornclaw|Amber]] has been released from the contract
+- [[Deborah]] drags the body of [[Agitha]] the other hag into the hut
+- One of the [[Dryad]] kids is allergic to wolves yet proceeds to hug them
+- [[Ave]] fixes [[Topi Topi]]'s ballista
+- According to [[Artemicion]] the [[Salamanders]] were the main backbone of the dragon army during the Calamity
+- [[Ardric]] is using Speak with Dead on the [[Agamemnon|Red Abishai]]  who was [[Agamemnon]], great general of [[Belphegor]]
+- He was loyal to [[Belphegor]] because he gave him power
+- There are 4 other generals out there, but more are coming
+- He was satisfied with his life apart from today
+- 

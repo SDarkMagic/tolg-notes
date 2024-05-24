@@ -1,0 +1,122 @@
+---
+tags:
+  - dnd
+  - "#sessions"
+  - notes
+---
+# General
+- [[Bloody Carpet]] is explaining the process through which the water hydra was moved into the arena
+- [[Fish]] and [[Olivia]] were both deafened throughout this entire conversation
+- [[Advena]] gives [[Melody]] 5 gold for *something* that he sure can't remember (library spell scrolls)
+- We go to [[Sthertiing]]
+- We're buying new armor
+- [[Advena]] wandered off and only [[Fish]] noticed. [[Olivia]] goes with him to follow her
+- [[Ardric]] buys 4000 ball bearings
+- [[Ave]] inquires as to the methodology  with which the dragon scales attunement requirements were combined
+- [[Advena]] goes to [[Advena's Library|her library]] and anxiously investigates the entire house
+- [[Advena]] is scared for [[Greelee]]'s safety after her encounter with [[Cain]] in [[Ardric]]'s dream
+- [[Advena]] has acquired a feign death scroll from [[Greelee]] among others
+- [[Olivia]] [[Fish]] and [[Melody]] arrive at [[Advena's Library|the library]] as [[Advena]] and [[Greelee]] are preparing to leave, causing [[Greelee]] to panic thinking it's [[Cain]]
+- [[Greelee]] pours holy water on [[Olivia]]'s hand with a triumphant cry as nothing happens
+- [[Ardric]] runs off to get some ink, then runs off to get a cart immediately after
+- Because [[Ardric]] has bought so much ink from the general store, he is given the shopkeeper's cart for free
+	- He then pulls it back to the party by himself
+- [[Ave]] has put wheels on [[Melody]]'s boat to make it into a cart
+	- The axels are crooked in such a way to make the boat bob as if it were in the water
+- [[Advena]] ritually casts water breathing to attempt to help with the motion sickness
+- As we approach [[Redwood]] the weather gets stormier
+- The town is eerily quiet, and seems to have been deserted for a while
+- [[Melody]] is fighting to get the boat back into it's container
+- [[Amber Thornclaw|Amber]] is waiting for us there, holding [[Sapphire]]'s ashes
+- [[Olivia]] enters the church where a [[Matthew|man]] is playing music on an organ
+- Everyone that stayed in [[Redwood]] is in the graveyard
+- Several years ago a letter with a red skull on it arrived in [[Redwood]] ordering them to deliver [[Flint]] to the senders or there would be blood. Thus, the town was attacked
+- [[Matthew|The guy]] knew that [[Sapphire|Saph]] was lost?
+- Snake folks have been coming to [[Redwood]] asking [[Matthew|the man]] to leave saying it belongs to the [[Assassin's Guild]] now
+- "Do not tell me again that you wish to die, because the knowledge of your home; the legacy that you carry, might very well die with you." - [[Ardric]] (who else)
+- [[Olivia]] perception check of nat 20 for a 31
+- [[Matthew|old dude]] is surprised at the mention of [[Amber Thornclaw|Amber]]
+- He gives [[Olivia]] the key to [[Flint]]'s cabin
+- We're calling him [[Matthew]] for now
+- [[Matthew]] asks if [[Fish]] is a believer of [[Melora]]
+	- The chapel is to [[Melora]]
+- There seems to be a camp to the east of the town
+- [[Olivia]], [[Ardric]], [[Fish]], and [[Melody]] head to the cemetery to the north and meet up with [[Amber Thornclaw|Amber]]
+- [[Amber Thornclaw|Amber]] made the grave for [[Flint]] herself?
+	- When she first left, she and [[Flint]] formulated a plan to save everyone
+	- [[Amber Thornclaw|Amber]] would go to the coven while [[Flint]] would try to find a cure for the curse.
+	- To protect [[Flint]], [[Amber Thornclaw|Amber]] did some magic to protect him from scrying?
+		- There's a chance [[Flint]] could be alive
+- [[Olivia]] realizes something was off about [[Matthew]]
+- [[Matthew]] is leaving the church sneakily
+	- He's heading towards the camp to the east
+- [[Matthew]] notices them approaching and starts booking it
+	- He enters an abandoned mine in panic
+	- [[Melody]] pops hunter's mark on him
+- There are [[Assassin's Guild]] logos around the camp, which seems to be a fortified entrance to a fortress
+- [[Ardric]] goes fast and catches up with [[Matthew]]
+- Man is running from his past
+- oh yeah, also [[Matthew]] is [[Flint]]
+- [[Amber Thornclaw|Amber]] walks up on [[Olivia]] and [[Flint]] having a conversation
+- Family (mostly) reunion!
+- There is noise coming from the *supposedly* abandoned mine
+- [[Flint]] says this is an [[Assassin's Guild]] den, and they shouldn't be back until night
+	- He was not just trying to hide in the mine
+	- Also [[Melody]] did 100% hear noises in there
+- There's people in the guild
+- There's a fae ping in the guild? ([[Fish]] used divine sense or smth)
+	- It's [[Stilts]]. Again.
+- [[Melody]] sends in the small recording spider to monitor [[Stilts]]
+- Recently used cooking pot in one of the rooms
+- [[Melody]] is trying to determine if they know we're here based on the cooking prep stage
+	- It's leftover pasta water
+- [[Advena]] has [[Belle]] touch the somewhat ominous chest
+	- magic missile wand
+- Stairs leading to a wall in another room
+- There's a [[yuan-ti]] working on an alter, and also some stuff floating in the air in a transparent gelatinous cube
+- [[Stilts]] is hunting for something
+- Flat [[Jason]] is pushed through a door
+- He's now stuck in this room
+- There's a smaller gelatinous cube in the next hallway
+- There's a closed portal in [[Jason]]'s room
+- [[Jason]] has opened a portal?!?!
+	- A voice from the portal is asking about a shipment
+		- It's the [[Beholder]] from a while back
+- [[Melody]] finds two more active portals in another room
+- [[Jason]] pokes his head through the portal, sees the two [[Beholder]]s who wave at him, then dips
+- [[Ave]] is borrowing the book of bedtime from [[Ardric]]
+- [[Stilts]] gives [[Olivia]] the gem of brightness for [[Melody]]
+- [[Advena]] checks out the other two portals in one room
+	- One is an output to this guild
+	- The other leads to somewhere near [[Sierra]]
+- [[Olivia]] looks into a mirror in the room and notices it doesn't contain her reflection
+- No one is appearing in the mirror
+- [[Belle]] is once again being used as a test subject. She is not reflected in the mirror
+- Upon putting a paw on the mirror, her paw goes through it
+- The [[Manyvoice Mask]] is in there, we keep it and give [[Stilts]] the magic missile wand
+- [[Cedric]] and [[Advena]] are going to checkout the portal to [[Sierra]]
+- In the other doors were small barracks with three sleeping [[yuan-ti]]
+- [[Melody]] screws up the locks on the doors trapping them in there
+- [[Ave]] saunters into the room with the book of bedtime in one hand, chats with the [[yuan-ti]] until they turn to look at her, and upon their realization immediately beings reading the book to knock them out
+- There's an altar to the god of the [[Assassin's Guild]] in the next room, the [[Masked Serpent]]
+- The door in here is locked with a sign saying "Simply say a prayer to open"
+	- [[Melody]] stabs the lock on the door opening it
+- [[Melody]] is checking each of the doors in the hall while rapidly flying down the hall
+- The farthest room is a medbay/torture room and [[Melody]] has no clue what it is
+- [[yuan-ti]] cooking a potion with a gun. [[Ave]] sprints in and starts reading the book knocking him out
+	- She steals his musket
+	- Also he was trying to make purple worm poison
+- [[Harr & Son]] shipment book in the library
+	- Mind blower prototype
+	- project lemonade
+		- Homunculus construct records
+		- One mentioning dragon remains
+	- Weapons galore
+- [[Ave]] begins to exit, and on the way out re-sleeps the first [[yuan-ti]]
+- [[Ardric]] and [[Melody]] aid the two [[yuan-ti]] that were tied down in the medbay(?)
+- They were being experimented on by a small man named [[Gallahad]] or something
+- [[Ardric]] did remove curse on them and removed smth from them
+- [[Ardric]] tells them his name is [[Ardric|Aphuc]]
+- [[Ardric]] and [[Fish]] want to untie the [[yuan-ti]] we tied up previously
+- [[Melody]] and [[Advena]] go to the loot room and find greater healing potions, upgrade jellies, and several magic items
+- 

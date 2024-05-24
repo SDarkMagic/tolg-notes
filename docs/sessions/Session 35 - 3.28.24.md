@@ -1,0 +1,59 @@
+---
+tags:
+  - dnd
+  - sessions
+  - notes
+---
+# General
+- [[Melody]] busts in and begins insulting the [[Nagpa]] with vicious mockery
+	- [[Nagpa]] "nuh uh"'s [[Melody]]
+	- Proceeds to minor illusion inside the darkness dome and insults them as one of their own [[Nelrisah the ambitious]]
+		- The birds are stupid and they begin to crumble from within
+	- [[Advena]] is throwing a 3rd level fireball at them
+- lair has reinforcements
+	- [[Kruthiks]]
+		- They then immediately dip upon seeing [[Ardric]] and [[Cedric]]
+	- The [[Nagpa]] try to call more mech spiders, and nothing happens
+- [[Olivia]] is calling the broom with feebleminded [[Emi]] on it to her
+- Two [[Nagpa]] begin cracking the skull of a third. The room begins to turn cold
+- [[Ardric]] is sending the [[Nagpa]] that left the circle back into hunger of hadar
+- [[Fish]] attacks the first [[Nagpa]] as it tries to get away with etherealness doing 23 damage and killing it
+- Drums coming from the ground and a feather demon comes out of the ground and tries to fireball [[Emi]], [[Advena]], [[Ardric]], and [[Olivia]]. [[Advena]] counterspells it and it proceeds to crit [[Olivia]] with a peck
+	- [[Pazuzu, great demon of winds]]
+- [[Melody]] has been dominate personed
+- [[Cedric]] uses calm emotions to uncharm [[Melody]]
+- [[Advena]] loses concentration on wall of force, and [[Melody]] immediately attacks the birds as they become visible
+- [[Cedric]] is getting targeted by 6 death rays in one turn now as punishment for his actions
+- [[Pazuzu, great demon of winds|Pazuzu]] recognizes [[Fish]] ?!?
+- [[Miko]], the fire cat, tries to attack [[Pazuzu, great demon of winds|Pazuzu]] and does no damage since it's immune to fire :D
+- [[Olivia]] mass healing words the group for 9 healing each!
+- [[Ardric]] yoinks [[Emi]]'s staff and shaleleigh's?
+- [[Cedric]] spooks [[Pazuzu, great demon of winds|Pazuzu]] with dissonant whispers and he gets opportunity attacked to death
+- [[Melody]] finally gets the flaming shackles to **WORK**
+- [[Ardric]] kills the last [[Nagpa]] with kinetic force
+- Divine intervention from [[Sehanine]] at the moon temple un-feebleminds [[Emi]]
+	- Only [[Ardric]] and [[Olivia]] see her
+- [[Emi]] is confused why [[Ardric]] has her staff
+- We're going looking for spiders now
+- Spiders wandering the city are happy to see us now
+- [[Underdark]] is safe to us now as long as [[Arastra]] is the leader
+- the [[Nagpa]]s probably had another plan or this was just the start
+- [[Team One Large Guy|The party]] is sending warning messages to the different groups we've met
+# Night Watches
+- A few [[Spiders]] are standing guard outside the cottage for us 
+## [[Ardric]], [[Olivia]], and [[Melody]]
+- [[Olivia]] is telling [[Ardric]] about her [[Session 32 - 2.29.2024#Emi and Olivia night watch|discussion]] with [[Emi]] and apologizing
+- [[Ardric]] is not super surprised by this
+- [[Melody]] is doing his nails during this?
+- [[Ardric]] is talking about how he saw our reactions to him in the [[astral plain|astral sea]]
+	- He's "seen enough of those looks to know what they meant"
+- [[Olivia]] trust [[Ardric]]'s intentions with the [[Crown]], but she's still wary of it
+- [[Ardric]] knew [[Olivia]] would have killed him if given the chance
+- [[Olivia]] is primarily guided by fear
+- [[Ardric]] is having some sort of deep conversation about choices and how they are made, I don't know, I spaced out
+- The [[Crown]] looks more grey and dusty here...
+- [[Ardric]] is casting identify on the [[Crown]] through [[Jason]]
+	- It seems like the curse is already active and has chosen a host?!
+- [[Ardric]] is holding onto the [[Crown]] to further investigate
+- As the nightwatch is changing, screaming can be heard in the distance as [[Stilts]] runs towards us screaming that the [[Dragon]]s are everywhere and killing everyone in the [[Fae Wild]]
+- The hags, [[Mail Squirrels|squirrels]], and [[Dryad]]s are all being attacked separately, and [[Team One Large Guy|we]] must decide who to help

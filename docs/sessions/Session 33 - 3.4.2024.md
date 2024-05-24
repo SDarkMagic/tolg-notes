@@ -1,0 +1,117 @@
+---
+tags:
+  - dnd
+  - "#notes"
+  - "#sessions"
+---
+# General
+- [[Olivia]] gives [[Cedric]] studded leather armor
+- [[Ardric]] is removing the curse from [[Ave]]'s armor
+- [[Ave]] immediately puts the cursed armor back on and becomes trapped once again
+- shopping trip time
+- The alchemist, [[Stolas]] has purple worm poison antidote
+	- The shopkeeper is [[Octavia]]
+-  [[Melody]] wants to know if you can drown in a potion of waterbreathing
+- [[Cedric]]'s armor is too small
+- Greater alchemist's fire needs sulfur, mercury, and a third, more sinister ingredient...
+- [[Ardric]] is removing [[Cedric]]'s armor
+- [[Fish]]'s armor gets baked
+- [[Olivia]] gives [[Advena]] the contingency band
+- [[Melody]] gives [[Cedric]] the pearl of power
+- [[Topi Topi]] is asking [[Artemicion]] if he's ever had squirrel meat
+- [[Artemicion]] is researching to write a story on the [[Dawnfrost]]
+	- He wants to talk to the various members of the group
+- [[Sunset]] has a [[Sunrise|successor]]
+- [[Vesta]] is in the library, *not* doing well
+- [[Dryad]]'s are probably the best place to get to the [[Underdark]]
+- [[Vesta]] knows about the [[Nagpa]] and reacts by muttering how things are "getting worse and worse"
+- [[Dryad]]s used to be under attack by [[Nagpa]],  spiders, and potentially a [[Beholder]]
+- [[Dawnfrost]] were victorious against them, however the [[Nagpa]] swore revenge
+- [[Nagpa]] are very prideful
+	- It is [[Melody]]'s time to shine
+- Not all [[Underdark]] citizens work for the [[Nagpa]]
+	- [[Drow]] could be more amicable, however they're sexist
+	- [[Spiders]] are not that bad?!
+		- They might already be employed by the [[Nagpa]]
+		- Would need to convince them that helping us is not suicide
+- Presence of [[Sehanine]] in the [[Underdark]] previously
+	- [[Nagpa]] were incredibly unfond of [[Sehanine|the moon goddess]] and may have destroyed the temple
+- [[Vesta]] did not know [[Sehanine]] had contacted [[Emi]] and [[Emi]] let that slip in front of her
+- [[Advena]] is asking [[Vesta]] about [[Cain]]
+- [[Advena]] asked [[Reinhardt]] questions previously?
+- [[Nadine]] is alone in the temple praying
+- [[Nadine]]'s grandmother used to be very kind, then at some point the village closed and he said he had to go...
+	- When she was about age 4 or so (~40 years ago)
+- Calamity was before that
+- [[Melody]] was also born 40 years ago
+- [[Nadine]]'s grandfather always used to call her "little phoenix" and sing her a lullaby
+	- Started with "Far from my brother's blinding light"
+- [[Nadine]] takes [[Emi]] aside to tell her that regardless of who her grandfather is, [[Emi]] is the best daughter a mother could have
+- temple is changing?!?
+- [[Nadine]] can "feel it" in her eye and [[Emi]]'s eye
+	- [[Serenity]] is going to be the center of it all
+- [[Emi]]'s eye had a battle between a spiral and the moon in them?!?
+- Party outside did not see what [[Emi]] saw inside
+- *Time skip a few days*
+- [[Emi]] is actually telling [[Ardric]] about her experience in the temple?!!?
+- We go to [[Reinhardt's library]] and are greeted by the [[Spectator]]
+- [[Advena]] and [[Ardric]] are buying scrolls
+- We're all buying books
+- [[Artemicion]] has written a romance novel
+- *One punch cat 3: Knuckle Sandwich* coming soon
+- We head to the [[Fae Wild]] next
+	- [[Artemicion]] and [[Topi Topi]] have both made it back here
+- [[Belphegor|red dragon]] has been amassing an army, and probably gonna strike soon. Potentially targeting the [[Fae Wild]]
+- The dragons have been gathering in the northwest of the [[Material Plain]]
+	- Potentially preparing to attack [[Mammon]]
+- Return to [[Blossom]] to talk with the [[Dryad]]s and visit the [[Underdark]]
+- *hour long lunch break*
+- We are now in the [[Underdark]]
+- [[Jason]] is going on a suicide mission
+- [[Ave]] has done a dumb
+- BOMBS DID SOMETHING
+- [[Ardric]] did 616 psychic damage and [[Ave]] did 88 lightning damage ENTERING battle
+- [[Olivia]] rolled a nat 1 for damage and did 25 damage on a crit (also gloomstalker added 8 damage)
+- [[Cedric]] cast fireball on them all, and they all rolled a 1 to save; they then proceeded to take 29 dmg each to all 19 dudes left who all had only 12 hp remaining
+- We head to the chapel to [[Sehanine]]
+- [[Ave]] cleans the desecrated temple
+- [[Emi]] is investigating the alter
+- [[Melody]] is following the light orb, which the beast seems to be afraid of
+	- Also the light orb is waiting for [[Melody]] on top of a pillar
+- This was original a shrine to [[Sehanine]], but now it's a shrine to [[tharizdun]]
+- Light orb was a will o' wisp
+- [[Ardric]], [[Emi]], and [[Fish]] are trying to recharge an orb that appears to be a battery of some kind
+- [[Emi]] grabbed the orb and has more voices in her head. Her eyes turn into moons and she hears
+	- the orb wants to be brought to a statue
+	- The statue is surrounded by mechanical spiders
+- [[Belle]] casts guidance on herself to stealth better
+	- ![[Pasted image 20240304143458.png]]
+- Spider guardians are arguing because they want to fight
+- the beast went down a tunnel and jumped into a crater, disappearing from view
+- The two spiders are approaching [[Belle]] RAPIDLY and want to consume her aggressively
+- We're playing hot or cold with the orb
+- So the two spiders are gone now
+- [[Ardric]], [[Advena]], and [[Melody]] get trapped in the will o' wisp room
+	- [[Melody]] uses the chime of opening to undo the barrier that appeared
+- The shadow is a pure shadow from [[tharizdun]]
+	- Will drain your strength
+- [[Ardric]] is attacking the shrine
+	- He harmed himself more than the shrine
+- Destroying the shrine opened the door and vanquished the shadow
+- One of the robot spiders is now activated
+- The two spiders are now on the ceiling
+- [[Ave]] is left alone to guard the tunnel
+- The other spiders are activating the mechanical ones
+- [[Advena]] and [[Ardric]] enter the room obviously as the spiders quickly try to activate mechanical spiders
+	- The spiders told the mechs to 
+- [[Melody]] tries to mimic abyssal over the mind link so [[Ave]] can hear it
+- Mech spiders are having fun, real spiders are not
+- The orb is glowing, and there is a glowing socket in the statue of [[Sehanine]]
+- 3 spiders lasered [[Emi]] out of the sky
+- a mech spider has taken the moon orb
+- The two spiders were shapeshifters?! Also placing the orb in the thing turned off the mech spiders
+- [[Ave]] tries and fails to hijack a spider
+- [[Melody]] speaks common to the creature, which does not speak common (He's trying to negotiate a laser onto his mechanical spider)
+- [[Ardric]] is trying to fix a statue now
+- Moon wave hits, both [[Emi]] and [[Olivia]] get moon eyes
+- **LEVEL UP**

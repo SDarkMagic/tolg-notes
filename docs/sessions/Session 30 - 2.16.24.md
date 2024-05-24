@@ -1,0 +1,81 @@
+---
+tags:
+  - dnd
+  - notes
+  - sessions
+---
+# General
+## [[Ardric]] dream time
+- **CLOCK MUSIC**
+- [[Cain]] is in [[Ardric]]'s home in the dream?!
+	- he canonically lives rent free in [[Ardric]]'s head
+	- [[Cain]] gives [[Ardric]] a pep talk saying he can become the next version of him
+	- [[Cain]] ships [[Emi]] and [[Ardric]] 
+- [[Kupex]] is back and wants revenge
+- nvm [[Cain]] is degrading [[Ardric]] now
+- [[Cain]] does not care where power comes from, he simply sees it as power. The more power the better.
+- [[Cain]] never cared about a glorious reason or big ideal. He has acknowledged that he only cares about himself and his gain. He believe people are inherently selfish and this cannot be changed
+- "This world is beautiful, and it's a deep shame you can't see that." - [[Ardric]] to [[Cain]]
+- [[Cain]] may be able to exist in [[Ardric]]'s mind when he's awake
+## General
+- [[Ardric]] is sharing that [[Cain]] is in his memories with the party
+- [[Kupex]] might be immortal now?
+- [[Jason]] is eating all the cookies. [[Belle]] tries to get some and gets attacked by the feral weasel
+- [[Tabaxi]] pawprints heading towards a small hut outside the city. About a few days old at most
+- they are [[River]]'s footsteps
+- [[River]] went into the city ([[Kingdom of Boob-ADoob]]) to see the king
+- Everyone in the city is "weird" we should try not to be seen
+	- Smart and mean
+	- Usually dumb and kind
+- grey-ish skin, white eyes, moving collectively
+- mind flayers/[[illithids]] are responsible
+- Fountain that heals everything in the temple past the city
+- Also we have been talking to a [[boolywog]] named [[Gro]]
+- [[River]]'s eye was a dark red/pink spiral
+- Turns out that swamp was not as deep as the ocean
+- Concocting an elaborate plan to distract the frogs
+- [[Emi]] conjure animals 8 giant owls
+- Full party invisibility courtesy of [[Ardric]] [[Fish]] and [[Advena]] so we can sneak through the city
+- [[boolywog]]s all jump into the water in fear of the owls
+- [[Ardric]] gets his leg stuck in the bridge
+- THERE WAS A HYDRA IN THE WATER?!?! IT'S FIGHTING THE OWLS
+- THE [[boolywog]] ARMY IS HERE TOO NOW
+- so the temple had a welcoming party
+- three [[boolywog]] children are being pushed to the temple to probably get their brains controlled
+- [[Frederick]] is going to explore the river
+- oops great crocodile room
+- ![[Pasted image 20240216124419.png]]
+- The temple has a mural on the wall near the entrance
+- ![[Pasted image 20240216125308.png]] (sketchy art :D)
+- Draconic voice in the water asking if it's safe?
+- BABY DRAGON TURTLE IN WATER
+- [[Melody]] tries to chase the [[boolywog]]s through the door into the crocodile room
+- There is a mother dragon consumed by an elder brain past the crocodile room
+- [[Ave]] is reverse engineering the door so we can go through
+- potential opening behind gold statue
+- Bridge is unsafe. Crocodiles are sacred
+- [[Ardric]] tried to hide in a bush and got found
+- no one has any clue what is going on anymore
+- [[Ave]] was safe one time. It was the wrong time. The bridge has exploded and everyone is on the other side
+- the children got tadpoled
+- Crocodiles will eat the frogs now
+- Also they won't kill the dragon
+- crocodile bedtime. They now just block the entrances
+- Killing the brain kills the dragon
+- [[Melody]] hears an egg cracking. The egg from earlier is hatching
+- [[Melody]] HAS A SOLUTION. *pulls out chicken feed and begins feeding the newly hatched baby*
+- northside passage has a mental blockade
+- [[Melody]] is watching the children
+	- [[wraa]], [[mrrr]], and [[llurr]]
+- The hydras entered the main room now
+- trapped chests, mausoleum room
+- *I went to get lunch and came back to combat with invisible creatures in a flooded room*
+- [[Emi]] is an octopus now ig
+- Fountain water was taken back to the dragon with the brain on it.
+- [[Melody]] attacks the brain to try and cut it off while transforming into his bone devil form
+- brain panics and uses an attack from the dragon
+- [[Olivia]] morbs and becomes a werewolf to try and survive
+- [[Ardric]] throws a goodberry into the downed [[Advena]]'s mouth getting her back up
+- [[Emi]] has returned to octopus once again
+	- escapes and stops being an octopus
+- Dragon gets brain detached and we're safe now

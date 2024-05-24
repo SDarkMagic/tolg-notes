@@ -1,0 +1,57 @@
+---
+tags:
+  - dnd
+  - notes
+  - sessions
+---
+# General
+- child ([[Lily]]) was with someone green. However, most people in [[Blossom]] also happen to be green
+- [[Martha]] runs the fletcher store we head to next
+- [[Olivia]] has acquired healing arrows. Damage must be done before applying healing
+- [[Martha]] attempts to figure out how to apply arrow modifications to bullets
+- [[Ave]] gets deep sleep bullets
+- [[Lily]] is talking to a strange [[Nagpa]] who might be trying to lead her away![[Pasted image 20240205105237.png]]
+- [[Ardric]] tries to persuade [[Lily]] to come back with us using minor illusion of the village people telling us to come back
+- [[Nagpa]] knew about [[Melody]] hiding under the bridge?!
+- chozo wannabe is wanting to fight us :(
+	- (his familiar is named [[bubsy]])
+- [[bubsy]] no longer a chill raven
+- DEATH RAY!?!?!
+- It is fish's turn (sneak attack + crit + smite) 73 dmg (This was an opportunity attack)
+- HARPY JUMPSCARE
+- [[Melody]] gets swarmed by harpies from under the bridge. Also [[Emi]] has been abducted by the raven who was actually a rocc
+- [[Melody]] becomes large, it is time to crush the harpies this is a crit too
+	- They all die instantly
+	- ![[Pasted image 20240205114400.png]]
+- Bird has dropped Emi after flying to an altitude of 200ft
+- 7th level fireball redowns emi a second time
+- 2 death rays into [[Ave]]. one crits for 46 damage. Gets parried for max dmg reduction of -12
+	- does 34 damage
+	- Ave now has 9 HP
+	- second death ray hits and does another 34 damage
+	- Ave is down
+- "Olivia plz shoot me" - Ave
+- [[Advena]]'s cat cracks a healing potion over Ave's head to heal her
+- [[Melody]]'s turn
+- [[Ardric]] dimension doors him and [[Advena]] onto the back of the rocc
+- [[Olivia]] downs the rocc while the other two are still on it. It dissipates since it was a summon and they both fall
+- We brought [[Lily]] back to [[Blossom]]
+- There have been new younglings recently? [[Syliva]] theorizes they might be why the [[Nagpa]] are coming back
+- [[Amber Thornclaw]] previously saved the [[Dryad]]'s from the [[Nagpa]] and sealed them in the [[Underdark]]
+- [[Dryad]]s do not like paper much. [[Ardric]] found this out the fun way and getting into an awkward situation with the chief, [[Thomas]]
+- [[Jason]] is conversating with the [[Dryad]] [[Thomas|chief]] now
+- We all get a skill proficiency bonus
+- Onwards to the twilight moon ritual or whatever
+- End up at the moon sanctum of the [[Dryad]]s'
+- Gab stalls by "channeling the moon goddess" to "change the music"
+- Moonpool shows realities that could have been, but aren't for better or for worse
+- Moonpool means Gab is sending some DMs
+	- [[Ardric]] has peeped the horrors. He did not wish to see what he saw, which was what might have happened if the false hydras had not been stopped
+	- [[Advena]] is a bit shaken up. She saw what she assumes to be the [[Cain|person she is tracking]] using their power to perform actions of questionable moral origin
+	- [[Olivia]] saw the [[Assassin's Guild]] taking over as if the group had not beaten it
+	- [[Emi]] witnessed all of the [[Dryad]]s being dead. Assumption is that she is a major reason they have not been killed
+	- [[Fish]] is told he radiates a strong kindness by [[Thomas]] upon approaching the pool. He then peeps the horrors of [redacted]
+	- [[Ave]]'s turn! [[Thomas]] describes her as having an explosive personality. She saw [[Harr & Son]] becoming full blown war profiteers
+	- [[Melody]] does not care to know what the pool would show
+- The moon pool is a gift from the moon goddess, [[Sehanine]]
+- Suddenly targeted attack from Gab saying "You need to learn to accept the kindness you show others for yourself"

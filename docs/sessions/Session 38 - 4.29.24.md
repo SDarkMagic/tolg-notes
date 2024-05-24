@@ -1,0 +1,48 @@
+---
+tags:
+  - dnd
+  - sessions
+  - notes
+---
+# Dream Sequence
+- [[Cain]] and [[Ardric]] meet again in the dreamspace. This time at the magical armory of [[Armorynd]]
+- According to [[Cain]] [[Olivia]] gets to [[Ardric]] because he's terrified of her
+- [[Cain]] is going to try to get to [[Ardric]] starting tonight
+- [[Cain]] is going to ask [[Ardric]] to do stuff for him every night
+	- Tonight is put on the crown
+	- Ask [[Melody]] why he thinks [[Belphegor]] didn't attack the [[Fae]]
+- [[Cain]] is threatening to erase [[Ardric]]'s most precious memories if he doesn't do it
+- 9th LEVEL MODIFY MEMORY?!?
+- [[Advena]] uses detect thoughts on [[Ardric]] to actively enter his dream
+- [[Cain]] is now threatening [[Greelee]] if [[Advena]] continues to interfere
+- [[Ardric]] manipulates his dream to change the location and unparalyze himself
+- [[Cain]] is pulling off his face?!?
+	- There are now two more of them
+- [[Ave]] shakes [[Ardric]] awake, ending the dream
+# General
+- [[Jason]] attempts to comfort [[Ardric]]
+- Tonight is a full moon
+- [[Ardric]] relays the events of his dream to [[Team One Large Guy|the party]]
+- [[Cain]] believed the crown was still on [[Olivia]]'s person
+- [[Cedric]] gives [[Ardric]] the ring of mind shielding
+- The cabin makes a cookie brick
+- The brick stays in the cabin indefinitely now
+- We now head to the [[Mail Squirrels]]
+- The [[Mail Squirrels]] are able to convert denominations of currency like a bank
+- [[Ave]] bites a platinum piece
+- We are crowdfunding a ring of mind shielding
+- [[Murder Thunderdome|Murder Thunder]] time
+- [[Ardric]] has a phantom steed now
+- We're fighting steel death (round 2)
+- [[Ave]] and [[Emi]] both heat metal one of the golems
+- oops steel death can self destruct
+	- [[Olivia]] and [[Ave]] save and it does nothing
+- [[Fish]] does a casual 45 damage
+- [[Olivia]] is exploding the last golem while [[Fish]] and [[Ave]] are next to it, causing it to self destruct since she can "healing word them" afterwards
+- We killed steel death TWO
+- Double or nothing time, the map is flooded
+- [[Cedric]] forgot he knew water walk with how afraid of the water he was
+- We're fighting the water which is turning into a hydra
+- oops the olhydra does water to acid and [[Ave]] is underwater
+- [[Emi]] gets better call lightning because this idiot olhydra made the weather stormier
+- 

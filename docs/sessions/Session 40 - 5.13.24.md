@@ -1,0 +1,92 @@
+---
+tags:
+  - dnd
+  - sessions
+  - notes
+---
+# General
+- Oop we're all surrounded now
+- We're told we can leave peacefully if we return everything we took
+- [[Advena]] tries to keep the mask of voices, and gets seen
+- The [[yuan-ti]] don't know what the mask is
+- [[Ave]] has been stacking books while everyone else is dumping their items
+- [[Ardric]] is trying to convince the [[yuan-ti]] that he was just helping when he healed the ones that were being werewolfed
+- [[Ardric]] is now asking them why they're here/if there was anything else in the area
+- Everyone begins to head out and leave the area
+- The [[yuan-ti]] are looking at [[Olivia]] inquisitively with a hint of malice as she passes
+- They knew that [[Melody]] was there the whole time. [[Ardric]] blames it on [[Melody]] being timid
+- [[Ave]] shares some of the book covers of the books she found
+- [[Amber Thornclaw|Amber]] is returning from the cemetery, but [[Flint]] is nowhere to be found...
+- [[Melody]] is suggesting we "kill" them ([[yuan-ti]]) with kindness
+- [[Ave]] begins to repair one of the houses, and does not get far before the rest of the party notices
+- [[Flint]] comes back and says we're gonna need more manpower
+	- The [[yuan-ti]] have been asking [[Flint]] to give them control of the [[Redwood|village]]
+- The [[Manyvoice Mask]] comes from the [[astral plain]]
+	- It was sitting there for a few years
+- [[Advena]] is asking [[Ave]] why she was so abrupt with wanting to keep it
+- [[Ave]] was afraid it was going to [[Harr & Son]]
+- [[Olivia]] comes over to share the order ledger that she found in the hideout
+- [[Jason]] is making another attempt to devour the brick
+- [[Ave]] drinks 10gp worth of arcane ink to learn what it's composed of
+- [[Cedric]] is consensually reading [[Ardric]]'s thoughts
+- [[Ardric]] is attempting to show [[Cedric]] his memory of when he first got his name
+- He then shows [[Cedric]] a memory of the library in [[Knotts]]
+- [[Melody]] solos the first night watch
+- [[Ardric]], [[Emi]], and [[Ave]] take the next nightwatch
+	- [[Amber Thornclaw|Amber]] was sneaking out for a night stroll
+	- She's going to [[Flint]]'s cabin
+- [[Ave]] gives [[Ardric]] 100gp of arcane ink
+- One of the books [[Ave]] found was written by [[Emi]]'s father
+- [[Ardric]] was wondering about [[Sehanine]]
+	- What her roll in things actually is
+- [[Ave]] is not fully aware of what the moon is
+- [[Emi]] does not have much insight into [[Sehanine]]'s way of things
+- [[Emi]] and [[Ardric]] are flexing their moon powers and realizing their similarities
+	- [[Ardric]] didn't dip into the orb for the casting he did
+- [[Ardric]] ritually casts ceremony to create a vial of holy water and gives it to [[Emi]]
+- [[Jason]] can make holy water?!
+- [[Ave]] almost beats [[Ardric]]'s deception?
+- why does [[Cain]] have [[Ardric]]'s number but not [[Ave]]
+- [[Ave]] struggles with detachment from any kind of real biological family
+- [[Emi]] offers to use scrying to locate [[Awan]] for [[Ave]]
+- [[Jason]] has become an animal messenger to deliver letters to [[Emi]] and [[Ardric]] parents
+- [[Olivia]], [[Advena]], and [[Fish]] take the last night watch
+- [[Olivia]] is questioning [[Advena]] about what happened during [[Session 38 - 4.29.24#Dream Sequence|Ardric's dream]]
+- [[Advena]] has realized it will take a lot more effort, time, and power to actually get information from [[Cain]] than she had initially thought
+- [[Advena]] doesn't trust [[Olivia]] enough to give her a concrete answer to if she's being troubled by something
+- [[Fish]] is explaining the [[Endless Stream]] to [[Olivia]] and [[Advena]]
+- [[Olivia]] feels like she's not allowed control of her life
+- There's a [[yuan-ti]] in the distance watching them
+	- [[Olivia]] waves
+- mindblower is a firearm with no reloading properties and very long range
+- Project lemonade mentions reviving dead dragons
+- apparently there's a sea elf town that does a lot of lemon related products
+- [[Ardric]] went to sleep
+- [[Cain]] is trying to remove a memory from [[Ardric]]
+- [[Ardric]] casts fog cloud on himself
+- [[Cain]] cannot see through fog, has true sight though
+- [[Cain]] command grabs [[Ardric]] then uses modify memory
+- "go tell my disappointment of an offspring her whore of a mother has never loved her and her only family she has is me." - [[Cain]]
+- [[Ardric]] has lost the memory of how he got his name
+- [[Cain]] told [[Cedric]] he was helping
+	- [[Cain]] will now be chasing [[Barren Height]]
+- [[Ardric]] forgot to inform [[Cedric]] that he knew of this before getting his memory back
+- [[Olivia]] places a zone of truth while the party interrogates [[Ardric]]
+- [[Advena]] has wandered off somewhere
+- [[Ardric]] is once again trying to be overly selfless to his own detriment
+- [[Melody]] is debating with [[Ardric]]
+- [[Melody]] is psycho-analyzing [[Cain|Cain "Napoleon"]]
+- [[Melody]] spittin'
+	- He refuses to be stagnant again
+- [[Ardric]] sad
+- [[Cedric]] was not "alright"
+- [[Ave]] is attempting to calm [[Advena]]
+- [[Emi]] uses greater restoration on [[Advena]] to try and get her memories back
+- [[Advena]] catches a brief glimpse of her older memories before the spell seems to reverse
+- [[Olivia]] tries to cast remove curse at the same time
+- [[Advena]] sees her memories coming back, however [[Cain]] is constantly lurking in the background of them
+- [[Melody]] has made cannoli for everyone
+- [[Fish]] says a prayer to Melora before consuming a cannolo
+- [[Cedric]] uses sending to warn [[Barren Height]]
+- [[Emi]] canonically has narcolepsy now
+- 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

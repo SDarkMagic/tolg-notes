@@ -1,0 +1,42 @@
+---
+tags:
+  - dnd
+  - notes
+  - "#sessions"
+---
+# General
+- [[Jason]] is investigating the tunnels and heading towards eggs
+	- They are very tiny eggs
+- [[Kruthiks]] are eating the eggs
+- There is a purposefully covered hole in the room [[Team One Large Guy|we]] are in
+- BIG DUDE IN TUNNEL SLEEPING
+- Two [[Neogi]] are threatening the [[Kruthiks]]
+- We climb into the pit...
+- [[Ardric]] and [[Cedric]] get seen by a [[Kruthiks|Kruthik]] and is TERRIFIED
+	- Runs away screaming "Swarm Slayer"
+- [[Fish]] is going to check on the eggs alone
+	- There was one there that seemed preserved
+- The [[Kruthiks]] are running away
+- Oh hey they force wisdom saves :D
+- They want to eat the egg?!?
+- [[Olivia]]'s turn, the first [[Neogi]] dies
+- [[Fish]] moves 90 ft without using an action
+- [[Fish]] does 41 damage to the bug for appearing with JUST smite bonus
+- The [[Nagpa]] made a deal with [[The Great Eye]] for power
+- The [[Nagpa]] were trying to get the [[Tabaxi]]s as well, however it never worked and the plan was foiled
+- We're bargaining with the remaining [[Neogi]] now
+- Dude leaves, we're taking the egg back to the spiders?
+- Turns out it was the princess spider egg
+- [[Fish]] is going to hold onto the egg until we get to the queen
+- The cathedral is unlocked? 4 voices speaking in common can be heard within
+- According to the [[Nagpa]] a *certain monstrosity* is going to happen very soon
+	- The start of a *small* calamity
+- Huge party of [[Drow]] on their way to [[The Great Eye]]
+- Portal with a face in it at the back of the room
+-  [[Arastra]] is suspended above the entrance with the effect of the great eye present behind her eyes
+- [[Advena]] is putting the birds in the bubble?
+- [[Ave]] goes from 68 to 9 hp in one turn
+- [[Emi]] gets feeble minded
+- [[Arastra]] has rizz
+- [[Ave]] is now mind controlled
+- 

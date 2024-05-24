@@ -1,0 +1,81 @@
+---
+tags:
+  - dnd
+  - notes
+  - sessions
+---
+# General
+- [[Amber Thornclaw|Amber]] and [[Olivia]] are having a moment
+- [[Olivia]] then has to share that the rest of the family ([[Sapphire]] and [[Flint]]) are dead
+- [[Fish]] is introduced to [[Amber Thornclaw|Amber]]
+- Time for [[Amber Thornclaw|Amber]] to go meet everyone
+- [[Melody]] is playing rock paper scissors with [[Topi Topi]] and [[Ave]] jumps in with bomb
+- [[Emi]]'s turn for greetings
+- [[Amber Thornclaw|Amber]] knew of [[Vesta]] somewhat as she visited the [[Dryad]]s occassionally
+- [[Ardric]] gets introduced and does not have situational awareness
+- [[Amber Thornclaw|Amber]] is asking [[Fish]] if he's actually catching anything while fishing. [[Fish]] SURE IS, and rolls a nat 20
+- [[Melody]] is describing the Fey traditions of slashfests and rock paper scissors
+- [[Advena]], [[Ave]], and [[Melody]] get to meet [[Amber Thornclaw|Amber]] now
+- [[Topi Topi]] is working on homebrew rock paper scissors
+- [[Amber Thornclaw|Amber]] gives [[Ave]] the tragic news that she's permanently susceptible to becoming a chicken most likely
+- [[Amber Thornclaw|Amber]] has a familiar named [[Tipsy]] who is a rat
+- [[Jason]] was found in a shipwreck
+- [[Jason]] attempts to fish.
+	- got an 18 and caught a fish by himself?!?
+- Today is thanksliving
+- [[Melody]] is told he's allowed to be insensitive
+- [[Frederick]] is incapable of operating a musket
+- [[Amber Thornclaw|Amber]] is going to be with the [[Dryad]]s while [[Team One Large Guy|we]] go hunting
+- We are greeted by [[Alex]] and [[Andher]] at a cabin in the north of the [[Fae Wild]]
+- There have been [[Surveyors]] spotted in the wild where the hunt will be happening
+- [[Dude]] is giving us the run down of the hunt
+- [[Ardric]] flexes in front of the gate causing it to burst open
+- [[Ardric]] falls victim to the first [[Surveyor]] and needs to fill out the survey
+- Follow the invisible feather trail
+- [[Ave]] gets charmed and jumps in the water
+	- All of the water reacts to [[Ave]] jumping in
+- The water does not freeze when shape water is used on it and it doesn't appreciate shape water
+- [[Melody]] tries to pull [[Ave]] out of the water, who tries to pull him in as well. [[Melody]] rolls a nat 1 on grapple acrobatics check for a 13 meeting [[Ave]]'s 13 athletics check
+- [[Fish]] alone knows all the feathers are not real and are actually a phantasmal force trying to trick us
+- The voices suggest throwing [[Olivia]] into the water
+- Water nymph or fairy in the water
+- [[Melody]] has the only real feather
+- [[Ave]] eats her feather with it disappearing while she swallows
+- The barrels are hiding, and speak abyssal
+- [[Ardric]] is conversing with the barrels
+- [[Ave]] performs box surgery deftly on the mahogany box, extracting the cancerous scroll like tumors from within
+	- They were the phantom steed and see invisibility scrolls
+- [[Ave]] procures a cloak of protection from her bag of holding that apparently no one knew she had?!
+- [[Melody]] is saying grace as is thanksliving tradition before we hunt the turkey
+- The turkey is dead, something else is eating it
+- The unseen servant is running for it's life after attracting the attention of the beast
+- ![[Pasted image 20240415123748.png]]
+- This idiot ate the cloak of protection
+- [[Ave]] catapults an alchemist's fire at it to get it's attention before it retreats
+- [[Advena]] casts fireball dealing 31 fire damage to it
+- It's [[Olivia]]'s turn. She gets two crits
+- [[Emi]] ults and kills the thing
+	- It did not get a turn
+- ![[Pasted image 20240415125552.png]]
+- We were lied to
+- [[Ardric]] is using a splatter color screen on something
+- [[Melody]] redirects [[Terry]]'s attack to a minion vaporizing him
+- [[Terry]] downs [[Melody]]
+	- The [[Session 36 - 4.12.24#War|literal war]] was not able to do this
+- [[Advena]] is also down
+- [[Emi]] casts big heal on everyone
+- [[Melody]] gets back up and kills the turkey
+- [[Terry]] mythic actions and undies?!
+- [[Melody]] burns ~20 different resources to succeed a strength check to hold [[Terry]] into a fireball from [[Advena]]
+- die for real this time idiot
+- [[Ave]] freezes a turkey for later
+	- she freezes a second too
+- Cloak of protection has been recovered
+- 8 upgrade jellies and several items in the nest
+- [[Ardric]] can now speak with trees
+- [[Advena]] vortex warps the [[Surveyor]] into the water
+- banquet time, everyone is telling each other to die
+- This was [[Melody]]'s first thanksliving
+- Talking about post-adventuring goals for people
+- Each group present ([[Hags]], [[Dryad]]s, [[Mail Squirrels]], and [[Fae]]) send a representative forwards for diplomatic relations where various profanities are spewed at one another endearingly
+- 

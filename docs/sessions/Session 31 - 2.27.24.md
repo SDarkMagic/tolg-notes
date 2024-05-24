@@ -1,0 +1,74 @@
+---
+tags:
+  - dnd
+  - notes
+  - sessions
+---
+# General
+- [[Emi]] is losing her sanity after having almost died
+- [[Cedric]] was fighting for his life in the [[Murder Thunderdome]] bathrooms for two days
+- [[Ave]] is taking a lot of water :)
+- The dragon's name is [[Alma]]
+- Things are currently in stasis after the brain got cut off
+- The new host for the intellect devourers is ideally high intelligence so that it can become a new elder brain
+- [[Ardric]] is speaking with the dead brain
+	- Brain answers to [[The Great Eye]] exclusively
+	- Only one elder brain per squad/region
+	- When a [[Mind flayer]] becomes [[Illitherid]] it chooses one location and creates a pool of small tadpoles to get energy then morphs into an elder brain
+	- [[Advena]] asks if the brain sensed any individuals entered the area prior to us, and if they knew where it went.
+		- It sensed an individual named [[Nelrisah the ambitious]]: Great [[Nagpa]] mage
+- [[Ave]] has accidentally drank the fountain water :)
+	- permanent +1 to a given stat. (wisdom for [[Ave]])
+- [[Ardric]] is terrified of [[Ave]] becoming stronger
+- [[Jason]] is being sent as a distraction for the hydras
+- [[Advena]] cannot lift the baby dragon
+	- The hydras have heard the turtle fall back in the water
+	- [[Jason]] unarmed strikes the hydra
+- dimension door the turtle
+- [[Advena]] falls into a dimension door with the turtle
+- [[Cedric]] is going to look at the mural
+- While in the [[astral plain|astral sea]] the monks told [[Cedric]] about this mural, and left a message
+> 	before the calamity, a few bullywug seers predicted what would be the greatest cataclysm of all times, the end of time the great mage wubwub looked into the sacred foutain, and in the reflection, saw the beginning of the end  One day, a man so obsessed with days, was wishing to stop the very wheel of time so he studied, he bargained, he betrayed, he cheated, lied, destroyed and burned everything he could for the wheel cannot stop  so he forged alliances one with the green enchantress of manipulation one with the great flame beast of envy and one with the great eye of chaos for the wheel cannot stop  all them felt that time owed them  robbed them of glory and they would get what is due for the wheel cannot stop  but time , very much like a living thing, reacted every ripple creates waves and these waves became dreams  One wave from a tabaxi knight one from a fairy warrior one from a half-orc scholar one from a human archer one from an volatile sea elf one from a fire sorceress one from a tabaxi of fist and magic and one from a wizard of two worlds  Time would stop the man for obsession is nothing but forced meaning the great war is coming for the wheel cannot stop
+- [[Ave]] has shared the book she acquired in [[Session 29.5 - 2.20.24]]
+- The [[boolywog]]s at the fountain are gone??!?!
+- [[Ardric]] drank the water from the fountain
+- [[boolywog]]s, [[River]], and a [[Nagpa]] are conversing with a greater image of a [[Mind flayer]] in the next room. The [[Nagpa]] has figured out how to give people eyes without it being able to be affected by remove curse
+- [[Tabaxi]] village is the next target
+- [[Mind flayer]] saw us and dipped saying something about [[The Great Eye]]
+- [[River]]'s eyes have a red spiral eye with hard edges
+- We are shooting river with a wet arrow with fountain water
+- [[River]] would have died if we did more than 19 damage. [[Olivia]] did 18 dmg
+- shape water fountain water came in clutch when [[Olivia]] tipped a healing arrow with the water
+- also there is something in the water
+- [[Emi]] did plant growth and now we can walk on top of the algae on the water
+	- This forced big dudes out of the water, and they are not happy
+- [[River]] rolls a nat 20 on a charisma saving throw against the [[Nagpa]]
+- INSPIRATION ON NAGPA SAVED THE DAY
+- THE NAGPA HAS FIREBALL AND DEATH RAY RIVER IS DOWN HELP
+- [[Ave]] and [[Advena]] get eaten by froghemoths while both going down
+- [[Melody]] got a soft 20 by rolling a TWO?!?!
+- *notes on pause anxiety is happening*
+- [[Nagpa]] is doing dominate person on [[Fish]]
+	- [[Fish]] is now gonna kill [[River]]
+- [[Advena]] vortex warps [[River]] to the other side of the map, causing [[Fish]] to run laps
+- [[Melody]] hits the nagpa, asking if he remembers us now, to which it responds "no." [[Melody]] counters with "Sorry, I'm racist."
+- [[Nagpa]] did contingency plan and DIPPED AGAIN
+- Dirty one on a wisdom save for a froghemoth?!?
+- [[Olivia]] gets two nat 1s in a row
+- WE DID IT! [[River|RIVER]] LIVES
+- [[River]]'s thoughts were forced into going back to a dark place
+- [[Nagpa]] teleported to somewhere that leads to the [[Underdark]]
+- King boobadoob tried to please most of the gods with [[boolywog]] sacrifices
+- The hydras were the "guard dogs" for this temple
+- The eye problems are in the water
+	- [[astral plain]] equivalent of water weirds
+- One of [[River]]'s eyes became all white before both turned red (The right eye)
+- [[Emi]] drinks the fountain water
+- The entire party is not trusting of [[Emi]] after she drinks the water despite forgetting [[Ave]] and [[Ardric]] doing the same
+- The party is now all taking hits of the water, slowly becoming addicts
+- [[Alma]] is sleeping with her baby when [[Melody]] approaches them
+- [[Alma]] is familiar with [[Belphegor]], calls him the "worst"
+- [[Alma]] knows about [[Deborah|Debbie]]?! Warned the [[boolywog]]s in the area about her
+- according to [[Alma]] the [[Nagpa]]s are trying to build a [[Mind flayer]] army?!?!?!
+- [[Melody]] asks for parenting tips as he is now with child
+- Things near [[Alma]] have interference to their connection to the [[illithids]]

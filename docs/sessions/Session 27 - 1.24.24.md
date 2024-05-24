@@ -1,0 +1,46 @@
+---
+tags:
+  - notes
+  - dnd
+  - sessions
+---
+# General
+- [[Ardric]]  holds important part of the future. Entire party in fact does
+	- We are hearing this from [[Caiphon]] through [[Jason]]
+	- [[Cain]] is aware of this and wants us gone?
+- Entire party offered battle knowledge
+- [[Jason]] gets the anti spiral eyes
+- Everyone gets a fighting style now ig
+- [[Caiphon]] is going to attempt to prevent [[The Great Eye]] from coming back
+- The crown is from [[Cain]], apparently being used to manipulate [[Ardric]]
+- [[Olivia]] is now in possession of the crown
+- We are in the [[Temple of Caiphon]] currently. Previous room has a statue of [[Ave]]'s mom
+- [[Melody]] thinks [[Awan]] is gorgeous or smth ig
+- Different rooms are all taken from different regions of the [[Material Plain]] 
+- The cat is [[Lord Timmin]] or smth ig
+- also I guess we are dragging [[Justin Spic]] along with us now since [[Melody]] promised to cook for him later or slit his throat
+- [[Ardric]] is very territorial about this crown
+- [[Ardric]] doesn't trust [[Olivia]] ig
+- Mans is perfectly fine with just dying
+- [[Ardric]] sees the rest of the party as contingencies for if he fails
+- "We are not who we are by the actions we did in the past, we are because of the actions we do." - [[Melody]]
+- *30 minutes later* **PLOT PROGRESSION WOO** we are now going up to the eye dudes
+- Beholder dudes are starting to get sus of people not responding to their contact attempts
+- Justin volunteers as tribute. almost forgor insight check
+	- he was gonna squeal
+- apparently the beholders have an antimagic field
+- [[Olivia]] remembers she can speak with animals. It is time to commune with [[Lord Timmin|The cat]] 
+- Cat is putting in a good word. The backup plan is murder
+- Magical cat door appears and [[Lord Timmin]] goes in
+	- this man rules the place. We get to leave with no eye stuff
+	- [[Ave]] overcomplicates rebuilding a furnace
+- We are in a new area of the fey wild [[Emi]] knows about this place
+- Random sylvans here now I guess. Apparently they know [[Emi]]
+- [[Syliva]] is the dryad we meet
+- We are now entering the town of [[Blossom]]
+- [[Emi]] has chosen to not tell us about ANY of this despite CLEARLY knowing about it
+	- visited here while she was wandering the [[Fae Wild]]
+- Sign on a statue labelled [[Amber Thornclaw]] 
+- Residents of [[Blossom]] would have felt it if [[Amber Thornclaw]] had died
+- They've been getting visits from probably [[Deborah]]
+- 
