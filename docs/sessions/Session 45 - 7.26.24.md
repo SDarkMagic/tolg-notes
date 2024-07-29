@@ -1,0 +1,67 @@
+---
+tags:
+  - dnd
+  - sessions
+  - notes
+---
+# General
+- We're all invisible in the workshop through the portal currently
+- [[Ardric]] opens a door in the same room as an employee who sees it and pulls a gun
+	- He falls into a room with more of the machines
+	- The dude starts throwing sand around to see if anyone is there
+- The rest of the party makes their way into the room with [[Ardric]]
+	- [[Cedric]]'s ring starts glowing as we enter the room, but only he knows it's happening since we're invisible
+- [[remote/docs/characters/players/Ardric|]] [[Ardric]] stealthily opens the next door
+	- He enters a room with a generator and some machines guarding it in standby mode
+	- It's the power for all of the manufacturing around here
+- [[Olivia]] peaks into the central room, and sees that [[Harr]] is making good progress on the body construction
+- The next room is a refinery where a material of some kind is being extracted
+	- Mostly oil and minerals
+	- Nitroglycerin
+- All four doors need to be unlocked simultaneously
+- [[Fish]] manages to take the key without a problem
+- The party splits into groups of two on each of the doors
+- [[Ave]] remembers the golems from the [[Assassin's Guild]] perfectly out of pure spite
+- [[Advena]] asks [[Ave]] what she wants done with [[Harr]]
+- The party all enters at once and the guard raises the alarm
+- [[Melody]] attacks the guard for 29 damage, instantly killing him
+	- (He cleaved him in half)
+- [[Harr]] is surrounded by a wall of force and the two robots are patrolling on standby
+- He's stress working on the body trying to finish it as soon as possible
+- [[Melody]] casts reduce on [[Harr]] 
+- [[Advena]] dimension doors herself and [[Ave]] in
+- [[Ave]] starts whacking the body to try and destroy it
+- [[Harr]] sees [[Ave]] and causes animated coins to appear and attack [[Advena]] and [[Ave]]
+- [[Advena]] finished what [[Ave]] started and destroys the body, which triggers all the nitroglycerine inside it
+- [[Harr]] looks at [[Advena]] and casts heat metal on her
+	- Causing her to drop her scimitar
+- The entire facility goes on high alert as all [[The Enlightened]] from earlier start moving to surround us
+- [[Harr]] says he won't hurt [[Ave]] but aims at [[Advena]] and begins unloading his gun into her
+	- He smiles when he sees [[Advena]] drop dying to the floor
+- [[Ardric]] walks towards [[Harr]] saying: "You know it wasn't a good idea to work with him"
+- [[Ave]] uses the lightning launcher to arc lightning between the gold coins killing half of them
+- [[Olivia]] uses life transference to heal [[Advena]]
+- [[Fish]] shoves the giant robot and immediately manages to hide behind a nearby boulder before it can see him
+- silvery barbs from [[Ardric]] turns a nat 20 from all the minion robots into a nat 1
+	- Gab considers this a normal attack, it deals 75 damage to both [[Emi]] and [[Olivia]] downing [[Cedric]] and [[Olivia]]
+- [[Harr]] shoots at [[Advena]] 3 times, missing the first 2
+- [[Melody]] then shields [[Advena]] through the wall of force using his spectral hand to phase through it
+- Just before [[Ave]]'s turn, [[Harr]] throws a bomb in the wall of force dealing 32 fire damage (halved by everyone but the coin)
+- [[Ave]] summons [[Frederick]] to cast cure wounds through him onto [[Emi]]
+- Big Robot gets out of the tube and tries to use hold person on fish
+- [[Olivia]] morbs. (werewolf moment)
+- According to [[Harr]] the calamity is coming again and it's gonna be worse
+- He then tries to hit [[Advena]] with his smithing hammer while she's incapacitated
+- [[Melody]] redirects the second hammer attack preventing [[Advena]] from fully dying
+- [[Melody]] commanding strikes to let [[Ave]] take an action
+- She body blocks the strike
+- [[Harr]] claims that [[Advena]] worked for [[Cain]] (Only [[Ave]] got this lore drop)
+- [[Ave]] gets banished back to outside of the portal. as it closes
+- She rebanishes herself back to the astral plain and the workshop, sprints back towards the group, and misty steps back into the wall of force
+- [[Harr]] is self-destructing the facility now
+- [[Olivia]] uses a mass healing word and gets [[Advena]] back up in the process
+- [[Melody]] gives [[Ardric]] a scroll of blink and chime of opening before passing out from exhaustion
+- [[Ardric]] breaks the wall of force with some booming blade shalleleigh shenanigans
+- [[Ave]] jumped [[Harr]] while he was distracted being depressed with [[Ardric]] and has put him into the bag of holding
+- Everyone somehow makes it out of the facility
+- WE ALSO LEVEL UP?!?!

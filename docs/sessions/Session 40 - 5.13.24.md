@@ -86,7 +86,6 @@ tags:
 - [[Olivia]] tries to cast remove curse at the same time
 - [[Advena]] sees her memories coming back, however [[Cain]] is constantly lurking in the background of them
 - [[Melody]] has made cannoli for everyone
-- [[Fish]] says a prayer to Melora before consuming a cannolo
+- [[Fish]] says a prayer to [[Melora]] before consuming a cannolo
 - [[Cedric]] uses sending to warn [[Barren Height]]
-- [[Emi]] canonically has narcolepsy now
-- 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
+- [[Emi]] canonically has narcolepsy now 

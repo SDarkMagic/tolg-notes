@@ -53,4 +53,29 @@ tags:
 - her father calls [[Nadine]] oblivious
 - He has exclusively raspberry bushes
 - [[Nadine]] gifts [[Emi]] a new outfit with the message "Go Get em lil phoenix" attached to it
-- 
+- Shopping montage time
+- We all go the library, [[Ave]] searches for ALL of the books she stole from the [[Assassin's Guild]]
+- [[Ardric]] gets a book on dreams
+- We're at the beach now, getting
+- [[Melody]] wonders what would happen if we killed everyone on the other side of the ocean
+- The boat is taken out and we struggle to figure out how to get it out to sea
+- [[Ave]] tries to summon a shark and fails
+- Everyone gets into the boat carriage thing
+- [[Ardric]] uses telekineses to drag [[Cedric]] onto the boat then move it out to sea
+	- He also uses minor illusion to put a bag over [[Cedric]]'s head
+- Only [[Melody]] gets seasick from being on the boat
+- [[Ardric]] has realized we do not know how to get where we're going
+- We see a whirlpool
+	- It's the entrance to [[Dofleini]]
+	- [[Team One Large Guy|The party]] apart from [[Ave]] does not really know this information
+- The continent of [[Mizunia]] is missing
+- [[Ardric]] jumps into the whirlpool
+- The boat is struggling as the whirlpool pulls it in
+	- [[Fish]] stops the wheel from spinning out of control
+	- [[Melody]] manages the sails
+	- [[Ave]] repairs holes in the hull using shape water to close them
+- [[Ave]] is time blind :3
+- [[Emi]] went unconscious on hearing we were going in the whirlpool
+- [[Cedric]] is walking into a wall with the bag on his head
+- [[Advena]] left her pumpkin on the table in the library
+- We are now at [[Dofleini]]

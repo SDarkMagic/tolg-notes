@@ -1,0 +1,87 @@
+---
+tags:
+  - sessions
+  - dnd
+  - notes
+---
+# General
+- The mech begins to target [[Melody]]
+- This thing has lasers?!?
+	- 70 POINTS OF FIRE DAMAGE AOE?!
+- [[Melody]] knocks the mech prone with the grease thrown onto it from [[Session 43 - 6.17.24|last session]] and it uses all it's movement trying and failing to move
+- [[Olivia]]'s first turn. Crit + shadow arrow on the first shot
+- This guy has a shield
+- [[Ave]] hits a shatter dealing 14 thunder damage to ALL parts of the mech since it got a nat 1 on the con save
+- [[Cedric]] hits all parts for 35 points of NON RESISTED fire damage with a fireball
+- [[Ardric]] hits it with a synaptic static dealing NO damage
+- [[Melody]] makes the robot hit itself with a stomp instead of him
+- [[Melody]] is down
+- [[Ave]] attacks the mech again, provoking [[Harr]] further
+- So [[Melody]] is now dead...
+	- He's starting to dissolve into fairy dust?!
+- [[Ardric]] shunts the mech into the portal, causing it to get sucked in
+- [[Advena]] vortex warps [[Emi]] to [[Melody]]'s dissolving body
+- [[Emi]] grabs one of [[Melody]]'s arms, which dissolves into fairy dust
+	- When he gets revived, he's lost his left arm
+- [[Fish]] runs to the portal to try and find a way to close it
+- ![[Pasted image 20240703125526.png]]
+- [[Fish]] cuts the portal arch in two, causing it to begin fading
+- A new portal begins to open in a different area
+- [[Ave]] succeeds a medicine/survival check?! [[Melody]] is still incapacitated
+- [[Ave]] tries to catapult several bombs into the portal in a pouch, which all fail
+- [[Cedric]] uses detect thoughts on [[Melody]]
+	- He's thinking of blue trees, green grass, and himself at a table with [[Cadence]] in the middle of the river with no words heard
+- [[Ardric]] casts sickening radiance around the portal while telling everyone to get out
+- [[Advena]] drinks a potion of speed and begins dashing towards the portals then hides in the grass nearby to hold a spell
+- The engines that were ordered to come towards us are no longer approaching, however the mech can be heard in the portal
+- [[Cadence]] is consoling [[Melody]]
+- The mech is back -\_-
+- [[Advena]] vortex warps the mech back into the portal
+- "Avoiding your responsibilities [[Ave]], you are [[Cain]]'s daughter" - [[Harr]]
+- [[Fish]] shoots the helm through the portal, and it sounds as if it broke
+- [[Olivia]] heals [[Melody]] for 66hp, as the light briefly fades from her eyes
+- [[Emi]] and [[Advena]] look at each other, as [[Advena]] casts 3rd level fireball into the portal
+- [[Emi]] flame strikes the portal, and the two of them finish the mech
+- [[Ave]] fills the helm with lead as it rolls out of the portal
+- [[Melody]] is now panicking that his arm is missing
+- [[Ardric]] sets off the signal flare that had been planned earlier
+- [[Advena]] sends [[Belle]] into the portal where the sounds of industry and heavy machinery are heard
+- [[Belle]] is in a lobby with three doors
+- They're making a new body for [[Cain]]?!
+- [[Ave]] and [[Advena]] fix the portal
+- There are noises in the wall near where [[Ave]] found the [[mind blower]]
+- THERE'S DRAGON REMAINS IN THERE?!
+	- Project Lemonade
+- [[Olivia]] is trying to rip machinery out of the dragon, but fails to do so and feels like her life draining from her
+- The carcass briefly moves as this happens
+- [[Ardric]] gentle reposes the corpse
+- [[Ardric]] is now going to talk with the corpse
+	- Bro is from the great dragon clan led by [[Mammon]]
+	- A human wizard slayed the dragon back in the great war
+	- [[Ardric]] determines it was a white dragon
+	- Name was [[Etna]]
+	- We're taking this body back to [[Mammon]]
+- [[Ardric]] is fine with us hiding [[Etna]]'s remains and not informing him
+- We reopen the portal, and enter it together after a short rest
+- [[Advena]] finds a key stuck to the underside of the desk
+- [[Harr]] is working on a mechanical body that looks just like [[Cain]] and is protected by the two body guards from the [[Assassin's Guild]]
+- [[Ardric]] makes half the group invisible
+- [[Advena]] makes the other half of the party invisible
+- [[Ave]] plants a bomb in the boiler room
+- [[Ave]] is confounded by having to talk with someone while invisible
+	- She takes the #1 key off her waist then walks out and leaves the door open
+- The next room has a container with bugs in it (angry bugs that look problematic)
+- The right side of the factory starts with a library which has a clerk in it reciting a script for her job
+- [[The Enlightened]]
+	- perfect servants
+	- Undead machine beings
+	- Designed for war
+	- Built from corpses
+- The party looks around the library in the room
+- [[Olivia]] finds a strange looking potion in the room below the library
+- Next shipment is due at the town that was destroyed [[Redwood]]
+	- They're gonna send a ton of enlightened there to clear the area
+- There's a room that's a warehouse of [[The Enlightened]]
+- The employees here are working for the [[Assassin's Guild]]
+- [[Fish]] sneaks up on the employee to yoink the key
+- 

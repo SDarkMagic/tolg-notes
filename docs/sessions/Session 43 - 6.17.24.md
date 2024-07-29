@@ -1,0 +1,93 @@
+---
+tags:
+  - dnd
+  - notes
+  - sessions
+---
+# General
+- [[Ardric]] is sopping wet from being hit by a boat
+	- [[Fish]] suggests shaking
+- We need to look around to find where [[Barren Height]] was
+- [[Emi]] is perceived riding the flying broom instead of swimming in the waterways between buildings
+- We enter [["The Underwater" Tavern]] and no one is there except the bartender who is tired
+- [[Dofleini]] is hidden more underwater now due to weapon manufacturing
+- Bartender seems scared of [[Harr & Son]]
+- [[Emi]] is confused by seafood
+- [[Ave]] has an existential crisis about her potentially being a terrorist after remembering the multitude of incidents she caused previously, including
+	- The Bolt Incident
+	- The Nut Incident
+	- The Reef Incident
+- All of these were classified as newsworthy events
+- [[Melody]] is inquiring about [[Harr & Son]]'s reputation
+- [[Harr & Son]] own almost everything in the city
+- [[Melody]] returns the rent money to the barkeeper
+- The three worst talkers are going out for diplomatic reconaisance
+- [[Ave]] has no clue how to be covert
+- the barkeeper was watching our entire conversation
+- Everyone is disguising themselves ([[Cedric]] and [[Olivia]])
+- [[Olivia]] looks similar to [[Awan]] unintentionally
+- [[Melody]] is riding [[Jason]] into the air
+- [[Emi]] is turning into a crab
+- [[Emi]] [[Ave]] and [[Olivia]] are going to the warehouse
+- warehouse has high security around it with automated defenses
+- [[Melody]] and [[Jason]] are attempting to stealthily infiltrate the warehouse
+	- Dangerous chemical smell inside
+	- 3 skeletons
+- Guard does not recognize [[Ave]]
+- [[Olivia]] persuades the guard to go check something
+- **meanwhile** [[Melody]] is getting high off of chemical fumes
+- [[Ave]] is not allowed in :(
+- [[Ave]] goes to the cave, and determines the chemical smell is battery acid
+- The guard has basic intelligence and knows where [[Ave]] went
+- [[Ave]] grabs [[Melody]] and jumps into the water from the waste disposal
+- [[Melody]] is getting lost now
+- [[Olivia]] [[Emi]] and [[Cedric]] are trying to stealth into the unguarded entrance
+- The security system is getting activated on the group inside
+- Security has been called, while [[Ave]] tries to get the sending stone to interrogate the captain about how the system works
+- Security device is similar to what [[Kupex]] used
+- [[Jason]] attempts to distract the guard after [[Ave]] fails to tackle him so the others can get out
+- The citizens are very "happy" with the state of [[Dofleini]]
+- The guards view [[Ardric]] asking questions about [[Harr & Son]] in public as causing a ruckus
+- We are now going to the [[Twilight Museum]]
+- [[Ardric]] closes the door on [[Olivia]] and [[Cedric]]
+- [[Ardric]] calls [[Ave]] weird
+- oh hey [[Dofleini]] is a mess now
+- [[Dofleini]] was attacked by [[Dragon]]s and [[Bob]]s?!?!
+	- Biggest one was [[Belphegor|red dragon]]
+- [[Tabaxi]]s talking with [[Harr]] who is becoming more secretive as of late
+	- Half [[Tabaxi]] half tentacle creature?!?!
+- Several paintings are on the walls
+- Curators are [[Judy]] and [[Marcille]]
+- Sea elf hero painting fascinated [[Ave]]. Was [[Awan]]
+- [[Emi]] forgot to prep scrying
+- [[Ardric]] is trying to copy down a sketch of the painting
+- We're going into the [[Harr & Son]] headquarters now
+- [[Ave]] delivers one stolen musket to the guild
+- [[Mims]] is confused
+- [[Ardric]] went in to talk with [[Harr]] alongside [[Ave]]
+- He is now being kicked out of the office
+- [[Harr]] is suggesting to not support [[Cain]] while offering [[Ave]] a job manufacturing weapons
+- So that conversation with [[Harr]] went about as bad as it could have
+- [[Ardric]] is discussing sabatoge with [[Ave]] *in* awakened mind
+- We're going to the warehouse now
+	- Explode it
+- Vast majority of citizens are unhappy with [[Harr & Son]]
+- [[Melody]] is back in the cave, this time with proper battery acid blockage
+- [[Ardric]], with a nat 1 on stealth, walks across the water in plain view of the guards
+- We have infiltrated the warehouse they know we are here
+- [[Ardric]] goes into the room ignoring the password device for employees
+- [[Melody]] opens the trapped chest without triggering anything
+- We're jumping a robot
+- Robots do not hesitate to crush workers when pursuing targets
+- [[Melody]] is using the chime of opening to attempt to unlock the password thing
+	- IT WORKS?!?!
+- The robots deactivate and leave
+  >HAVE YOU EVER SHOT YOUR ENEMIES IN THE HEAD AND THOUGHT MAN, THAT SHOULD’VE DONE MORE HEAD TRAUMA SAY NO MORE PRESENTING THE Mindblower fully automatic, this justice delivering sniper rifle is designed with cutting-edge magitech. It features an extended barrel for increased range and precision, a built-in scope ,target tracking, and an arcane stabilizer that minimizes recoil. The rifle can fire a rapid burst of enchanted bullets that pierce through armor, making it a formidable weapon in any ranged combat scenario. It is the preferred choice for elite marksmen, gunnuts and tyrants who need unmatched accuracy and firepower from a distance. The mindblower, they’re not ready for this
+- [[Ave]] has triggered a mechanism
+- [[Ave]] has acquired a sniper rifle called the [[mind blower]]
+- The next room has a mech in it and as it was entered, a portal started opening
+- The mech is remote controlled and unmanned
+- There are footsteps leading into the portal
+- [[Melody]] uses the decanter to cast grease under the mech
+- [[Melody]] is hiding behind the portal
+	- the mech activates

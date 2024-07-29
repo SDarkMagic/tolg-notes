@@ -1,7 +1,7 @@
 ---
 tags:
   - dnd
-  - "#sessions"
+  - sessions
   - notes
 ---
 # General

@@ -15,5 +15,5 @@ tags:
 - Killed
 	- [[Sapphire]]
 	- [[Melody]]'s mother [[Cadence]]
-	- [[Mammon]]'s wife
-- 
+	- [[Mammon]]'s wife, [[Etna]]
+	- [[Reinhardt]]
