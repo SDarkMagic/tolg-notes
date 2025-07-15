@@ -6,3 +6,6 @@ tags:
 ---
 # Bio
 - [[Ave]]'s mother
+	- Father was [[Cain]]
+- [[Sea Elf]]
+- 

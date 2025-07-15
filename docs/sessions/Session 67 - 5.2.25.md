@@ -1,0 +1,58 @@
+---
+tags:
+  - dnd
+  - sessions
+  - notes
+---
+# Combat
+- We all exit the portal and take turns landing surprise attacks on the neothelid
+- [[Emi]] moves to the next room and sees an aquarium full of strange tadpoles
+- [[Isla]] casts black tentacles on the creature
+- [[Melody]] gets hit by the creature after attacking it and trying to move out of range
+- It uses acid breath on the entire group who went to one room apart from [[Ave]]
+- [[Ardric]] looks around and learns this creature is physically attached to the dungeon
+- [[Fish]] then investigates and discovers killing it would be the equivalent of cutting off someone's finger
+- [[Melody]] takes his turn killing the creature
+- As it dies, the dungeon absorbs all of it while a ripple expands out across the floor, the dungeon seemingly entirely alerted of our presence
+# Dungeon
+- We regroup and heal up as necessary
+- [[Ave]] tries to ask the tadpoles what they are while [[Advena]] is just aware that their [[illithids]] tadpoles
+- [[Melody]] almost triggers a trap in the hall as we begin to move down it, however [[Fish]] notices the traps in time
+- He disarms the traps, learning that if he didn't properly cut it, the creature most likely would have detached from the wall and become independent
+- Another neothelid is beginning to form on the floor from discarded [[boolywog]] parts scattered about the floor
+- [[Advena]] learns the room was used to figure out what [[boolywog]] would be best used for creating monsters
+- As we proceed down the next hallway, voices can be heard from a room further down; One that sounds robotic, and one that sounds somewhat like a child's
+- In the room a small [[Beholder]] is poking around the head of a still active [[Warforged]] who isn't very enthused about this
+- [[Ardric]] knows the [[Beholder]] like creature is a "[[Death's Kiss]]"
+- We all jump it as it leaves the room, and it just ***DIES***
+- [[Advena]] lies to this [[Warforged]] saying the master sent her to get him back
+- [[Ardric]] finds a letter from [[Cain]] on a meeting table saying that he would deliver the people from [[Dofleini]] to [[The Great Eye]]
+	> To my dear collective of the ocular kind I have a brand new opportunity for you it turns out that very recently, an entire city lost most of its military prowess it would be a shame if “someone” would swoop in and “harvest” the entire city, would it not? I can send a few of “them” to assure a peaceful transaction Here are the exact coordinates, (dofleini) and no worries, the entire place is completely isolated, it would take weeks for anyone to notice Nobody fails to deliver their part of a deal with me and gets away with it Signed “the greatest man to ever be”
+- The [[boolywog]]s were not fit for mind flayer stuff, however with a few modifications they were able to be transformed to be more useful
+- [[Ave]] discovers a flesh recycling bin in the corner of the room
+- [[Melody]] checks another door and finds three [[Sea Elf|Sea Elves]] staring vacantly forward
+- [[Fish]] checks a different room which appears to be a barrack, and notices several mutated [[boolywog]]s waiting in ambush on the ceiling
+- [[Advena]] continues talking with the [[Warforged]] and learns that "master" plans to ascend soon with the [[little empress]]
+- [[Ave]] reinvestigates the cage from earlier and notices a [[boolywog]] in it who appears incredibly malnourished
+- [[Isla]] touches one of the [[Sea Elf]] and notices spirals beginning to form in their eyes as they say "Water Genasis to the next room"
+- [[Ardric]] removes curse on two of the [[Sea Elf]]as two tadpoles die and crawl out of their eyes
+- The third one is being held person-ed in place as [[Ardric]] awakened minds them to stay there
+- [[Melody]] checks the next room and sees two [[Mind flayer]]s inserting tadpoles into sea elves while some [[Elegist]]s are playing music to keep them sedated
+- [[Advena]] casts intellect fortress on [[Fish]], [[Melody]], and [[Ave]]
+- [[Melody]] opens the door, and [[Isla]] tries to twin spell banish the [[Elegist]]s sending both of them back to the [[Fae Wild]]
+- [[Emi]] peeks in the door and finishes off the [[Mind flayer]] with her third nat 20 in a row (she got two on her initiative rolls)
+- [[Ardric]] then starts blasting and kills the other one
+- [[Ave]] ritual casts detect magic in the room to find any tadpoles on [[Sea Elf|Sea Elves]] in the room
+- Any remaining [[Sea Elf|Sea Elves]] were transported elsewhere
+- [[Ardric]] reads the sign on the [[boolywog]]'s cage which just says "Don't feed the frog"
+- He will NOT shut up, which is why he was in a cage since it seemed to inocculate him against the [[Mind flayer]]'s effects
+- The elder brain is through the portal in the upper area of the dungeon, there was a squirrel there too. The [[Mind flayer]]'s didn't pay attention to the squirrel, despite him trying to get the portal open
+- [[Melody]] break dances and opens the portal
+- His name was [[Lucian]]
+- We enter the next room and find a rock in the middle
+- [[Stilts]] is melded into the rock (why is he here)
+- He has the bowl that [[Emi]] ordered
+- [[Melody]] finds 14 upgrade jellies in the room
+- The upper room contains a circle of teleporting that seems to be a one way trip
+- As we get through the portal, we encounter an elder brain sat behind the flower we conveniently need at this point in time
+- [[Ave]] [[Melody]] and [[Fish]] have intellect fortress from [[Advena]]

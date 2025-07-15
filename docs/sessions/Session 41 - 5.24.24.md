@@ -5,8 +5,8 @@ tags:
   - notes
 ---
 # General
-- [[Flint]] and [[Amber Thornclaw|Amber]] are talking about plans for rebuilding [[Redwood]]
-- [[Flint]] was planning on murdering all of the [[yuan-ti]]
+- [[Flint Thornclaw|Flint]] and [[Amber Thornclaw|Amber]] are talking about plans for rebuilding [[Redwood]]
+- [[Flint Thornclaw|Flint]] was planning on murdering all of the [[yuan-ti]]
 - The two are not super keen on the idea of living alongside the [[yuan-ti]]
 - [[Ardric]] wants to handle the situation reactively
 - the [[Assassin's Guild]] wanted [[Redwood]] for their new base since the area is fertile land
@@ -26,7 +26,7 @@ tags:
 	- [[Ave]] lip reads [[Harr]] saying that the shipment will arrive on time
 - [[Barren Height]] has the spiral eye still, but [[Harr]] does not
 - [[Barren Height]] opened a portal and just left
-- [[Flint]] and [[Amber Thornclaw|Amber]] are leaving [[Redwood]]
+- [[remote/docs/characters/Flint Thornclaw]] and [[Amber Thornclaw|Amber]] are leaving [[Redwood]]
 - [[Olivia]] tells them that [[Sapphire]] effectively adopted three girls that are now under the care of [[Mammon]]
 - [[Olivia]] is part hag and [[Deborah|Debbie]] put a curse on [[Amber Thornclaw|Amber]]'s descendants
 	- This is why she's not as strong as others

@@ -1,0 +1,112 @@
+---
+tags:
+  - sessions
+  - notes
+---
+- People are leaving the library to check on [[Artemicion]], while [[Emi]], [[Melody]], and [[Advena]] are staying behind
+- [[Advena]] wants to talk with [[Emi]] about something, which is why those two stayed back
+- They're talking about [[Emi]] potentially using reincarnation on [[Olivia]]
+- [[Advena]] is actually just more concerned about whether or not [[Emi]] will be ok
+- [[Melody]] is looking for books on slapping people with one arm?
+- [[Ardric]] is talking with the grass on the side of the library because [[Ave]] wandered off over there while they were inside
+- We stumble upon [[Cedric]] wandering in the forest
+	- He's having a terrible coughing fit
+- Upon learning that [[Cain]] wants to kill [[Artemicion]], [[Cedric]] threatens to kill him again
+- We arrive at the post office, and inform [[Cosmo]] about what is going on and why we're here
+- [[Artemicion]] just left, headed to the [[Big Fae Apple]]
+- We immediately leave to chase him
+- [[Melody]] guides the party to the [[Big Fae Apple]]
+- As we approach the bridge, there are wanted posters of a character that looks vaguely like [[Melody]], but are well worn and depict him with no beard and two arms
+- A guy is trying to sell us information on where to find squirrels, so [[Melody]] walks up and tries to slap him after telling him off
+- THIS KID DIDN'T EVEN KNOW WHERE THE SQUIRREL IS
+- [[Melody]] has gotten into a slap fight with him at this point
+- The [[Fae]] has tone indicators too now
+- We're all going to go by codenames while we're here for security
+- We get to the lost and found names to search for [[Artemicion]]
+- They want the tears of a newborn as payment
+- [[Ardric]] uses shape water to extract a drop from [[Little Wyrm]]'s eye
+- [[Herron]] is being forced to take this payment that he asked for, quite reluctantly
+	- This is cockatrice juice, thus we have petrified a man
+- [[Buttercup]] thinks this is the best thing that has happened in days, as she was clearly growing fed up of [[Herron]]
+- [[Artemicion]] is perfectly healthy apart from anxiety, hypertension, and poor eyesight
+	- He's currently heading to [[The Door]]
+- [[The Door]] is to the northside
+- [[Cedric]] is using the services here to check on [[Barren Height|Barren]]
+	- He's currently not moving, staying at a town called [[Serenity]]
+	- Conflicted, but enjoying his time there which is the root of the conflict
+	- Other names attached to his name
+		- Language [[Buttercup]] cannot read, and constantly shifting
+- [[Olivia]] is inquiring about the name [[Quiet Peak]]
+	- Doesn't have a body, but is alive?
+	- Currently with someone named [[Serene Valley]]
+- [[Cedric]] has been hearing voices?!
+- [[Advena]] is checking up on [[Greelee]]
+- Currently thinking exclusively about a telescope
+- [[Advena]] is now asking about [[Advena]] to see what comes up
+	- The books do not move?
+	- The books definitely do not know anything about [[Advena]]
+	- Could be an issue with it being a chosen name
+	- Huge gap missing from when the name was started to be used
+	- [[Cain]] comes up a lot
+	- Her eyes open briefly before she grabs the paper shreds it and throws it in the bag
+		- the name "[[Cain]]" looked at [[Buttercup]] as if it knew we were looking
+- [[Ave]] searches for the name [[Awan]]
+	- A dusty piece of paper turns up, saying that she's alive but petrified
+	- Currently in a museum owned by a lord who enjoys soup
+	- Museum seems to be actively moving
+	- The name that looked at her crawled onto the paper
+- [[Olivia]] wants to ask about [[Flint Thornclaw]]
+	- Incredibly stressed individual
+	- Can't wait to show his daughters what he just did
+	- HE HAS A HIGH KILL COUNT?!?!
+		- IT'S RISING AS WE SPEAK?!?!?!!
+	- He's killing [[yuan-ti]] it would appear
+	- He has a lot of guilt and regrets
+	- Lot of mentions of blood
+	- Having trouble holding back something currently
+- [[Cedric]] wants to know about [[Serene Valley]]
+	- Related to [[Quiet Peak]]
+	- The entire page is covered in the gibberish that was on [[Barren Height|Barren]]'s page
+	- Everyone has to do a perception check now
+- As [[Cedric]]'s reading the paper, his eyes turn to spirals and he begins hearing the voices
+- The paper now becomes blank as the spirals fade from his eyes
+- [[Ardric]] specifically requests to shake [[Buttercup]]'s hand so he can cast a dedication ceremony on her
+- We make our way to [[The Door]]
+- [[Advena]] casts intellect fortress on [[Fish]] and [[Ave]]
+- We hear a voice off to the side as we try to find our way
+- It turns out to be a hag named [[Miriel]] who knew [[Olivia|Ruby]] when she was little
+- She's been getting visions from [[Sehanine]]
+- She draws a door in the water for us, and we go through
+- One of the [[Elegist]]s is waiting for us, and greets us
+- They promise not to bring harm to us today
+- We're led to a temple through a ghost town of a city
+- Several [[Elegist]]s seems to be channeling something in the middle of the room
+- [[Olivia]] and [[Ave]] fail charisma saves on the voices of the two who came to meet us
+- The [[Elegist]]s want peace
+	- They have conditions that must be upheld
+	- They want to come back into the [[Fae Wild]] if possible
+	- [[Melody]] is one of the conditions for them coming back
+	- They require [[Melody]]'s services for their new master
+	- Their new master seems to be [[Cain]]
+- The conditions are quite simple:
+	- They give [[Melody]] a crown that looks identical to [[Ardric]]'s and tell him he must put it on
+- [[Melody]] says we cannot ally ourselves with [[Cain]] as it would be akin to the [[Elegist]]s aligning themselves with [[Cadence]]
+- He requests for at least the rest of the group to be left out of this, but they say it's too late and we're already a part of this mechanism
+- Apparently if [[Cain]] triumphs, it could give the [[Elegist]]s back their childhoods somehow
+- [[Cain]] took memories away from some of the [[Elegist]]s who couldn't bare to keep living in reality
+	- They insinuate that this is what happened with [[Advena]]
+- They tell [[Ave]] that [[Cain]] said she could join him as a family again and he would love it, saying that [[Ardric]] twisted the truth on her. Unfortunately, [[Ave]] is charmed by them
+- [[Ardric]] sends a message of warning to [[Refrain]]
+- oh yeah, we also picked up [[Artemicion]] on our way out of the [[Elegist]] space
+- According to [[Artemicion]], the [[Elegist]]s don't have any actual weapons
+- The [[Elegist]]s were unable to talk about the [[Drow]] when inquired about by [[Artemicion]]
+- Malicious fairies can take memories from people if they have your name
+- We're heading to [[Fried Something]] now
+- Identify doesn't work on [[Artemicion]]
+- This squirrel has a spell jammer on him somehow
+- Someone is subtle spell casting counterspell to every spell attempted to on this squirrel
+- subtle spell identify finds shape change on [[Artemicion]]
+- This isn't [[Artemicion]]
+- We take him outside with us into an alley
+- [[Kupex]] is back with a new mech
+- 

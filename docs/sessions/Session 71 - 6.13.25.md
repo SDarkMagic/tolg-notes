@@ -1,0 +1,78 @@
+---
+tags:
+  - dnd
+  - notes
+  - sessions
+date: 13-06-2025
+type: session
+---
+# General
+## [[Fish]], [[Emi]], [[Advena]], [[Ave]], [[Olivia]]
+- [[Olivia]] dimension doors out immediately with [[Fish]]
+- [[Advena]] grabs both [[Ave]] and [[Emi]] and dimension doors them out directly to the cottage without any issue
+- [[Fish]] runs ahead of [[Olivia]] as they didn't manage to dimension door all the way
+- [[Advena]] begins running closer to the cottage, while [[Emi]] puts [[Ave]] on the broom with her
+- [[Olivia]] and [[Fish]] both see a large swarm of [[Fairies]] beginning to give chase in the distance
+- [[Olivia]] is very stealthed and running through the woods, trying her best to avoid detection
+- 
+## [[Ardric]] & [[Melody]]
+- Voices outside the house all say in unison "Join us willingly, we do not have to fight"
+- [[Ardric]] looks directly at the tadpoles in two of their brains, and sacred flames them
+	- He kills the tadpoles, however the shock of the tadpole exploding in their brain kills them both
+- They then find and begin to activate a teleportation circle inside the house
+- [[Ardric]] wildmagic surges to try and teleport everyone in the mental link to the material plain
+	- While doing this, he becomes more and more purple, and the [[Crown]] asks for his permission to compensate for the power he currently lacks for the spell
+## Combat
+- [[Melody]] communicates to the party to gather at the [[Fae Wild]] entrance
+- [[Emi]] notices several infected [[Fairies]] gathering near the entrance
+- [[Emi]] casts sleep on four of the [[Fairies]] guarding the entrance
+- a LOT of [[Fairies]] begin to surround [[Ardric]] forcing out 5 wisdoms saves followed by 5 con saves as they pour tadpoles onto [[Ardric]]
+	- He fails the last one, but [[Melody]] redirects it to himself and saves, completely negating all the effects of their attempts
+- [[Melody]] uses the gem of brightness to flashbang the entire room via the chandelier, including [[Ardric]] (he has blindsight)
+- The entire [[Fae Wild]] begins to transform into a much more sinister area, the trees turning to tentacles as it reflects the thoughts of its inhabitants
+- [[Ardric]] takes the book of bedtime out, and begins reading it to everyone in the room with him, knocking everyone out, including [[Jason]]
+- [[Ave]] uses her held action to dash, main action dashes, and casts expeditious retreat to move 180ft
+- [[Melody]] gets jumped by one fairy, but is fine
+- [[Emi]] is jumped by 4, and saves all her wisdom saves & con saves
+- [[Melody]] reaches out through the entrance portal, trying to connect to all the individuals in the [[Fae Wild]], repeatedly trying again and again, stacking exhaustion on himself five times
+- He tries one more time, failing, however, as he falls, dead from the sixth level of exhaustion, however the revivify staff he has hits him on the way down, barely managing to revive him
+	- [[Emi]] and [[Advena]] see a demonic hand reaching from the ground, grasping for him
+- [[Melody]] recalls from a long time ago that we can consume the upgrade jellies, and eats 3 upgrade jellies giving him a +6 to the roll
+- He fails again, [[Advena]]'s contingency pops, bringing him back from the brink with one last chance at life
+- [[Emi]] casts bless on [[Melody]] while [[Ave]] tries to flash of genius him from far away, failing and falling unconscious
+- [[Melody]] rolls one last time, the bless rolling for 2 for a +8, for a final roll of **26**
+- He succeeds at last, connecting everyone in the [[Fae Wild]] to the mental link
+- [[Ardric]] pushes one last time, as [[Advena]] channels her magical energy into him, teleporting all the uninfected residents of the [[Fae Wild]] to the [[Material Plain]]
+- [[Emi]] uses the last of her diamond dust to cast greater restoration on [[Melody]], removing one level of exhaustion
+- [[Olivia]] uses cure wounds to get [[Ave]] back up
+- The portal to the [[Fae Wild]] disappears after we teleport out
+- [[Advena]] and [[Ave]] lift [[Ardric]] onto a Tensor's floating disc, leaving his head and feet hanging off the sides
+- [[Olivia]] sends a message to [[Vesta]] asking if we can drop the [[Fairies]] at [[Serenity]]
+- [[Vesta]] says they will make space for them
+- [[Olivia]] goes over to check on [[Sapphire|Saph]] and [[Amber Thornclaw|Amber]], since the [[Hags]] were also teleported out
+- [[Olivia]] checks with [[Deborah]] to see if there's any more info about what's up with [[Amber Thornclaw|Amber]], as she also thanks the group for pulling the [[Hags]] out of the [[Fae Wild]]
+	- specifically, [[Agitha]] heads over to thank [[Melody]] and [[Ardric]]
+- [[Agitha]] examines [[Ardric]], and as she does it, the crown asks for permission to feed
+- [[Emi]] approaches the [[Dryad]]s, and all the children swarm her
+	- There are only two adults with them, and one of the children's mother is not present
+	- Apparently back in the day this kid had a pet displacer beast named Bongo
+- [[Vesta]] and [[Deborah]] have their differences
+- [[Deborah]] is probably gonna start a revolution in [[Serenity]]
+- [[Olivia]] checks up on [[Fish]] and [[Melody]]
+- As [[Melody]] sleeps, he dreams he appears in [[Hell]], talking with [[Graz'zt]]
+- [[Graz'zt]] wants to discuss the details of the contract further with [[Melody]] since he feels he sort of scammed him
+- According to [[Graz'zt]], [[Cadence]]'s house is the key to saving the [[Fae Wild]]
+- The paper there leads to someone who could help us find and take care of [[The Great Eye]]
+- [[The Great Eye]] is not an immortal being, and has parents of some variety
+- As we arrive in [[Serenity]], [[Emi]] immediately looks for [[Vesta]]
+- [[Vesta]] looks at the people behind us, and has a less than enthusiastic expression upon seeing [[Deborah]] in the crowd
+- As [[Vesta]] talks with us, [[Deborah|Debbie]] comes up and asks how [[Nadine]]'s relationship with her father is
+- [[Olivia]] reaches into [[Melody]]'s bag and pulls out the cabin
+- As the group heads off, leaving [[Emi]] to handle the stuff with the [[Fae]], [[Nadine]] comes over to talk with her
+- [[Nadine]] asks if [[Emi]] and [[Advena]] are...
+- As we enter the cabin, [[Ardric]] gets up
+	- He still can't technically move, however he's using telekinesis to move his limbs
+	- [[Ave]] notices this, however [[Advena]] does not
+- [[Advena]] goes to help [[Emi]]
+- She immediately encounters [[Nadine]] as she exits the cabin
+- [[Nadine]] pulls her aside, stares her down, and asks "What are your intentions with my daughter?"

@@ -1,0 +1,72 @@
+---
+tags:
+  - dnd
+  - notes
+  - sessions
+---
+# [[Olivia]], [[Ave]], [[Advena]], and [[Emi]] drunk hours
+- We return to [[Cadence]]'s cottage
+- [[Olivia]] gets water from [[Refrain]] for [[Emi]] and [[Advena]]
+- [[Advena]] falls off the broom and [[Ave]] catches her
+- [[Olivia]] and [[Ave]] are having a 1on1 conversation
+- [[Ave]] has not really ever thought about her future
+- Talking about family, and what exactly that means
+- Bombs->fireworks->stars pipeline
+- [[Advena]] has scooted over to [[Emi]] and is talking about the bench they're on
+- [[Ave]] makes a rainbow above [[Emi]] and [[Advena]]
+- [[Advena]] is astounded that a book would lie to her
+- [[Refrain]] comes in with a telescope that came in the mail, which [[Advena]] eagerly takes
+- [[Olivia]] lesser restorations [[Advena]]
+- She also does it to [[Emi]]
+- The telescope does not contain any bombs
+- Detect magic doesn't pick anything up either
+- [[Ave]] tries to start making an expensive bowl from just gold pieces
+- She also presses 4 upgrade jellies into her headband of intellect
+- We head to the [[Mail Squirrels]]
+- Upon arrival, we see [[Topi Topi]] dropping squirrels from a bag in the background
+- [[Olivia]] is using lesser restoration on [[Artemicion]] to clear his drunkenness
+- [[Advena]] is looking for an absorb elements scroll
+- She is also in desperate need of a headband
+- The telescope is a "[[Stargazer 3000 Limited Edition with non Reflective Lenses]]" according to [[Cosmo]]
+	- The [[Mail Squirrels]] are going to hang onto it
+- [[Ave]] orders 20 individual sets of 1000 ball bearings specifically from [[Dofleini]] so [[Emi]] can get her bowl 1 day sooner
+# [[Ardric]], [[Melody]], and [[Fish]] visiting the [[Hags]]
+- [[Ardric]] doesn't have a concrete plan for how he's going to get his diagnosis
+- [[Deborah|Debbie]] welcomes the three in
+- She wants to know what's in it for her with this deal
+- [[Ardric]]'s offering several different magic items as potential payment
+- She's specifically interested in [[Jason]] as payment
+- [[Melody]] is concerned by the cost of this diagnosis
+- They decide to search for an alternative diagnosis, to which [[Deborah]] responds
+	- "I hope you don't meet the deadline before you find an alternative"
+- She's telling the truth about this supposed "deadline"
+- [[Deborah|Debbie]] also offers a potential solution for [[Olivia]]'s problem since she is "family after all"
+- [[Ardric]] uses identify on the [[Crown]]
+- The [[Crown]] was not created by a spell, and contains the spell power word kill
+# Whole Group back together
+- [[Olivia]] asks [[Ardric]] if he can withstand a PWK
+- He's bluffing when he says "No"
+- Everyone is in the post office
+- [[Fish]] orders two rings of mindshielding
+- [[Dofleini]] shipment will take at least a week to arrive
+- We must meet with an [[Elegist]] past the gate near the [[Great Fae Apple]]
+- We head towards [[Reinhardt's library]] in search of answers for the [[Crown]]
+- [[Emi]] offers the option of killing [[Olivia]] then bringing her back to remove the werewolf stuff
+- This is via the reincarnate spell
+- The [[Spectator]] welcomes us in, then offers to diagnose [[Ardric]]
+	- He's been diagnosed half green, half purple
+- [[Ardric]] and [[Advena]] both prep counterspells just in case
+- [[Reinhardt]], upon seeing [[Ardric]] says that it can't be good, then asks when it started
+- He gets uneasy at the mention of [[Cain]]
+- [[Reinhardt]] isn't sure he wants to identify it anymore, saying it probably has countermeasures for people snooping around too much
+- What he does know, is that the crown might give the wearer semi-immortality, preventing them from aging, but at the cost of making them subservient to [[Cain]] via both mind control, and a kill switch that could end the effect instantly should the wearer go against [[Cain]]. The only way to add more time was to ask [[Cain]]
+- [[Reinhardt]] is confused about the way the crown adapts to the realm it's in
+- Someone must have tampered with the crown
+- The other crowns did not mutter in abyssal
+- The library that burned down 50 years ago in the near area
+	- Someone used to live there
+	- A priest that might have been a [[Tabaxi]]
+	- He never talked to them a lot
+- The fire happened the same day he died
+- He went to the house to talk to someone about what he had found, and then he was killed
+- [[Reinhardt]] starts reading [[Artemicion]]'s new book, then immediately says "That Squirrel's in danger"

@@ -1,0 +1,66 @@
+---
+tags:
+  - dnd
+  - characters
+  - notes
+---
+# Combat
+- 7 of [[Emi]]'s wolves crit [[Belphegor]] for 70 damage total
+- He's using a legendary action to crush [[Olivia]], who's still in the lava (she lives)
+- [[Olivia]] shoots a bursting arrow near [[Advena]] teleporting to the spot of damage to take the damage herself instead
+- [[Belphegor]] changes targets to [[Fish]] but misses
+- oop [[Fish]] is grappled now
+- [[Melody]] darts into the fog and uses the decanter to put out the fire and get rid of the smoke
+- [[Ardric]] immediately casts black tentacles on [[Belphegor]]
+- [[Fish]] is at 8 HP, [[Emi]] is struggling to heal
+- The wolves hit again somehow?!
+- [[Belphegor]] is trying to crush [[Fish]] now
+- [[Olivia]] uses extra magic to barely heal [[Fish]] for 14 hp
+- [[Belphegor]] is using TWO legendary actions to bite fish
+	- [[Fish]] somehow BARELY survives this?!?!
+- [[Melody]] attacks a bit more
+- This triggers a mythic action from [[Belphegor]], giving him an action surge to attack [[Emi]] with a crit :3
+	- [[Emi]] just went from full HP of 92 down to 17
+	- The wolves are also gone now
+- [[Ave]] nat 20 on the frighten save ISN'T ENOUGH, needs bless + flash of genius for a 24 to save
+- Breath attack #2 hits [[Melody]], [[Fish]], and [[Ave]]. Both [[Melody]] and [[Fish]] dodge and avoid most of the 106 damage, however [[Ave]] takes full damage
+- [[Ardric]]'s turn to get grappled
+- oh [[Olivia]] crit moment
+- [[Olivia]] shoots [[Belphegor]] in the eye, killing him
+- [[Advena]] checks to make sure he's dead. He is.
+- [[Melody]] is thanking [[Belphegor]] for motivating him to go on this adventure and giving some good entertainment
+- He then proceeds to decapitate the body
+- [[Fish]] and [[Olivia]] are both a bit toasty
+- [[Emi]] does a mass cure wounds on [[Olivia]], [[Fish]], [[Advena]], [[Ave]], and [[Emi|herself]]
+- We're going to the dragon hoard now
+- [[Melody]] is flying through the gold in the room and collecting it all in the bag of holding
+	- 28000g at LEAST in here
+	- 14 upgrade jellies
+	- 8 different magic items
+- We're taking a short rest in the vault
+- [[Ardric]] is contacting [[Mammon]] about [[Belphegor]]'s defeat. Inquiring about a potential successor
+- Short rest time YIPPEE
+- The face in the lava that [[Olivia]] previously noticed now has glowing eyes
+- [[Belphegor]]'s body disappeared in a manner similar to how [[Melody]]'s arm disappeared
+- It was similar to the [[Fae]] but it seemed very wrong and decaying in a way
+- The altar is acting up suddenly
+- The altar seemed similar to the [[Harr & Son]] tech when investigated
+- "Mythic action: Project Lemonade" [[Belphegor]] is back as a lich oops
+- [[Advena]] tries to put up a wall of force in front of the dracolich [[Belphegor]] but he counterspells it
+- [[Ardric]] counterspells the counterspell
+- ![[Pasted image 20240913113052.png]]
+- OH BOY BREATH ATTACK!
+- legendary action he hold persons [[Fish]]
+- [[Advena]] is talking to him with [[Cain]]'s voice using the [[Manyvoice Mask]]
+- [[Ave]] backs up after seeing the wisdom save
+- [[Melody]] does a commanding strike to maneuver [[Olivia]] closer to [[Belphegor]] for sneak attack to deal 72 damage
+- Breath attack AGAIN!!
+- [[Olivia]] is down
+- [[Belphegor]] legendary action to tail swipe [[Olivia]] and fail 2 of her death saves
+- [[Advena]] uses the contingency band to cast a 3rd level life transference
+- Legendary action dominate person on [[Fish]]
+- He saves, then goes to smite a guy
+	- 116 damage when he had 27 hp left. NUKING him
+- [[Ave]] bombs the face in the lava, and we are free from combat
+- [[Mammon]] is at the entrance to the lair and the dragons within are a bit confused about what all has just transpired
+- 

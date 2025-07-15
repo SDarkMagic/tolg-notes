@@ -1,0 +1,120 @@
+---
+tags:
+  - dnd
+  - notes
+  - sessions
+---
+## Fire Room
+- [[Emi]] grabs [[Advena]]'s face and looks into her eyes to see if she's a robot
+- [[Emi]] doesn't see anything
+- There is an automated defense turret in the top left room with a head that looks similar to [[Belphegor]]
+- [[Emi]] casts wall of stone in the room, and the turret begins to pump lava
+- When [[Emi]] becomes unhidden and enters the room, the turret turns to face her
+- [[Miko]] and [[Belle]] get sent into the room to scout
+- As [[Belle]] enters the room, she gets sucked into the mouth of the turret, causing [[Advena]] to pull her out immediately
+- As [[Miko]] tries to cross the wall in the room to the other side, the turret creates waves in the lava
+- This destroys all of the walls
+- [[Advena]] notices a lever higher up that seems to be connected to the turret somehow
+- [[Miko]] falls into the lava, but is otherwise unharmed
+- [[Advena]] casts cone of cold on the machinery, freezing it
+- [[Emi]] gets on the broom and flies across to the other side of the room alone
+- There is a pillar with a brazier that says "burn me"
+- [[Emi]] lights it on fire
+- As this occurs, another symbol on the main door lights up
+- The turret has re-activated by this point, and is looking at [[Emi]]
+- [[Advena]] vortex warps [[Emi]] back across the room to her
+- She then asks [[Emi]] to come with her as she asks some questions to [[Advena']]
+- [[Advena]] also gets a feeling of deja vu from the turret for some reason?
+## Plant Room
+- [[Melody]] and [[Fish]] try to figure out how exactly the plants work and if they are one mind
+- [[Ardric]] sees this happening and holds up the acorn charm excitedly
+- [[Melody]] uses druid craft to ward away the spores from himself
+- [[Fish]] casts mage hand to follow [[Melody]] as he and [[Melody]] try to sneak through the room
+- He also covers his face with a scarf to prevent himself from breathing in the spores
+- [[Ardric]] speaks to the plant, and learns they hunger for flesh
+	- "The man brought us here by force"
+- The plants seem to be from the [[Fae Wild]]
+- [[Ardric]] is now talking to the plants in sylvan out loud
+- [[Melody]] has heard of this plant in the [[Fae Wild]] called the [[wingclipper]], but it's mainly used as a story to scare smaller fairies
+- As [[Melody]] gets to the opposite side of the room, he finds a pedestal that the banana must be placed on
+- [[Ardric]] is bargaining with the plant for the banana appendage
+- The plant offers it in exchange for feeding and being sent back to where it came from
+- [[Ardric]] casts suggestion on the plant to give him the banana
+	- It gets a wisdom save of 19 and succeeds
+- There's also a narrow tunnel back to the main room from this room
+- As [[Ardric]] is talking with the plant, [[Melody]] tries to cut the banana off and misty step back up to where [[Fish]] is
+	- This succeeds
+- [[Fish]] grabs the banana with mage hand, and the two place it on the pedestal
+- [[Melody]] then casts reduce on [[Fish]] so they can both fit through the passage back to the main room
+- 
+## Water Room
+- Meanwhile, [[Ave]] and [[Isla]] investigate the room to the lower left
+- This room is completely filled with water
+- [[Isla]] notices that the movement of the waves is a bit off
+- [[Ave]] uses a water testing kit on the water, and as it enters it takes 45 acid damage
+- Shape water does not affect the "water" in front of us
+- The two exit the room to see about getting help from the others
+- [[Ave]] heads back to the room
+- There is a wheel connected to the drainage system
+- She then turns the wheel
+- She manages to dodge an appendage that tries to grab her and drains what was a gelatinous cube from the room
+- The room is now clear, as [[Isla]] and [[Ave]] reach an altar at the end
+- [[Ave]] puts water from her armor into the altar after immediately solving the riddle written on it
+# General
+- The door in the main room vanishes as all of the puzzles are complete
+- [[Emi]] and [[Advena]] approach [[Advena']] who seems worried and happy that the door is now open
+- [[Advena']] warns [[Advena]] that there will be a lot more of them in the next room and she is not confident about what the state of them will be
+- [[Advena]] removes her glove and touches the other on her cheek
+	- It feels like cold metal
+- [[Advena']] used to feel warm to the touch, but it broke down over time as she stopped being updated and repaired
+- Someone risked her life to save all of the [[Advena']] from being disposed of
+- She remembers being activated and finally meeting her, to only realize her purpose was a "corruption"
+- The "original" Advena hated [[Advena']]
+- When [[Cain]] realized that Advena didn't want [[Advena'|them]] he had them all deactivated
+- [[Advena]] names this [[Advena']] [[Viva]]
+- [[Advena]] gives a hug to [[Viva]]
+- Deprecated code in the [[Advena']] codebase that has NOT been maintained sets their favorite spell to vortex warp
+- [[Cain]] is working with [[The Great Eye]] despite it being something he swore he would never do
+- [[Melody]] checks down the main hallway, and finds what seems to be a large power source surrounded by several deactivated [[Advena']]
+- We put the sending stone [[Cain]] left with us into a bag of holding
+- As we enter the main room, we notice a gem being powered by presumably the several [[Advena']] units around the room
+- [[Emi]] looks at the crystal, and her eye begins to spiral
+	- She hears a voice in her head, [[Cain]]
+		- He wants to inform her about why he hates her so much
+		- He says [[Emi]] destroyed "her" life
+		- He believes [[Nadine]] could have been the greatest mage of her time
+		- Also he thanks her for stepping in the inner sanctum of the lab and says the next part will be "fun"
+- When [[Melody]] looks at the gem through the lens, he can see a portal contained within
+- Nobody saw [[Emi]]'s eye do the spiral thing
+- [[Viva]] says that if [[Cain]]'s voice is heard by the other [[Advena']] in the room, they could start and attack us
+- [[Advena]] tries to pull one of the [[Advena']]s off the ring, and succeeds
+- As she does this, the eyes of this unit open, and she says "they are here master"
+- All of them open their eyes
+- [[Cain]] starts talking from thin air, and has words for [[Advena]] and [[Emi]]
+- He says that [[Advena]]'s family is none the wiser that she's gone and a replacement has been enacted in her stead
+- Each of the [[Advena']]s has a portion of [[Advena]]'s memory, and killing them would remove it
+- He then teleports [[Abel]] 2.0 into the room for us to fight
+- Initiative time!
+- [[Cain]] has all of the [[Advena']]s destroy the crystal in the center (which we need)
+- [[Melody]] incapacitates one of them by shooting her arms off
+- [[Isla]] begins moving the gem telekinetically towards us
+- As this happens, legendary action we're locked in here
+- [[Abel]], while restrained, tries to use his arms to open his "chest cannon"
+- [[Ave]] runs up and punches [[Abel]] with a thunder gauntlet so he prioritizes targeting her
+- [[Ardric]] targets a few of the [[Advena']]s and careful spells them so as not to kill
+- He then telekinetic shoves the gem, ending his turn
+- [[Advena]] pulls [[Viva]] back and has the familiars cover her ears
+- She then places an invisible wall of force in front of the gem
+- The [[Advena']]s all try to vortex warp everyone but [[Ardric]] and [[Melody]]
+- [[Advena]] is the only one to fail, and gets sent to in front of [[abel]]
+- [[Ave]] and [[advena]] now have to do all six saving throw types at once
+- [[Advena]] fails all the saves:
+	- becoming restrained
+	- taking 40 necrotic damage
+	- becoming poisoned
+	- becoming slowed
+	- Afflicted with fear
+	- disadvantage on next action
+- [[Ave]] is also afraid and has disadvantage on next action
+- one of the [[Advena']]s tries to cast shatter on them gem, but [[Isla]] counter-spells it
+- 

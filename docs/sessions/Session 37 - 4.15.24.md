@@ -6,7 +6,7 @@ tags:
 ---
 # General
 - [[Amber Thornclaw|Amber]] and [[Olivia]] are having a moment
-- [[Olivia]] then has to share that the rest of the family ([[Sapphire]] and [[Flint]]) are dead
+- [[Olivia]] then has to share that the rest of the family ([[Sapphire]] and [[Flint Thornclaw|Flint]]) are dead
 - [[Fish]] is introduced to [[Amber Thornclaw|Amber]]
 - Time for [[Amber Thornclaw|Amber]] to go meet everyone
 - [[Melody]] is playing rock paper scissors with [[Topi Topi]] and [[Ave]] jumps in with bomb

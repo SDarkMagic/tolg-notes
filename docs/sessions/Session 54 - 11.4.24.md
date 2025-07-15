@@ -1,0 +1,99 @@
+---
+tags:
+  - dnd
+  - sessions
+  - notes
+---
+# General
+- [[Melody]] is making eggs for breakfast
+- [[Olivia]] is asking [[Fish]] how the night with [[River]] was
+- They're having a moment now
+- [[Fish]] tells [[Olivia]] that she's family and [[Olivia]] freezes momentarily
+- They continue to eat their breakfast separately from the group
+- [[Ardric]] wants tea
+- [[Emi]] found a notebook of [[Cadence]]'s in the library last night
+> 	 Cadence dawnfrost notes Ugh , another meeting today, they never warn you in the stories of how absolutely boring maintaining a peaceful alliance of all kingdoms can be I'm a skull cracker, I CRACK SKULLS! IT'S WHAT I DO, not write reports about "is there enough apples for the east part of the west thing with the north blah blah blah" They're all impressed of how fast i write, but im only that fast because im BOOOOOORRRRREEEEEED Hopefully I'll get use to it as i get older Wish i could be more like etna, even with all that's happening in her home, she's still here and listening to everyones request, poor thing, I've heard about all the stillborn she's been having recently. She says it's a common problem with a lot of dragons but i can see how her eyes are barely holding on to happiness Not that it's Mammon fault, he looks so kind with her at all time, trying his best to comfort her while maintaining his duties, if i ever have a boy, I'll try my best to raise him like that big ol snow softie Then of course my girl vesta, probably as bored as me, just looking to do anything else than be here. Having me and her in a meeting is like using 2 legendary weapons to play fey checkers (very different from material plane checkers) Love how she keeps changing her fingers from bear paw back to fingers to kill time Sunrise? Oh he is living his BEST LIFE, that little church cat feels so much in his element right now! Its quite refreshing to see him so vocal and confident, vocal and confident about numbers and logistics but still! I guess being raised in a monastery, this feels closer to home for him than going out there Oh yeah there is deborah, f that bitch Also the last squirrel representative died of old age. They say his successor, mog, is already getting briefed on the position And then, HIM, mister little smug ass face time himself, cain Truth is, he never was that bad, but recently, after he asked me the weirdest question, he just got really distant 
+> 	 Like, who just comes in and say "what did you see when you died?" And i even replied quickly too, i saw my loved one in a very pretty place as i was sharing memories with them The look he gave me, was it anger? Jealousy? Disgust? What was i supposed to say? I'm sorry for seeing things when i die? What a weirdo, i can't see what vesta sees in him Wait, is vesta pregnant?
+
+- [[Ardric]] asks [[Emi]] how old the book is, she does not know so he vibe checks the book for age
+- The date was written on the page, he did not need to do this.
+- This was written around the beginning of the [[Dawnfrost]] alliance
+- [[Advena]] is putting a book she found back
+- ![[Pasted image 20241104132945.png]]
+- We leave the house, and [[Melody]] puts the glitter bucket atop his door again
+- [[Magus]], [[Methusalem]], and [[Chloe]] were planning a grand opening of their restaurant today, however they forgot to employ anyone for the day
+- [[Emi]], [[Advena]], and [[Ave]] get introduced to the three
+- [[Fish]], [[Olivia]] and [[Melody]] are going to be chefs
+- [[Ardric]], [[Emi]], [[Advena]], and [[Ave]] are waitstaff
+- There is a piano here that did not exist when they got to this place
+- [[Ave]] tunes the piano
+- We need to make sure different groups are seated apart from one another due to cultural differences
+- [[Advena]] is attempting to play the piano
+- [[Fish]] does not know what a quiche is
+- [[Melody]] has labelled the first group of fairies as "really annoying"
+- [[Emi]] seats a rock gnome
+- [[Ave]] is aggressively trying to avoid all interaction with customers
+- [[Advena]] is struggling with the piano
+- [[Ave]] is trying to turn the piano into a player piano
+- [[Emi]], the druid, does not have speak with animals when the giant goose enters (he has a sword)
+- [[Olivia]] tries to use speak with animal through the mental link, and it doesn't work since it's a [[Fae]] creature
+- [[Emi]] is now on goose duty
+- The goose eats the menu that is given to it
+- We're feeding the goose a bowl
+- [[Mail Squirrels]] are here for lunch too!
+- [[Artemicion]]'s new book released today?!
+- rock gnome wants to pay
+- "BobSteveSmith" arrives and claims he has a reservation
+- [[Magus]] comes to see the red cap who's being instigatory
+- One of the fairies wants a free cake since it's her friends birthday
+- The goose is choking on the bowl now
+- [[Emi]] tries to mage hand the bowl out of its  mouth
+- [[Ardric]] is using telekinesis to pull the bowl out now
+- [[Ave]] must sing happy birthday to the two fairies, and doesn't exactly succeed
+- The goose is trying to swallow [[Miko]]
+- A walk-in couple is here for their anniversary!
+- The squirrels sound drunk
+- The fairies hit on [[Ardric]] as they're leaving
+- The [[Dryad]] children have arrived and [[Emi]] is seating them
+- The two fairies are now encroaching on the personal space of the couple
+- [[Ave]] has entered a stare-down with the goose
+- [[Olivia]] casts silence on the now very drunk squirrels
+- Alice the food critic is here and wants seafood saute
+- Two more geese arrive and join the other goose
+- The situation has gotten out of hand, there are too many customers
+- [[Fish]] is making BANGER seafood
+- one squirrel tries to leave the circle of silence, but gets immediately vortex warped back in by [[Advena]]
+- A [[yuan-ti]] named Agitha comes in and immediately starts hitting on [[Melody]]
+- [[Emi]] commands the geese to be quiet after they upset the children
+- [[Topi Topi]] has come by to check on [[Artemicion]] and the other squirrels
+- [[Ave]] needs to reprogram the song on the piano for the couple
+- [[Advena]] is delivering the food to the [[Dryad]]s
+- Someone is here asking for a cup of tea and a quiet spot to write a book
+- [[Topi Topi]] now wants some meat of ANY kind
+- [[Melody]] is getting [[Topi Topi]] to guard the squirrels
+- [[Emi]] has laid bread rolls in a path out the door for the geese to follow and leave
+- [[Magus]] is chasing the geese down for payment
+- [[Olivia]] hand squeezes apple juice for the guys that took the geese's table
+- [[Melody]] comes to assist [[Ardric]] in getting the fairies to evacuate the premises
+- The geese are attacking [[Magus]] outside
+- The geese give [[Ardric]] their swords as payment
+- We now have licensed building inspectors from [[checkacheck]] looking for 3 separate tables at different locations
+- The creatures [[Advena]] is serving need a con saving throw, releasing spores that make people fall asleep
+- [[Ardric]] is helping someone who needs a charisma saving throw? They're inviting [[Melody]] to meet them north past the gate
+- [[Melody]] is **still** flirting with the [[yuan-ti]]
+- one of the squirrels vomits onto the floor
+- The two sun/moon people still have no idea what they want
+- [[Artemicion]] gives us his new book with the tip
+- We're now gaslighting the other lady into thinking she ordered a quiche
+- the spores knock [[Magus]] unconscious as the mushroom dudes leave
+- The inspector's leave after checking with [[Ave]] that the piano is up to code
+- We each get 250 Gold piece and 1 upgrade jelly as well as the [[Weapon of Blind Faith]]
+- [[Emi]] is getting drunk
+- [[Ardric]] climbs over the table to look for a native drink
+- everyone is now getting drunk
+- [[Chloe]] is giving everyone water
+- WE'RE KEEPING THE APRONS AND MAID COSTUMES?!
+- [[Advena]] and [[Emi]] are VERY drunk
+- [[Melody]] takes a selfie of the party with the mechanical spider
+- [[Emi]], [[Ave]], [[Olivia]], and [[Advena]] are heading back to Cadence's house
+- [[Ardric]], [[Fish]], and [[Melody]] are headed to the hags

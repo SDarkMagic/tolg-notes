@@ -1,0 +1,66 @@
+---
+tags:
+  - sessions
+  - notes
+  - dnd
+---
+# General
+- Speculation about [[The Great Eye]] being behind the [[Dofleini]] disappearance is being had
+- [[Melody]] is working with [[Fish]] and [[Ardric]] directly to attempt to figure out what we need to take care of on this continent before making for [[Dofleini]]
+- [[Emi]] desires alternatives to long boat travel for getting to [[Dofleini]]
+- [[Ave]] goes to check on [[Olivia]] and discovers all of her belongings scattered across the rooms and [[Olivia]] curled up near a wall
+- [[Olivia]] is currently sobbing onto [[Ave]]'s shoulder as she hugs her for comfort
+- [[Melody]] asks [[Advena]] why exactly she brought [[Olivia]] back
+- [[Advena]] responds that we weren't ready to bring her back how she wanted since we don't have the materials currently
+- ***WRONG*** we're only missing the flower from [[Dofleini]] according to [[Emi]]
+- [[Fish]] is understandably mad at [[Advena]] and responds passive aggressively to her reasoning
+- [[Melody]] opens the cabin in the middle of the road so we can all get something to eat
+	- The cabin is taller now with a second floor!
+- [[Fish]] and [[Emi]] make their way over to check on [[Olivia]] and [[Ave]]
+- Apparently, the cookie brick has a home now?!
+- The cabin is a floating essence with a bellhop hat now too
+- [[Advena]] casts identify on the cabin and senses its magical presence is much stronger now
+- [[Olivia]] goes over to open the door for [[Fish]] and [[Emi]]
+- [[Emi]] heals [[Olivia]] significantly better than [[Ave]] managed to
+- GROUP HUG!!!!
+- [[Ave]] makes a pair of sending stones for [[Fish]] and [[Olivia]]
+- [[Melody]] finishes making a stew, as he and [[Ardric]] head outside with it taking [[Advena]] with them reluctantly
+- The entire party now makes their way into the cabin
+- The back of the cabin interior walls open and it begins to expand further back
+- The cabin is significantly larger now inside
+- The cookie brick has now scaled to 5 times its size and is hanging from the ceiling at the top of the stairs
+- The nightwatch room at the top of the stairs reflects the dwellers' preferred environments around their vicinity while inside
+- Awkward Family Dinner time in the void room
+- [[Advena]] wrote a letter to [[Olivia]] and has [[Belle]] deliver it across the cabin
+- People begin to head to bed
+# Nightwatch
+## [[Emi]], [[Melody]], and [[Ave]]
+- Someone comes knocking at the door to the cabin
+- A goblin pirate has come by asking if we're "open"
+- They're currently on the run from debt collectors
+- Her name is [[Rebecca]]
+- Looking to get to [[Knotts]] to hide
+- We've let her in to stay the night and she just wants to steal stuff
+- [[Ave]] threatens her with a gun remotely
+- We are locking this poor goblin in the first floor of the cabin
+- The cabin is playing keep-away with [[Rebecca]]
+- [[Melody]] cuts the mental link
+- [[Advena]] visits [[Ardric]]'s room for a conversation
+	- She wants advice on how to handle the feelings consequent from her actions
+	- [[Ardric]] believes [[Advena]] has made a "grave error"
+	- [[Advena]] is a bit jealous of [[Olivia]] for having the ability to potentially be rid of her curse
+	- [[Advena]] tears up her devil contract
+- [[Melody]] and [[Emi]] have a detailed conversation about death
+- [[Ave]] finds solace in the idea that there is nothing after death. Just the end.
+- [[Melody]] believes it's worth it for the party to be more open with each other
+## [[Advena]] and [[Fish]]
+- Incredibly tense small talk is transpiring
+- [[Fish]] has dropped the harpoon he was sharpening and unsheathed his claws
+- He asks if [[Advena]] is even sorry, to which she is unsure
+- Everything [[Advena]] says seems to just be making this situation worse for herself
+- [[Advena]] realizes she's wronged [[Olivia]], but still has her reservations
+- nvm she acknowledges she messed up?!
+	- nope she's spiraling
+- She has no idea how to help people instead of hurting them even on accident
+- [[Fish]]'s anger has dissipated for the most part at this revelation
+- 

@@ -1,0 +1,72 @@
+---
+tags:
+  - dnd
+  - sessions
+  - notes
+---
+*Starting partway through session*
+# General
+- [[Stilts]] is telling [[Olivia]] and [[Fish]] exclusively information on bbeg hideouts
+	- [[Cain]] is under the sand of [[Sand Fransisco]]
+		- Town is corrupted by him, everyone is subservient
+		- Moving his [[phylactery]] to underground stronghold
+	- [[The Great Eye]] seems to be growing more and more from [[Sierra]]. There is a portal there that opens only at noon to take you directly to him (What seems to be his hatchery)
+	- [[Belphegor]] is setting up camp on the mountain near [[Distant Rain]]
+		- He personally supervises the camp, meaning he's always there
+- When one of the three is struck, the others will know and react accordingly
+- [[Belphegor]] has been anxious about his attack since the events of the [[Fae Wild]]
+- [[Cain]] is working on some strange time related device
+	- Allows him to travel to the past?
+- [[Ardric]] and [[Emi]] are not allowed to know this information
+- [[Tabaxi]] man has been seen going in and out of the portals near [[The Great Eye]] ([[Barren Height]])
+- [[Barren Height]] seems to be scouring locations for a strategic location
+- [[Melody]] and [[Advena]] join [[Fish]] and [[Olivia]] to figure out which party to target first
+- [[Advena]] asks if [[Olivia]] is still intent on reviving [[Sapphire|Saph]] during all this
+- [[Ardric]] has cast tiny hut as the group exits the wall of force (He's blocking the entire hallway)
+- We're heading to [[Serenity]] next
+- On our way we notice a familiar [[Bob]] visage ([[Attention]]) playing with in the river
+- [[Vesta]] is waiting for us when we arrive
+- She pulls [[Olivia]] aside to talk to her about what's going to happen and what she'll need to do.
+	- [[Olivia]] needs to give [[Sapphire]] reasons to come back to life
+- [[Nadine]] and [[Vesta]] perform the ritual together to summon the spirit of [[Sapphire]], at which point [[Olivia]] begins to talk with [[Sapphire]]
+- [[Sapphire]] is not immediately sure she wants to come back, but she first wants to see [[Olivia|Ruby]]
+- As [[Sapphire]] begins to descend from the sky, [[Emi]]'s eyes turn into spirals and she begins to cry tears of tar
+- A voice in the sky says [[Emi]] this is an acceptable offering, as a singular eye appears and begins to block out the sun
+- [[Advena]] vortex warps [[Sapphire]] to [[Olivia]]
+- Two beholders appear from the eye, one seeming to have been chopped in half, and is undead
+- [[Barren Height]] appears and says that [[Emi]] doomed [[Sierra]]
+- He then transforms and offers "redemption" to [[Emi]] as portals open all around us
+	- [[The Great Eye]] is casting meteor storm on [[Serenity]]
+- [[Emi]] is panicking
+- [[Melody]] grabs [[Emi]] and begins heading toward [[Serenity]]
+- A giant Tarrasque drops from the eye, and murmurs "Chase them"
+- [[Advena]] casts wall of force to prevent their advance
+- [[Team One Large Guy|We]] begin heading towards the main village of serenity to help the villagers at request of [[Nadine]] and [[Vesta]]
+- oh hey mindflayers are swarming the village
+- [[Ardric]] warns that [[Jason]] will die permanently if he falls in this fight
+- [[Ardric]] tells everyone to evacuate to which they agree gladly
+- Someone disintegrated [[Advena]]'s wall of force
+- The beholders and [[Barren Height]] are chasing us
+- [[Melody]], in bone devil form, enlarges himself to become a Huge creature
+- [[Olivia]] took one turn and [[Barren Height]] is already bloodied
+- Her turn isn't over help she keeps rolling crits
+- [[Advena]] dimension doors [[Emi]] into the garden to find her dad
+- ![[Pasted image 20240808140911.png]]
+- ah
+- ah..
+- I see
+- So [[Emi]] and [[Advena]] are right next to [[Emi]]'s dad confronting [[Cain]]
+- [[Cain]] is absolutely enthralled to see [[Emi]]  and [[Advena]] appear, then he casts magic missile on [[Abel]]
+	- He's dead
+> ![[Pasted image 20240808141431.png]]
+
+- [[Cain]] summons a legion of undead
+- [[Ave]] survived 6 different beam attacks from one of the beholders
+- oop [[Olivia]] just killed [[Barren Height]]
+	- nvm healing word
+- [[Ave]] has acquired a singular diamond from [[Olivia]]
+- [[Cedric]] should be dead, but flash of genius moment
+- [[Cain]] casts animate dead on [[Abel]]
+	- Enters a counterspell war with [[Advena]]
+- [[Advena]] teleports herself and [[Emi]] out, to which [[Cain]] tells [[Emi]] to say hi to [[Vesta]]
+- 

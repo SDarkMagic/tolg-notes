@@ -1,0 +1,79 @@
+---
+tags:
+  - dnd
+  - notes
+  - sessions
+---
+# Combat
+- The dragons can go through the wall of stone :D
+- One of the dragons looks at [[Olivia]] and says "In your words, I'm sorry" in a voice she's heard before
+- [[Olivia]] gets hit by a shadow breath attack, instantly killing her as a shadow emerges from her body saying "This is for my husband"
+- From outside the lower wall, [[Emi]], [[Ardric]], and [[Melody]] hear "Place the charges"
+- [[Emi]] heals all of the currently living party for 33 health each
+- [[Ardric]] locks in and hits both of the dragons, then [[Jason]] tries to look around for an exit, however he's stupid and doesn't find anything from his investigation
+- [[Fish]] examines the shadow and learns it drains the life of whoever it attacks eventually turning them into a shadow as well, however the body is ok
+- [[Fish]] gets attacked by the shadow as he grabs [[Olivia]]'s body and loses 5 strength
+- He then tries and fails to open the door at the north side of the room
+- [[Ave]] takes some time to make 10 silver bullets from money she has on her person
+- [[Melody]] runs up to the door and uses the chime of opening to reveal a path to the room with the portal
+	- The portal is not on
+	- The portal was attacked by a wolf of some type
+- [[Flint Thornclaw|Flint]] gets back up and begins running, then immediately goes back down as [[Fish]] attacks him
+- [[Advena]] uses dimension door to travel to the east-most room with the two portals but cannot surmise how to operate them
+- [[Ardric]] sickening radiance is putting in work, shreds the shadow, and damages one of the dragons as it flies into it like an idiot
+- The dragons both breath attack [[Fish]], [[Emi]], and [[Ardric]], killing [[Emi]] and [[Flint Thornclaw|Flint]] and creating several shadows as the dead [[yuan-ti]] turns into one too
+- [[Jason]] shoots 240 feet in one turn, and discovers that there's an emergency exit in a dried out well on the west side
+- [[Ardric]] pops sickening radiance back up, and it hits both dragons and all of the shadows currently on the field
+- One of the shadow dragons is the wife of leviathan, but highly corrupted
+- [[Ave]] kills the shadow dragon blocking our way out to the left, and makes her way over to the well
+- [[Melody]] hears a noise of something magical opening near where [[Advena]] is
+- He then transforms into his bone devil form and grabs [[Flint Thornclaw|Flint]]'s body
+- [[Ardric]] grabs onto [[Melody]] as he runs past
+- [[Melody]] slides down the well taking the bodies of [[Emi]] and [[Flint Thornclaw|Flint]] with him
+- *someone* appears from the portal, calling for [[Advena]], however she doesn't hear
+- [[Advena]] then dimension doors to the west side where the rest of the party is
+- The four [[yuan-ti]] from the lower area all see [[Advena]] peaking out to check on [[Fish]], and all begin to shoot at her
+- [[Ardric]] casts feather fall on everyone then jumps down the well
+- [[Fish]] begins laying into the dragon who followed us, killing it
+- He then also jumps down the well
+- [[Ave]] joins the rest of the group at the bottom of the well
+- [[Melody]] uses the revivify wand we have to revive [[Emi]]
+- [[Fish]] is conflicted about bringing [[Olivia]] back although [[Emi]] wants to
+- [[Ardric]] begins casting gentle repose on [[Olivia]], as [[Melody]] grabs [[Fish]], [[Ardric]], and [[Olivia]]('s body) and begins carrying them out
+- [[Advena]] drops down the well, then begins looking for [[Olivia]] panickedly then chases after [[Melody]]
+- The [[yuan-ti]]s high five each other as [[Advena]] leaves, then die as the expanding fire consumes them
+# Escape
+- [[Advena]] rushes up to [[Melody]] and presses a revivify scroll onto [[Olivia]] alongside a diamond she found in [[Olivia]]'s bag
+- [[Ave]] puts [[Flint Thornclaw|Flint]]'s body into the bag of holding and chases after the party
+- [[Olivia]] comes to, sees everyone standing around her and checks to see if she's still human inflicted with werewolf
+- [[Fish]] is muttering about how that "wasn't the plan"
+- [[Olivia]] is quite upset that she has to die again now in order to have another chance at this plan
+- [[Fish]] tries to comfort her
+- The rest of the group is checking in on each other
+- [[Advena]] uses message to ask [[Melody]] in private what happened to [[Emi]]
+- [[Advena]] feels guilty about not being there to help [[Emi]]
+- The discussion turns to include the rest of the party, and the fact that our enemies are evolving and growing stronger
+- [[Advena]] says thank you to [[Jason]] to which he slides away from her
+- [[Fish]] sits with [[Olivia]] in silence to give her time to process what happened
+- [[Fish]] informs [[Olivia]] that [[Advena]] was the one who brought her back
+- she is... understandably upset about this
+- [[Fish]] makes his way to [[Emi]], doing his best to ignore [[Advena]]
+- [[Emi]] is unfocused and absentmindedly stroking [[Miko]]
+- [[Emi]] is surprised and upset that [[Olivia]] got revived
+- [[Olivia]] and [[Emi]] saw each other when they were both dead
+	- When they saw each other, [[Olivia]] told her that she wanted to wait
+- [[Fish]] hovers a paw over [[Emi]]'s right shoulder in comfort, causing her to jump slightly
+- Discussion is being had about what is to become of [[Redwood]] now
+- Trying to figure out if [[Thawlight]] can be further expanded to include either [[Redwood]] and/or the [[Big Fae Apple]]
+- [[Emi]] has a black scar stretching down the length of her right arm
+- [[Ardric]] also has similar scarring on his fingers
+- [[Melody]] notices [[Stilts]] in the distance running towards us looking incredibly panicked
+- Every single person in [[Dofleini]] is gone?!
+	- There's no trace of fighting or struggle
+- [[Melody]] pulls out the sending stone linked with [[Harr]] to check for a response
+	- There is no response
+- [[Emi]] is using the [[mind blower]] to try and locate [[Harr]] with scrying
+- It's almost as if [[Dofleini]] never received our orders in the first place
+- [[Emi]] sees [[Harr]] alone in his cell, whispering to himself that he "tried to warn them"
+	- The cell is in the same place as it was before
+- 

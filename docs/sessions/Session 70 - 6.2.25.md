@@ -1,0 +1,169 @@
+---
+tags:
+  - dnd
+  - notes
+  - sessions
+date: 02-06-2025
+type: session
+---
+# General
+- [[Melody]] collapses the cabin after we agree to head to the [[Fae Wild]] and finish our croissants
+- Our goal is to find the rat in here and also look into the wanted posters for [[Melody]]
+- [[Refrain]] greets us as we enter
+- [[Refrain]] doesn't know anything about the people disappearing
+- He'd prefer to not have information because we have information and we look miserable
+- [[Ardric]] is going to keep him informed regardless of [[Refrain]]'s consent
+- [[Olivia]] thanks [[Ave]] for giving her and [[Fish]] the sending stones
+- We enter the [[Big Fae Apple]] and once again come eye to eye with [[Melody]]
+- [[Ardric]] smells a wanted poster, and determines it's at least 5 years old
+- As we cross a bridge, [[Melody]] gets recognized by a random fairy who asks him to sign her wanted poster
+	- He refuses
+- She knows who [[Emi]] and [[Belle]] are specifically
+- She also knows who [[Ave]] is?!
+- [[Melody]] gives us a loose introduction to the area since he wants to show us around a bit more
+- He wants to look for an old friend named [[Big Johnny]]
+- We return to [[Lost and Found Names]] and see that [[Herron]] is still petrified
+- [[Advena]] wants to look up the name [[Estella]]
+	- It's a common name?
+- [[Advena]] claims to be related, however the only information found is that the person and [[Advena]] are not in the same dimension (As in they are in a parallel state of existence)
+- She claims this means her "theory" has grounding to it
+- [[Fish]] goes up to look for "Gleam of Leaping Fish" (himself)
+	- He has someone watching him /pos (probably [[Melora]])
+	- [[Buttercup]] needs permission from the individual watching [[Fish]] to read his information in the book
+	- His original name is what the "*cough* goddess" is keeping protected
+	- He prays to [[Melora]] and the protections around him in the book fade
+- After [[Fish]] finishes, [[Advena]] goes up and asks for information from [[Buttercup]] directly regarding parallel universes
+- This isn't [[Buttercup]]'s first time dealing with parallel universes
+	- She knows pretty much nothing about them
+	- [[Cain]] had a brief mention of parallel universes when looked up previously
+	- A long time ago a young elven child had this occurrence
+		- The child was fleeing and her parents were looking for a better world
+		- She also mentions the Great Elven Migration
+			- From what people know, the [[Elves]] had a prophecy and upon learning of it they wanted a way out of this world
+			- The [[Elves]] predicted something about the end of time, and the prophecy involved "The wheel cannot be stopped"
+			- The temple for the prophecy was created by the [[Elves]] and is now maintained by the [[boolywog]]s who seem to understand its intent
+			- They knew if what they saw was truly coming, there was no hope for this world
+			- [[Ardric]] shares what the mural we saw looked like using minor illusion
+- [[Buttercup]] then looks for [[Boob-ADoob]]
+	- She believes the [[boolywog]]s just stole the remnants of Elven civilization
+	- The [[Elves]] who left were primarily the ones in power or wealthy
+	- They did their best to make sure no one followed them using one use portals
+- We now begin to make our way towards the [[Seedier District]] but find we keep looping through the main plaza
+- [[Ardric]] looks around asking for a map and information on how to avoid the [[Seedier District]]. The price is his firstborn.
+	- He uses suggestion to get it for free
+- Upon opening the map, he needs to do a perception check, and notices a huge zone that seems to be enchanted to be hidden on the map
+- [[Ave]] examines the map closer and sees notes describing it as the place where the transformed [[Fairies]] are located, and we must hold our breath, close our eyes, and run in order to get there
+- [[Melody]], [[Ave]], and [[Ardric]] run first, while the rest of the group watches
+	- After a bit, [[Melody]] and [[Ave]] disappear to the rest of the group
+	- [[Ardric]] tries walking, and a sign appears in front of him with "run idiot" written on it in Slyvan
+- As [[Ave]] and [[Melody]] arrive in the [[Seedier District]] they see multiple fairies with varying degrees of bone transformation populating a much darker area of the [[Big Fae Apple]]
+- The rest of the group follows suit, joining them there
+- These [[Fairies]] are referred to as [[Air-touched]]
+- [[Melody]] inquires about [[Big Johnny]], and one of the fairies ([[Lydia]]) guides us telling us to not mention the name so loudly
+- [[Lydia]] pulls out a wanted poster and recognizes [[Melody]]
+- He's well known around these parts /pos
+- As we enter [[The Fey-lure]], [[Fish]] checks for traps, not finding many but noticing the people in here being mostly on guard and armed
+- [[Olivia]] casts a protective spell on [[Fish]]
+- They get stopped at the door for not being allowed spells
+- [[Ardric]] steps out to join [[Fish]] and [[Olivia]]
+- They go around a corner and [[Olivia]] recasts death ward on [[Fish]]
+- [[Lydia]] goes up to the bar, orders a specific drink, and the barman shows us to a hidden passage
+- [[Lydia]] isn't coming in with us in order to keep watch
+- The entire room feels very tense for some reason
+- We drop down the hole, into a hidden room with several [[Fairies]] about and one large one in the middle ([[Big Johnny]])
+- [[Advena]] detects a huge aura of divination magic around the bar
+- According to [[Big Johnny]] the last few months in particular have been complicated
+- He wants to know if we have all our memories
+- People in the [[Fae Wild]] are getting replaced
+	- Sometimes people disappear, then come back and don't have all their memories
+	- Something is different in the way they look at you
+	- When staring them in the eye, something is missing
+- [[Big Johnny]] calls over the "squad" to come listen to the information [[Melody]] has to share
+- The people who come back from being kidnapped all seem to defend each other like a hivemind
+- About 1/3 of the [[Fae Wild]] has been replaced so far, including the majority of the bureau
+- There also appear to be two types of mental change happening, some not requiring kidnapping
+- The [[Hags]] for the most part seem unaffected by these events
+- Some of the [[Mail Squirrels]] have also been working more and not sleeping
+- Any members that have gone to investigate the bureau haven't come back or came back not the same
+- We're advised not to split up should we go to the bureau
+- [[Tempo]] pranks [[Ardric]] with a fart joke
+- [[Melody]] is catching up with his old group
+- They're have been renovations since the bureau became infected, including the installation of a teleportation circle
+- [[Melody]] is not wanted anymore, however he's becoming very popular in the [[Fae Wild]]
+- in the bureau is "[[mother]]" who is the new director of the bureau, but she can tell instantly if someone is allied with her or not
+- We are to avoid her at all costs
+- The [[Dryad]]s are also likely compromised
+- [[Melody]] tells just [[Big Johnny]] that the [[Fairies]] are being used as fuel
+- We disguise ourselves by putting on suits that people in the bureau would wear
+- We then leave and begin making our way to the bureau
+- We're concocting a plan, involving leaving the city for a while to prepare
+## [[Melody]], [[Ardric]], [[Fish]], and [[Olivia]]
+- The group goes to [[Lost and Found Names]] so [[Ardric]] can talk mythology with [[Buttercup]]
+- Someone tries to come in, however [[Olivia]] detects their eyes missing something, and she gets kicked out
+- They then head over to a cafe along with [[Buttercup]]
+- [[Chloe]] the spider has a spiral in her eye briefly when [[Olivia]] checks
+- [[Olivia]], [[Melody]], and [[Fish]] get a table together, while [[Ardric]] and [[Buttercup]] share another
+- [[Chloe]] had been ill for 15 days, 6 hours, and 32 minutes
+- [[Olivia]] casts remove curse on [[Chloe]], which she's grateful for, but apparently "they" know what you did now
+- [[Melody]] informs [[Magus]] and [[Methusalem]] about [[Chloe]] being infected by [[The Great Eye]]
+- [[Olivia]] checks [[Chloe]]'s eyes again, and the infection appears to be completely gone
+- [[Olivia]] pays the two to close the cafe early
+- The group now hears steps in unison as if an organized group is marching towards the establishment
+	- Several [[Fairies]] are moving towards the restaurant
+- [[Fish]] flips the closed sign
+- The [[Fairies]] are "walking" not flying
+- They appear to be civilians moving as a hive mind
+- As they approach, they pull out torches and say "come out" in unison
+- [[Ardric]] takes [[Buttercup]] as the group leaves through the back exit of the cafe
+- Some of the [[Fairies]] chase after them, while some stay behind to guard the building
+- [[Melody]] tries to fly through the hoard, however some of them look at him with their eyes spiraling, and he suddenly no longer wants to run
+- [[Ardric]] vortex warps [[Melody]] out of the area
+- [[Olivia]] tries to use remove curse on [[Melody]] but it fails
+- He gets uncharmed for 1 minute then uses the decanter to shoot a geyser of water at the fairies who are now trying to bash down the door
+- He manages to put out their torches, however they're  still trying to break into the building
+- [[Melody]] throws the gem of brightness at them, in an attempt to blind the fairies
+- He succeeds and all of them are now blinded
+- Upon recovering from being blinded, they begin to chase the group
+- [[Ardric]] grapples [[Melody]] to prevent him from running back after becoming recharmed
+- They begin to make their way to the library
+- [[Buttercup]] is dropped off at the [[Big Fae Apple]]
+## [[Ave]], [[Advena]], [[Emi]]
+- The group travels to the [[Library of Ba]]
+- [[Advena]] is working on something
+- [[Refrain]] enters the library to look for a book on how to write a love letter to a hag
+- [[Emi]] checks his eyes and notices nothing
+- [[Refrain]] is trying to write a love letter to [[Deborah]]
+- as [[Emi]] tries to ask [[Ave]] about the book she got on the Raven Queen, [[Refrain]] wanders over still trying to write poetry
+- [[Ave]] asks [[Advena]] about her theory from earlier
+	- [[Advena]] is unsure if she's even from this universe of existence
+	- She wants to see about reaching a plane parallel to this one
+	- [[Ave]] wonders if [[Cain]] was interested in [[Advena]] due to her origin from a different parallel universe
+- As [[Refrain]] passes by again, [[Emi]] casts produce flame in his general direction
+- [[Ave]] persuades him to let her perform a spontaneous eye exam on him, and briefly sees a spiral in his eye
+- [[Olivia]], [[Fish]], [[Ardric]], and [[Melody]] arrive at the library
+- [[Emi]] casts greater restoration on [[Melody]] removing the charm from him
+- [[Advena]] is still writing
+- [[Ardric]] puts a fog cloud over the group so [[Advena]] can create an illusion of the group
+	- She creates an illusion of the group that starts running one direction which half the [[Fairies]] chase
+	- We exit out the back
+- According to [[Big Johnny]] there are groups of [[Fairies]] guarding every exit of the [[Fae Wild]]
+- The bureau is the only safe spot currently where [[Fairies]] are not
+- [[Fairies]] are jumping each other in the streets as we run putting tadpoles into each others eyes
+- Around the bureau seems to be a radius [[The Great Eye]] isn't willing to touch
+- We put on our bureau suits
+- [[Olivia]] and [[Advena]] cast disguise self on themselves
+- As we stealthily pass a group of [[Fairies]] we hear them discussing how if the [[Fae Wild]] falls, nothing of value is lost today
+- Two squirrels walk across the main area that we're in, ignoring us and our silent image guide
+- The squirrels are missing something in their eyes
+- We're taking a minute to regroup and discuss what specifically our goal here is
+- [[Melody]] pulls out his scroll from the devil
+	- On the ground, it reads "Sell soul for Fae traitor"
+	- He signs his name on the paper
+- It says "Refrain" go back to Cadence's hut, and check the drawer in his room for a paper
+- [[Ardric]] distant spells dimension door to get him and [[Melody]] there as fast as possible
+- As the two arrive, [[Melody]] rushes for the drawer
+- ![[Pasted image 20250602163155.png]]
+- [[Refrain]] comes in, suggesting that [[Melody]] doesn't make it hard for him to bring the city into the collective. He doesn't want to attack [[Melody]]
+- [[Melody]] attacks him, doing non-lethal damage
+- As he attacks him, voices come from outside, asking if [[Melody]] is satisfied, asking if he will solve a problem with a genocide like his [[Cadence|mother]]
+- 

@@ -3,6 +3,8 @@ tags:
   - dnd
   - characters
   - npc
+aliases:
+  - Saph
 ---
 # Bio
 - Deceased, turned to a pile of ash by [[Cain]]

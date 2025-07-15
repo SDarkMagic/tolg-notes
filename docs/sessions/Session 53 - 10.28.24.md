@@ -1,0 +1,63 @@
+---
+tags:
+  - dnd
+  - sessions
+  - notes
+---
+# [[Melody]], [[Emi]], [[Advena]], [[Ave]], [[Olivia]] in the [[Fae Wild]]
+- We're heading to the [[Fae Wild]] now
+- There's a welcoming committee...
+- [[Olivia]] no longer feels the effects of the full moon
+- They've been standing here waiting almost half a day for us to show up?!
+- Oh there's a hooded figure in the distance behind us who's been here for a while
+- They have pale skin and long flowy hair that "seems familiar"
+- A previously assumed abandoned area of the [[Fae Wild]] has recently had activity
+- [[Emi]] begins wandering over to the figure
+- They wander to a cottage and enter inside of it. [[Melody]] has no idea what this place is
+- [[Olivia]] hears a very faint voice saying they aren't open for business as she approaches
+- It's a tiny spider hanging from the door
+- They're [[Magus]] and [[Methusalem]]
+- We're going to rest at [[Cadence]]'s house, which has been very well maintained
+- [[Advena]] and [[Emi]] take off their heels when entering so they don't hit their heads
+- [[Melody]] is giving us a tour of the house
+- As we each enter [[Cadence]]'s room, we shrink to be at scale with the room
+- Paintings on the walls depict [[Cadence]]'s feats in life with additional creative liberties
+- They were painted by the house
+- A painting of [[Cadence]] standing atop a pile of dead creatures
+- No one seems to know what this painting is of
+- [[Melody]]'s room is unlocked, and we all shrink again as we enter the room
+	- He had a glitter bucket that he would put over the door for when people walked in the room
+- The room is a MESS
+- We're talking about [[The Big Apple]] and [[The Elegists]]
+- [[Melody]] spent ~16 years screwing with people in the city
+- He has stolen a large quantity of random trinkets that people wouldn't miss
+- [[The Elegists]] are a group of aberrations that have given the [[Fae]] a bad reputation
+- [[Melody]] decided to try to prank [[The Elegists]] after being done with [[The Big Apple]]
+	- This was not a good idea
+- He was caught by one of them, and they messed with his head a good bit
+- [[Cadence]] "took care" of a lot of them after seeing what they did to [[Melody]]
+- He somewhat blames himself for this, and feels like he wasted his life
+- We're the only people to have seen his room consensually since he was last here
+- [[Olivia]] asks how [[Melody]] moved on from the guilt
+- We leave the room and return to our normal sizes
+- [[Melody]]'s father was a tanner, but is no longer in the picture
+- There's also a reading area with some bookshelves in the house
+# [[Fish]]/[[Ardric]] in the [[Material Plain]]
+- [[Ardric]] and [[Fish]] separate ways so [[Fish]] can have some alone time with [[River]]
+- [[River]] wants to talk about something very specific as they begin fishing
+- He's talking with [[Fish]] about how valuable she is to him
+- something something relationships
+- [[Fish]] catches a minnow, and [[River]] catches a bass
+- [[Fish]] is starting to fall asleep on the boat
+- [[River]] was unaware of the fact that [[Olivia]] is a werewolf
+- [[Ardric]] is staring at the moon and reaching out to his patron
+	- Despite not getting an answer he feels like someone is listening
+- He's requesting an answer to a question only the patron can answer at the right time
+- [[Jason]] pokes his head out of the pocket and looks at [[Ardric]]
+- He wants to know when exactly the end of time is
+- [[Jason]] gets the book from [[Nott]] 
+	- He then looks at the stars and moon and points in a direction
+# [[Fae Wild]]
+- We all awake from a long rest, and [[Ardric]] arrives at the house alongside [[Fish]]
+- [[Melody]] is giving them the tour now
+- 

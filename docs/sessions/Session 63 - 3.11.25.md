@@ -1,0 +1,86 @@
+---
+tags:
+  - dnd
+  - notes
+  - sessions
+---
+# General
+- [[Fish]] attempts to contact [[Olivia]] through his sending stone
+- [[Ardric]] gives a good berry to [[Harr]]
+- [[Fae Wild]] creatures appeared first and talked to everyone to coerce them into the portals
+	- Most likely [[The Elegists]]
+- [[Isla]] asks [[Melody]] why [[Harr]] is in prison
+- She can also form a mental link between people
+- [[Fish]] updates [[Olivia]] that everyone is alive now
+- The conversation about what to do with [[Harr]] is happening across two different mental links, with [[Isla]] only being privy to [[Ave]]'s parts of the discussion
+- According to [[Harr]] if this is related to [[The Great Eye]], we have a week at most until the entire mind transformation process is complete
+- [[Ardric]] lets [[Harr]] out of his cell
+- [[Emi]] takes the sending stone from [[Advena]]
+- [[Fish]] gives [[Harr]] a couple rations as he leaves the prison
+- He then asks [[Harr]] about the flower we need
+- [[Cain]] burned every single one of the flowers
+	- He kept one in his pocket
+- We go to the warehouse to look for our mail orders
+- [[Advena]] uses detect magic to locate where the portals were specifically
+- People go to look for their orders in the warehouse while [[Isla]] looks at the portal remnants with [[Ave]]
+- [[Advena]] finds a scroll of vortex warp and takes it
+- The portal has two pathways: one leading to the [[astral plain]], one leading to [[Serenity]]
+	- The most recently used one was to the [[astral plain]]
+- The portal near the museum leads to the [[astral plain]] and another location we do not know
+- [[Isla]] blunders the second portal and gets hit by a laser.
+- [[Ardric]] sees her rolling on the floor in pain, while [[Melody]] and [[Ave]] see her disintegrating
+- [[Ave]] slaps herself in the face seeing the other's reactions not congruent with her own and dispels the illusion magic from herself
+- [[Advena]] wraps the sending stone in a cloak of protection to muffle the sound
+- Everyone is physically fine, however the portal is gone now
+- We finally BARELY get the last portal to re-open
+- [[Advena]] notices that [[Isla]] did not open the portal, someone else did
+- She then sends [[Belle]] through the portal while looking through her eyes
+	- She walks through the portal, clipping to the other side in our current area
+- [[Advena]] recasts detect magic, confirming the portal IS open, however one of the paths is now closed
+	- The path to the astral plain is now closed
+- [[Isla]] is concerned about having to hold the portal open to which [[Advena]] informs her she was not the one who opened it
+- [[Advena]] puts her hand in despite the group not wanting to take the portal
+- She then gets sucked into the portal
+- Everyone follows into the portal
+- [[Ardric]] grabs a plant just before he goes through
+- We appear in [[Serenity]] in front of [[Nadine]] and [[Vesta]]
+- [[Vesta]] knows this trick saying "[[Cain]] would not shut up about this back in the day"
+- These portals cannot be closed permanently
+- The portals are a derivative of chronomancy
+- To get this we need to go to [[Cain]]'s old laboratory
+- As [[Isla]] is introducing herself to [[Vesta]] the animal messenger from [[Emi]] arrives
+- If we do find petrified people that have gone missing, [[Vesta]] says she could try to bring them back
+- [[Harr]] is staying in [[Serenity]] for the meantime while [[Vesta]] helps him find a new vocation
+- As we approach [[Cain]]'s lab, the words "I am the best" are written in Elvish on the walls
+- [[Emi]] casts pass without a trace as we enter, and we hear muffled words from [[Cain|the peanut gallery]]
+- As we enter, a voice asks who the sea elf is
+- It's a woman with gold hair and wearing a mask
+- [[Ave]] forgets she's with the party when asked if she's with anyone since she can't see them
+- [[Advena]] comes up to join [[Ave]] to which the woman seems to lose some composure
+- She knows [[Advena]]'s name
+	- She also knows that [[Advena]] doesn't remember things
+	- She's scared of how dangerous [[Advena]] could be currently
+	- [[Advena]] has never met or seen this woman before, but seeing her gives her deja vu
+- She puts down the wall to meet [[Advena]]
+- She's here to save [[Advena]], herself, and the others from [[Cain]]
+- [[Cain]] locked a door with [[The Great Eye]] that we need to get past
+- The people she's trying to be saved are behind that door
+- 4 elemental themed labs each with a switch that when activated simultaneously will open the door supposedly
+- The rest of the party, save [[Melody]] reveal themselves to her
+- She has a similar voice to [[Advena]] and a very similar outfit and figure
+- She removes her mask, showing part of her body is [[Warforged]]
+- She says she's [[Advena'|Advena]], but an earlier model
+- They're part of the "Advena Initiative"
+- [[Cain]] wanted to give the original Advena eternal life, but didn't care about the incomplete ones
+- There are hundreds of [[Advena'|Advenas]] that are scrapped, dead, or disintegrated
+- [[Advena']] cannot recover spell slots
+- [[Melody]] is scouting the different rooms
+- [[Fish]] uses mage hand to try and save the monkey familiar going after the flesh bananas
+- The monkey is upset about this
+- [[Advena']] woke up in [[Sand Fransisco]] initially with several other damaged [[Warforged]]
+- [[Jason]] tries to fly across the air room, and gets blown into a wall killing him instantly
+- [[Ardric]] tries to go through the room next on his horse, however his horse falls in a pit trap and dies
+- [[Ardric]] now checks for traps
+- ![[Pasted image 20250311135226.png]]
+- As [[Ardric]] removes the candle from the pillar, he reads an inscription in Elvish reading "Happy Birthday"
+- When he does this, the eye opens and one of the gems starts flashing

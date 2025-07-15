@@ -1,0 +1,130 @@
+---
+tags:
+  - dnd
+  - notes
+  - sessions
+---
+# Combat
+- [[Emi]] uses [[Miko]] to fiery teleport [[Advena]] out of her current situation
+- [[Cain]] orders [[Viva]]'s monkey familiar to be killed seeing it's plugging her ears
+- [[Melody]] incapacitates another [[Advena']]
+- [[Abel]] breaks his restraint and begins moving towards [[Emi]] and [[Advena]]
+- [[Abel]] then tries to stomp [[Isla]] dealing 24 damage
+- He then turns to attack [[Ave]] with his other two attacks dealing 72 damage
+- [[Fish]] attacks [[Abel]] and pushes him back 10 feet in the process
+- [[Ardric]] casts hex on [[Abel]] giving him disadvantage on wisdom checks
+- He then eldritch blasts pushing [[Abel]] away from [[Ave]]
+- [[Advena]] begins her turn by asking [[Cain]] why he didn't treat her like a pawn
+	- He actually cared about her apparently and wanted her to be something
+	- In just a few months most likely almost all of us will no longer exist apparently
+- She then vortex warps [[Viva]], leaving the monkey behind in the process
+- The [[Advena']]s cast 7 fireballs on the monkey, hitting [[Ave]], [[Fish]], [[Advena]], and [[Emi]]
+	- [[Isla]] counterspells one of them
+- [[Fish]] uses his reaction to shunt the monkey out of the range of the fireballs
+- [[Advena]] dies
+- [[Ave]] dies
+- [[Emi]] immediately goes to revivify [[Advena]]
+- [[Emi]] sees [[Abel]]'s human form through the lens crying
+- [[Cain]] growing bored, summons shadow spirits at the entrance
+- [[Melody]] lands a crit on one of the [[Advena']]s, and uses his [[Cadence]] rune to redirect the damage onto [[Abel]]
+	- 22d6 damage - 115 non-lethal damage
+- *FIRST ATTACK DONE*
+- He then hides and runs from where he just was to avoid danger
+- [[Abel]] then runs towards [[Emi]], which through the lens looks like him crying and running for a hug, but he's just gonna come try to crush her actually
+- [[Ave]], while dead, has a conversation in the void with a mysterious entity about a deal for her to come back at the cost of the life of the abandoned child
+- [[Advena]] uses the [[Manyvoice Mask]] to instruct the other [[Advena']]s to "stand down" in the voice of [[Cain]]
+- They accept this order and say "acknowledged master"
+- [[Emi]] grabs [[Ave]]'s body and teleports her into a hallway to try and revivify her
+	- This fails
+- [[Cain]] says the code: "Redemption25VermillionNadine" and all the [[Advena']]s become "feral"
+- [[Melody]] attacks [[Abel]], then tries to hide, with a nat 1 stealth
+- [[Abel]] walks towards [[Emi]] and tries to unleash the shades on her, only for [[Advena]] to vortex warp her away leaving [[Miko]] to take all of the attack, and dying
+- [[Isla]] moves the gem into [[Ardric]]'s radiance
+- [[Abel]] moves to try and stomp [[Advena]] but doesn't manage to land the attack
+- [[Emi]] takes the next attack which would have hit [[Advena]] using the power of doomed yuri
+- [[Ave]] comes back from the dead, misses two shots, action surges, and shoots [[Abel]] twice
+- [[Ardric]] tries to combine a sacred flame with eldritch blast
+	- He hits the growing shadows from the main entrance, and it shrinks significantly
+- [[Advena]] attacks [[Abel]] with a shadow blade, but he's still standing somehow
+- [[Cain]] cannot remember what [[Ave]] likes
+- [[Emi]] heals herself, [[Ave]], and [[Advena]]
+- [[Melody]] downs [[Abel]], incapacitating him
+- [[Abel]] self destructs as [[Cain]] remembers [[Ave]] likes bombs
+	- This kills the surrounding [[Advena']]s who get caught in the blast
+- [[Isla]] moves the gem into [[Ardric]]'s sickening radiance, making a concentrated beam to attack the shadow doing disintegrate damage but radiant
+	- This cuts it in half killing it instantly
+# General
+- [[Viva]] comes up to look for her monkey
+- [[Melody]] looks around in the room and finds 3500 gold and 500 gold worth of ruby
+- When [[Melody]] looks through the lens at the party, [[Emi]] has black tentacles behind her, [[Fish]] is glowing with a halo, and [[Ave]] is wearing a dark robe and has large black feathered wings
+- [[Fish]] and [[Melody]] are discussing what they see through the lens
+- [[Ave]] uses mending to fix the 5 remaining [[Advena']]s that [[Melody]] collected
+- [[Advena]] and [[Emi]] are lamenting the fact that they both want a family and do not currently have one
+- Through the lens, only the crown is really visible and [[Ardric]] is almost translucent
+- [[Advena]] is discussing what to do about the [[Advena']]s with [[Viva]]
+- [[Cain]] was lying the whole time, there was nothing in any of them
+- [[Isla]] comes up to join the party to be visually inspected using the lens
+- [[Advena]] determines the lens sees through other plains to detect magical energy attached to people
+- [[Viva]] theorized that the lens was a soul lens
+- [[Viva]] tries turning on one of the [[Advena']]s but nothing of note happens
+- [[Melody]] uses his knife to cut a part of the lens out and he has a pocket soul lens
+	- No clue how long it will last
+	- Less accurate than the big one
+- We return to [[Serenity]]
+- As we head back to the portal area, we hear several voices and notice a lot of defenses have been setup
+- [[Artemicion]] has a new book for us that he just made
+	- It's the interview with [[Cain]]
+- The entire book is just flaming [[Cain]]
+- This squirrel has put a target on his own back
+- [[Ave]] and [[Ardric]] help [[Isla]] carry the [[Advena']]s
+- [[Melody]] flies up and looks down with his new lens
+	- The entire crater is glowing purple
+	- [[Artemicion]] looks more heroic through the lens
+- [[Bob]] goes looking for a pumpkin to give to us
+- [[Vesta]] learns about what happened in the lab and is shocked to learn about the [[Advena']]s
+- Recently [[Vesta]]'s memories re-appeared, and she's unsure if she willingly forgot or something happened to them
+- [[Cain]] changed when [[Nadine]] was very young
+	- She was being attacked by an undead/demon beast with tentacles of some variety
+	- [[Cain]] was casting spells to protect her
+	- It killed [[Cain]]
+	- When [[Vesta]] brought [[Cain]] back, he was shaken because he couldn't protect [[Nadine]]
+- She wants to talk with [[Emi]] in private now
+	- This isn't the first time she's seen a perfect replica/simulacrum of someone
+	- After [[Cain]] changed and [[Vesta]] made him leave [[Serenity]]
+	- He came back with a solution to never fear losing [[Nadine]] again
+	- He showed [[Vesta]] a perfect synthetic replica of a young [[Nadine]]
+	- According to him it was the safest way to make sure [[Nadine]] was still alive no matter what
+	- [[Nadine]] has never been told about this, and [[Vesta]] doesn't want her to ever know
+	- [[Emi]] wants [[Vesta]] to keep a secret from [[Nadine]] for her
+		- It's the fact that [[Abel]] is gone for good now
+- ![[Pasted image 20250324151345.png]]
+- [[Ardric]] now tries to cast forbiddance on [[Serenity]]
+- [[Bob]] comes back with a **MASSIVE** pumpkin for [[Viva]]
+- [[Ardric]] casts gentle repose on the pumpkin to help prevent decomposition over time
+- [[Advena]] has a request for [[Harr]]
+	- She wants him to "fix" the [[Advena']]s to remove them from his influence and potentially remove the failsafe installed in them
+- [[Advena]] notices something is off about [[Harr]] since he looked at [[Viva]]
+	- This isn't the first time he's seen [[Viva|her]]
+	- He saw her a few years ago when he started doing work for [[Cain]]
+	- [[Cain]] gave him access to any spare parts or models from storage when he began working for him
+	- he found [[Viva]] in there, and helped her escape
+- [[Harr]] agrees to try to help [[Viva]] regain her memories
+- [[Vesta]] looked into what was needed for petrification restoration
+- [[Melody]] shows [[Vesta]] [[Little Wyrm]] much to her surprise
+- [[Melody]] then pulls out three cockatrice saliva vials for [[Vesta]]
+- [[Emi]] agrees to talk with [[Nadine]] later this night
+- [[Advena]] wants to meet [[Vesta]] in her library later
+- [[Vesta]] expects a counter-attack when we open the portal
+- [[Viva]] is going to stay with [[Bob]] for the time being
+- We now head to [[Vesta]]'s library
+- [[Vesta]] gives [[Melody]] 3 doses of anti-petrification potion
+- [[Ardric]] acquires a spell of commune with nature
+- [[Melody]] distributes the gold he found in the lab
+- [[Advena]] and [[Isla]] split the cost of another spell scroll
+- [[Vesta]] gives [[Emi]] 300 gold worth of diamonds for revivify
+- Everyone but [[Advena]] leaves the library
+- She stays behind and is talking with [[Vesta]] about life transference for various healing methods
+- [[Vesta]] is encouraging the doomed yuri
+- [[Nadine]] wild magicked herself into a sheep at some point when practicing spells when she was younger
+- [[Ave]] forgot she was in the library while all this was happening, but may have overheard some of it
+- 

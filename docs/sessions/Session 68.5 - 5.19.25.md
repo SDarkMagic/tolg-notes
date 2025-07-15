@@ -1,0 +1,94 @@
+---
+tags:
+  - dnd
+  - notes
+  - sessions
+date: 19-05-2025
+type: session
+---
+# General
+- [[Ardric]] casts remove curse on [[Emi]] while she heals herself
+- [[Melody]] also gets healed and remove cursed
+- [[Isla]] is still being carried by [[Melody]]
+- She is starting to leak blood from her eye again
+- [[Fish]] silences [[Isla]] with a gag
+- [[Melody]] pulls out the cabin, and [[Advena]] immediately goes in to her room
+- [[Melody]] manifests a back to one of the stools in the lower room, then ties [[Isla]] to it
+- [[Ardric]] tries to explain the situation to [[Isla]] however she doesn't appear to understand
+- [[Isla]] says it's still in there after [[Emi]] asks her about it in primordial
+- She asks [[Ardric]] to try remove curse on her, but he needs to wait 20 minutes
+- [[Melody]] goes to check on [[Advena]] who is laying  still on her bed
+- [[Ardric]] uses remove curse on [[Isla]], however it only seems to suppress the tadpole and would need a greater restoration or similar to remove it
+- [[Emi]] casts greater restoration on [[Isla]], removing the tadpole
+- [[Isla]] claims to only remember feelings from the past 24 hours, however she remembers [[Cedric]] appearing in the [[astral plain]] to aid us
+- She joined our group for the purpose of leading us somewhere
+- [[Melody]] asks [[Advena]] over the mental link if she wants to be kept up to date (she does)
+- [[Ardric]] asks what the last thing [[Isla]] remembers comprehensively is
+	- She remembers being home (underwater in a cave)
+	- Came back from a supply run, however after a while the water in the cavern began to drain
+	- Her mother was turned to stone in front of her
+	- Taken with them through the portal, then gets fuzzy
+- [[Isla]] was "chosen" to be useful to the [[illithids]]
+- They gave her the necklace she uses for spellcasting to channel the magic [[The Great Eye]] gave her
+- She had something tattooed onto her upper back
+	- tattoo of the eye
+- Others have gone through this process (the ones not turned into [[Mind flayer]]s)
+- Something was put into her eye (not a tadpole)
+- [[Emi]] has the same thing, however [[Isla]] says the details are fuzzy of what exactly it is
+	- It's an infection
+- [[Isla]] doesn't think it's completely gone after the healing spell from [[Emi]], however she feels in control now
+- She brought us there to try and have us join [[The Great Eye]]
+- [[Isla]] wanted us to join by our own choice so we could stay as ourselves
+- She says we can't just kill the eye because it would instantly turn anyone that's infected
+- [[The Great Eye]] wants to endure in any way possible
+- This is what she's known for 20 years
+- [[Melody]] asks [[Isla]] if she knows what happened to the others that were turned to stone
+	- She is unsure
+- She then says that the incision was necessary to spread the infection 20 years ago, however it isn't any longer
+- It's called the [[Sleeper Infection]]
+- It apparently makes the infected weaker to being overtaken by [[The Great Eye]]
+- It wanted her to lie to us about having any knowledge of its existence
+- [[Isla]] herself did not want to kill us when we were in the most recent battle
+- [[Emi]] says she understands what [[Isla]] is dealing with, but she still hates her for what she did
+- We're leaving [[Isla]] to sleep in the lower room for the night
+- [[Isla]] is released from her ties, making [[Fish]] apprehensive
+- [[Ardric]] casts teleportation circle and takes himself, [[Melody]], and [[Fish]] to [[Sthertiing]]
+- He then casts forbiddance over [[Sthertiing]]
+
+# Nightwatch
+- [[Fish]] shows the [[Ardric]], [[Melody]], and [[Emi]] how to prep fishing rods
+- [[Emi]] goes to [[Advena]]'s door to see if she's ok
+	- She gets no response, and goes in to find [[Advena]] sitting unresponsive on her bed
+	- [[Advena]] seems almost spooked, and is very hesitant in answering [[Emi]]'s questions
+	- She wildshapes a cat to comfort [[Advena]]
+	- [[Advena]] views herself as a monster because she's hurt people
+	- After [[Advena]] processes emotional baggage with [[Emi]], [[Emi]] leaves, but leaves her cat with [[Advena]]
+	- [[Advena]] then goes to leave for a walk through [[Serenity]]
+	- As [[Advena]] arrives in the lower level, she encounters [[Isla]] who realizes she has no way of communicating with her
+- The nightwatch room has manifested a small pool of water which the group is trying to fish in as [[Emi]] returns
+- The group is now discussing what's across the ocean
+-  politics.
+- Discussion about reincarnating [[Olivia]], death in general
+- How to skin a fish
+- [[Emi]] and [[Ardric]] commiserate about the loss of [[Cedric]]
+- [[Advena]] returns and ritually casts alarm on the door into the cabin
+- [[Isla]] wakes up, and [[Advena]] questions her about the crystals in the [[astral plain]]
+- [[Isla]] is confused and doesn't remember the crystals
+- [[Advena]] returns to her room as the rest of the group finishes preparing their fish
+- [[Ave]] goes out of the cabin setting off [[Advena]]'s alarm and interrupting her train of thought talking with [[Emi]]
+- [[Emi]], [[Melody]] and [[Fish]] head off to bed
+- [[Ardric]] and [[Advena]] are discussing the nature of the party
+- [[Advena]] wishes she could have done more to help [[Cedric]] regain his memories
+- [[Ave]] returns, and [[Advena]] apologizes to her for running away
+- [[Advena]] then goes to [[Emi]]'s room where she's still awake
+- [[Emi]] tells [[Advena]] that after [[Abel]] died she set a bunch of trees on fire
+- [[Emi]] offers to share her bed with [[Advena]]
+# Morning
+- Everyone wakes up, [[Ardric]] realizing he slept on a bench
+- [[Emi]] and [[Advena]] get up later than everyone else
+- Seeing [[Emi]] and [[Advena]]'s lines pointing to the same room for another night, [[Ardric]] rhetorically inquires whether or not we should combine their rooms
+- [[Advena]] wants to test something on [[Isla]] before we depart
+- [[Ardric]] leaves to setup forbiddance in different locations with his new teleportation circle
+- [[Isla]] claims to not have magic now
+	- She's telling the truth
+- [[Melody]] distributes 2 item jellies to each of the party members

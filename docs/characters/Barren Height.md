@@ -3,6 +3,8 @@ tags:
   - dnd
   - characters
   - npc
+aliases:
+  - Barren
 ---
 # Bio
  - Hates [[Emi]] with a passion saying that she's responsible for [[Cedric]]'s memory loss

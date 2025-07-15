@@ -1,0 +1,66 @@
+---
+tags:
+  - dnd
+  - notes
+  - sessions
+date: 15-07-2025
+type: session
+---
+# General
+- The group wakes up, and goes to meet [[Advena]] and [[Emi]] by the portal in [[Serenity]]
+- [[Fish]] and [[Olivia]] split off to go look for [[Vesta]]
+- [[Ardric]], [[Emi]], [[Melody]], [[Ave]], and [[Advena]] go to check on the diamond mine
+- [[Ardric]] talks with the [[magmans]] who are still in the cave to see if they know anything about the cave in.
+- We consider sending [[Jason]] in to scout, then remember the area is full of lava
+- [[Melody]] pulls out the chime opening, as [[Ardric]] casts identify on it to specifically define "opening"
+- [[Jason]] slides under the rock at the entrance, and manages to enter the cave
+- [[Ardric]] runs off and gets pickaxes for the entire party
+- [[Ardric]] and [[Emi]] look at the rock to see where the best spot to dig is
+- [[Ardric]], [[Emi]], and [[Ave]] begin digging, as [[Advena]] copies a scroll (nerd)
+- [[Melody]] tries digging once, causes damage to the structural integrity of the rock, and immediately gives up
+- The [[magmans]] come over, and ask [[Jason]] if they can help dig
+- Meanwhile,[[Fish]] and [[Olivia]] make their way to [[Vesta]]
+- [[Fish]] explains the dream that [[River]] had to [[Vesta]] asking if she has any insights on it
+- [[Vesta]] says the gods are trying to contact someone somehow, but that they also have a limited amount of instances they can interfere with mortal affairs
+- She then goes on to say if they mentioned the flower, the reincarnation process is absolutely protected, and we shouldn't worry about it
+- [[Vesta]] says the dream is definitely [[Melora]] and [[Sehanine]] communicating that they're very excited to meet [[Olivia]]/[[Fish]]
+- [[Fish]] and [[Olivia]] return to help the mining efforts with [[Vesta]] tagging along
+- The two start trying to help, and the tunnel immediately begins to collapse
+- [[Ardric]] uses telekinesis to stabilize the tunnel temporarily
+- [[Emi]] uses plant growth to form a foundation for the tunnel to stabilize it
+- We finally reach [[Jason]] after 8 hours of digging
+- We then make our way into the mine, with [[Vesta]] taking a minute to wildshape into a fire elemental and dive into the lava
+- The diamond extractor is in incredible disrepair, with several bites taken out of it
+- [[Ave]] tries taking a bite out of it
+- One of the [[magmans]] asks [[Ardric]] if he wants some of their useless rocks, and comes back with 900 gold worth of diamonds
+- [[Ave]] challenges them to not eat the machine, and they accept it
+- [[Advena]] gives [[Vesta]] a scroll of greater invisibility to give to [[Isla]]
+- We all return to the cabin to rest
+- On our way, to the cabin, we see [[Deborah|Debbie]]'s summer home *walk* into [[Serenity]] and settle down in the center
+- [[Deborah]] offers to maintain forbiddance in [[Ardric]]'s absence, specifically on [[Serenity]]
+- After outsourcing the casting of forbiddance on [[Serenity]] to the [[Hags]], we go to the church
+- [[Nadine]] casts greater restoration on [[Melody]]
+- [[Advena]] heads towards the library to check on [[Greelee]] after we get to [[Sthertiing]]
+- He's asleep in a chair surrounded by books
+- We make our way to [[Tawfret]], and hear a lot of noise as we get closer
+- Only [[Olivia]] sees the silhouette of an airship in front of the mountain, as if there's something invisible covering it
+- [[Ardric]] and [[Melody]] head towards [[Tawfret]] to try and talk with the [[Yeti]]s
+- People that tried to approach the air ship got shot by a green laser (disintegrate)
+- Two people that approached did not get shot. One of them had a lot of money. The other one had a blue suit and all white hair with an unpleasant temperament
+- [[Ardric]] uses minor illusion to create a "Hi" in the sky trying to signal the airship, and a "firework" comes his way, as he gets hit by it and it says "move along peasant"
+- [[Olivia]] fires an arrow clearly away from them, and the cannons all turn to face her
+- She screams she has money, and the ship descends, deploying a red carpet and playing classical music
+- We are greeted by an [[Air Genasi]] named [[Francis]] who asks what course we might be interested in taking
+- ![[Pasted image 20250715133806.png]]
+- He asks for a 5000 gold security deposit before we enter in case of accidents
+	- [[Fish]] contributes 1000 gold
+	- [[Emi]] contributes 2000 gold
+	- [[Olivia]] contributes 2000 gold
+- [[Olivia]] insights why the guy is only really interacting with [[Fish]] and [[Ardric]] and realizes he's just a misogynist.
+- There is an entrance exam that must be passed before all of the knowledge in the university can be accessed
+- A few members of the [[Dawnfrost]] apparently studied here
+- "We've had the great Cain in this establishment."
+- We're given a tour of the school
+- There are statues watching the entire area, and the portals have detection magic about them
+- We decide to take the exam first, after learning if we fail it we can still try the dungeon
+- 

@@ -1,0 +1,77 @@
+---
+tags:
+  - dnd
+  - notes
+  - sessions
+date: 30-05-2025
+type: session
+---
+# General
+- [[Advena]] messages [[Vesta]] to inform her she needs help with a restoration spell
+- We all exit the cabin as [[Melody]] collapses it
+- We enter the library, and as [[Vesta]] sees [[Emi]], she tells her to cover her ears while she discusses the "plan" with [[Advena]]
+- [[Isla]] is nervous about being a guinea pig for this experiment
+- [[Emi]] volunteers as a second guinea pig for the experiment to be drained from
+- [[Vesta]] returns with [[Iseryn]], threatening him if he tries anything funny
+- The three casters, [[Advena]], [[Iseryn]], and [[Vesta]] begin casting their spells as [[Emi]] needs to make a constitution saving throw
+- [[Emi]] needs to make a second con save, and fails taking two levels of exhaustion
+- [[Vesta]] then asks [[Isla]] for permission to change her mind
+- [[Isla]] falls unconscious as shadowy tentacles lunge from her mind towards [[Advena]] and [[Vesta]]
+- As it grasps for [[Advena]] it attempts to enter her mind
+- [[Vesta]] forgot to remove [[Emi]]'s exhaustion, then uses greater restoration on her
+- She then calls [[Emi]] a "great battery"
+- [[Vesta]] then offers to take [[Isla]] to do some gardening to relax
+- [[Ardric]] introduces himself to [[Iseryn]]
+- [[Iseryn]] then introduces himself to [[Fish]] and [[Advena]]
+- He then introduces himself to [[Emi]]
+- [[Melody]] finally flies over and introduces himself
+- [[Iseryn]]'s cape seems magical in nature and has constellations on it
+- He's dodging [[Ardric]]'s inquiries regarding the village he's from
+- As we leave, [[Nadine]] pulls [[Emi]] aside to talk
+- [[Nadine]] wants to know if [[Vesta]] has been seeing anyone lately
+- [[Nadine]] gives [[Emi]] a book
+- We make our way to [[Distant Rain]], with a brief stop in [[Sthertiing]] so [[Ardric]] can see [[Nicole]]
+- [[Ardric]] is checking up on the status of the teleportation circle and forbiddance he cast on the village last night
+- After our quick stop in [[Sthertiing]] we continue on to [[Distant Rain]]
+- As we arrive, [[River]] runs up to hug [[Fish]]
+- [[Olivia]] approaches from behind [[River]], and [[Fish]] pushes past him to meet her, leaning his head on her shoulder
+- [[Iseryn]] pushes up to greet [[Olivia]]
+- [[Ardric]] asks if [[River]] has a teleportation circle around (he is confounded by these words)
+- He then asks [[Sunrise]] if there's one, she says there was one, but it hasn't been used in years
+- She then asks if [[Cedric]] is with us
+- He's going alone with [[Sunrise]] to the chapel
+- [[Fish]], [[Olivia]], and [[River]] are off fishing together
+- [[Fish]] gives [[Olivia]] her cloak back
+- He then shares the news of [[Cedric]]'s death
+- He then elaborates on the situation with [[Isla]] and what happened to the party
+- [[Olivia]] is still confused about why [[Advena]] revived her
+- Meanwhile, [[Sunrise]] is showing the teleportation circle to [[Ardric]]
+- The chapel is in ruins, and is being used more as a storage facility than anything currently
+- After clearing the area a bit, he uses some arcane ink to create a teleportation circle
+- [[Sunrise]] is intrigued by his Pegasus' quill
+- [[Sunrise]] says a prayer to the sun father on behalf of [[Cedric]] while [[Ardric]] says a farewell prayer
+- He then returns to [[River]]'s house
+- [[Fish]] and [[Olivia]] return to the hut at this time as well with fish
+- Dinner is prepared and served to the group
+- [[Ardric]] explains [[Jason]] to [[Iseryn]]
+- [[Iseryn]] pulls out a bird shaped trinket, tossing it out as it turns into a raven
+- Meanwhile outside, [[Fish]] and [[Olivia]] are sitting together
+- [[Olivia]] wants to head out as soon as possible
+- [[River]] had a strange dream recently
+	- Two ladies looking at two [[Tabaxi]]s
+	- Plant lady feels sorry for the guy [[Tabaxi]]
+	- The dream was regarding the flower
+	- One of the [[Tabaxi]]s had a cloak and the other had a bow
+- As [[River]] hugs [[Fish]], he just says "We'll be waiting my champion"
+- [[Advena]] asks [[Emi]] to support her while she apologizes to [[Olivia]]
+- We head towards the [[Fae Wild]] and [[Melody]] sets up the cabin
+- Once inside, [[Olivia]] makes her way over to [[Advena]] to talk
+- [[Olivia]] asks [[Advena]] to come talk with her in private
+- They arrive at [[Olivia]]'s room
+- [[Olivia]] apologizes for not being there in Cain's lab
+- [[Advena]] apologizes to [[Olivia]] for reviving her against her wishes
+- [[Advena]] revived [[Olivia]] because of how much she screwed up with [[Abel]] apparently?!
+- She did it so that [[Cain]] couldn't take [[Olivia]]'s body away and use it against the rest of the party
+- [[Advena]] shares the threat that [[Cain]] made to [[Fish]] while we were in [[Dofleini]]
+- Despite saying her apology, [[Advena]] is doubling down on why she made her decision
+- 

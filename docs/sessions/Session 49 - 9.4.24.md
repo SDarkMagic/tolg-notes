@@ -1,0 +1,74 @@
+---
+tags:
+  - dnd
+  - sessions
+  - notes
+---
+## [[Emi]] visits her family
+- [[Emi]] and [[Nadine]] had a small talk in what remains of [[Abel]]'s Garden
+
+## [[Advena]] at her [[Advena's Library|library]]
+- [[Advena]] is crying in the corner of her room
+- [[Greelee]] is concerned about her
+- [[Advena]] is blaming herself for [[Abel]]'s death
+- [[Advena]] also blames herself for [[Ardric]] losing his memory to [[Cain]]
+- [[Greelee]] is struggling to figure out how to comfort her
+- She also believes [[Emi]] (presumably) wouldn't care if apologized to
+- [[Greelee]] rushes off to find something telling [[Advena]] to wait
+- He gives [[Advena]] his most precious possession, a small aged and worn red feather
+- He says [[Nicole]] told him his mother gave it to him, and that it's a very rare phoenix feather
+- [[Greelee]] considers [[Advena]] the closest thing he has to family
+	- This is a mutual feeling
+- [[Greelee]] is telling [[Advena]] to back and apologize to [[Emi]]
+	- HE RAN THE MATH ON THIS
+	- [[Team One Large Guy|TOLG]] dies without [[Advena]]
+- He's offering to put a good word in for [[Advena]] with [[Team One Large Guy|TOLG]]
+- [[Advena]] realizes she needs to take a bath
+- [[Greelee]] has been getting into stars and wants [[Advena]] to procure a telescope for him
+- She's warning [[Greelee]] that [[Ardric]] looks different now
+## Main Group
+- [[Emi]] rejoins the major group
+- [[Barren Height|Barren]] did not sleep at all the entire night
+- [[Nadine]] and [[Vesta]] head off to handle the aftermath in [[Serenity]]
+- The party now continues on to [[Sthertiing]]
+	- we're going to [[Advena's Library]] to look for her
+	- oops we don't know the password
+- [[Greelee]] informs [[Advena]] that we're here
+- She decides to confront the party on her own
+- [[Advena]] goes to the door to find [[Emi]]
+- [[Emi]] startles upon seeing [[Advena]]
+- [[Advena]] drops to the ground prostrate and apologizes to [[Emi]]
+- [[Emi]] has forgiven her
+- [[Advena]] and [[Ave]] have also made up
+- [[Melody]] looks like he "endured hell"
+- [[Sapphire]] wants to go see [[Amber Thornclaw|Amber]] and [[remote/docs/characters/Flint Thornclaw]] first
+- oh hey [[Advena]]'s hair is changing colors maybe?
+- [[Advena]] is talking with [[Greelee]] about what she's learned of her past
+- She's wondering if it's linked to her hair?
+- She's leaving the swords at the library in favor of the pepperbox
+- [[Greelee]] has one upgrade jelly for [[Advena]]
+- We have arrived at the [[Fae Wild]] and are heading to the [[Dryad]] village of [[Blossom]]
+- [[Emi]] says she always eats her vegetables (Jury is still out on this one)
+- [[Amber Thornclaw|Amber]], upon seeing [[Sapphire]] runs and cups her face in her hands
+	- The two hug for a while
+	- [[Olivia]] joins and now they're having a group hug
+- [[Sapphire]] is staying with [[Amber Thornclaw|Amber]] and [[remote/docs/characters/Flint Thornclaw]]
+- [[remote/docs/characters/Flint Thornclaw]] forgot something at [[Redwood]] and is currently unavailable
+- [[Amber Thornclaw|Amber]] gives [[Advena]] a shadowblade scroll
+- [[Ardric]] asks about the [[Crown]] which is a crown of domination. This means if the owner of it sees the wearer in person, they are able to force them to do their bidding
+- Apparently [[Deborah|Debbie]] has a new dress made of dragon wings
+- [[Olivia|Ol' I-via]] receives a sending stone from the squirrels
+	- She gives one to [[Sapphire]] so they can communicate
+- We're headed to [[Distant Rain]]!
+- [[Fish]] goes to see [[River]] immediately upon arriving
+- They've seen a huge amount of dragons set up in the mountain nearby, and they're doing "protocol meow"
+- [[Fish]] explains the situation more to [[River]] in private so [[Ardric]] and [[Emi]] don't overhear
+- [[Fish]] and [[Melody]] are going to scout ahead
+- [[Ardric]] cuts his hair, then gets yelled at for loitering. Doesn't pick it up, and uses minor illusion to hide it
+- There's smoke coming from a nearby mountain
+- Several dragons and lots of movement from [[Belphegor]]'s lair
+- They're are [[Draconian]]s guarding the entrance to the lair
+- A sermon is overheard where they are discussing the "great [[Belphegor]]" and serving as the hammer to the great anvil of [[Tiamat]]
+- [[Belphegor]] represents the biggest mistake [[Melody]]'s ever made, and he wants to get closure
+- After the two return, [[Ardric]] takes [[Melody]] aside and begins casting dedication on him
+- [[Ardric]] forgot to summon his phantom steed and has realized just as we are about to head out

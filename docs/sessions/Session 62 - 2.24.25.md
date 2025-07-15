@@ -1,0 +1,111 @@
+---
+tags:
+  - dnd
+  - notes
+  - sessions
+---
+- *Goblin combat happened?*
+	- Attempted non-lethal, [[Fish]] killed one
+	- Upon realizing who they were fighting they gave up
+- [[Topi Topi]] is interrogating [[Isla]]
+- [[Artemicion]] apologizes for [[Topi Topi]] sniffing [[Isla]] as he introduces himself to her
+- [[Topi Topi]] suggests for defense of [[Knotts]] the local's sheep be turned into war mounts
+- The village will have roll call daily due to mind altering threats to ensure everyone is accounted for
+	- False Hydra precautions due to history in the village
+- [[Melody]] is trying to find alternative careers for [[Rebecca]]
+- He then carves an "R" rune in her shoulder with psy-knife
+	- This will allow us to just get to her if needed?
+	- He also takes a strand of her hair, presumably for scrying purposes
+- [[Topi Topi]] is employing [[Rebecca]] to assist in gun production and engineering
+- She fixes his gatling gun
+- Methodologies for locating a potential false hydra are being discussed
+- [[Artemicion]] goes now to ask [[Ardric]] if he has any ideas to counteract a false hydra
+- We enter the local tavern and are greeted by the same guy who [[Olivia]] outdrank last time despite it being poison
+- [[Isla]] is familiar with gambling
+- [[Ardric]], [[Melody]], [[Ave]], and [[Isla]] play cards
+	- [[Ave]], having never played cards before, marks the cards to track them with no one the wiser
+	- [[Melody]] blatantly cheats in the last hand
+- [[Advena]] has been indirectly glaring at [[Isla]] while this has been happening
+- [[Fish]] is becoming an alcoholic
+- [[Isla]] is playing with her necklace, which attracts [[Fish]]'s attention
+	- It seems to be her casting focus
+- [[Team One Large Guy|The party]] exits the bar as [[Melody]] pulls out the cabin
+- [[Advena]], [[Emi]], and [[Fish]] all take more alcohol ([[Emi]] gets a mocktail)
+- [[Fish]] **CHUGS** his whiskey all in one go
+- The group begins to discuss plans for what to do in [[Dofleini]]
+- [[Ave]] has consumed an energy drink unnecessarily
+- Spells to defend against mind control are being discussed
+- [[Fish]] obscures the area around him in fog
+- [[Ardric]] is trying to meld [[Fish]] partially into a boulder to restrain him using meld with stone
+	- This works, he's stuck in the rock
+- Discussion moves to whether or not [[Isla]] will be coming along with us
+- The remainder of the [[Water Genasi]] were in hiding after the calamity, until one day the water in the cavern they were hiding in began to drain
+- Likely [[illithids]] descended upon them and took the people through the portals forcefully
+	- The people were turned to stone in the process
+- This happened about 20 years ago when [[Isla]] was still a young girl
+- Her crystal is originally from the [[astral plain]]
+- People begin to head off to bed
+- [[Ardric]] returns to his parent's house to sleep
+	- He casts ceremony: wedding on his parents
+- [[Emi]] leads [[Fish]] to her room
+- She begins to scry on [[Olivia]]
+	- She's getting ready for bed in [[Fish]]'s old room
+	- [[River]] comes by to tell her soup is ready
+- [[Fish]] and [[Emi]] are feeling nostalgic for how there lives used to be and reminiscing over the past
+- [[Fish]] is unsure if the changes he's lived through have allowed him to stay the same individual he always was
+- [[Emi]] casts scrying once more, this time on [[Sapphire|Saph]]
+	- She seems to be writing some form of letter of apology to [[Olivia]]
+- [[Ardric]] returns, rising up from out of the floor
+# Night-watches
+## [[Isla]], [[Advena]], [[Melody]], [[Ave]]
+- [[Advena]] approaches [[Isla]] and introduces herself
+- She asks why [[Isla]] was in the [[Assassin's Guild]]
+- [[Advena]] is comparing experiences in the [[astral plain]] with [[Isla]]
+- [[Isla]] rarely went to the surface when she lived with her people in a cavern underwater
+- Most of the [[Water Genasi]] blamed humans for the suffering they endured as a result of the calamity
+	- They hid from the dragons, which were being manipulated by humans
+- [[Isla]] has heard a bit about the [[Dawnfrost]] from her grandmother
+	- Her grandma knew [[Vesta]]?!
+	- Her grandmother was named [[Coral]]
+- [[Melody]], [[Ave]], and [[Advena]] share some of their backgrounds with [[Isla]]
+- From what [[Isla]] knows, [[Cain]] used to be very loving and caring about his friends and family
+- [[Ave]] finally tells [[Advena]] that [[Harr]] actively tried to kill her during there last encounter
+- The girlies are talking theoretical portal physics
+- [[Elves]] used to be in the main cities, however most of them were killed in the calamity
+- Everyone gets  a long rest
+
+- People come down to the main room as [[Isla]] finds [[Ave]] in trance on the floor
+- [[Advena]] comes out of her room to see [[Fish]] exiting [[Emi]]'s room (this will have consequences for the yuri)
+- [[Emi]] casts animal messenger to contact [[Vesta]] regarding [[Isla]]
+- [[Melody]] is hunting through his bag for something and keeps pulling out the wrong item
+- We begin our journey to [[Dofleini]]
+- As we arrive, nothing but silence awaits us and the town is completely deserted
+- There does not appear to have been any struggle, as if everyone left willingly and not in a hurry
+- [[Ardric]] asks the local trees where the [[Sea Elf|sea elves]] have gone
+	- The great gate opened
+	- The smooth talking people dragged them
+	- Great gates near every house
+	- They all left as if they wanted to go
+	- The invaders just started talking and they obeyed
+	- One man different from the rest, walked to the prison
+	- At most happened one week ago
+- We make our way to the prison to find [[Harr]] sitting in a cell
+- [[Melody]] goes to look for the other half of the sending stone, however all of the confiscated items have been taking away
+- [[Harr]] gives a sending stone to [[Advena]] saying that if it's destroyed meteors will fall on [[Distant Rain]]
+- *DING DONG* it's him, [[Cain]] he's on the other end of the stone
+- He's asking if [[Olivia]] is with us
+- It's time for war according to him?
+- He threatens to kill [[Fish]] if he gets in his way then show his corpse to anyone who knew him
+- BRO IS MAD!!!
+- [[Emi]]'s turn!
+- He gets [[Abel]] to "talk" to [[Emi]]
+- Someone in the [[Fae Wild]] has been sending him fresh fairy test subjects
+- [[Cain]]'s discovered a small window when a fairy dies to prevent them from going to their afterlife
+- Next he begins saying how he wishes [[Advena]] were closer to him, like his daughter
+- He's kept her memories safe this entire time, and now he's going to start destroying her memories one by one
+- Apparently [[Advena]] will never get to know [[Astella]], what a shame
+- He tells [[Ardric]] to stand next to [[Emi]], then when he doesn't obey orders him to strangle [[Advena]]
+- [[Isla]] uses hold person on [[Ardric]] to prevent this from happening
+- He offers [[Ave]] a space next to him in the family if she desires. All she has to do is meet him in [[Sand Fransisco]]
+- [[Ave]] uses magical tinkering on the stone to drown out anything else he would say next about [[Isla]] replacing [[Olivia]]
+- 

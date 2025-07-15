@@ -1,0 +1,65 @@
+---
+tags:
+  - dnd
+  - notes
+  - sessions
+date: 16-06-2025
+type: session
+---
+# General
+- We decompress in the cabin and eat croissants for dinner
+- [[Advena]] comes back through the door to the cabin with her mask on
+	- [[Olivia]], [[Fish]], and [[Jason]] notice that her face is flushed and beet red as she turns to go sit at a table
+- [[Olivia]] brings the [[invoice]] we found over to [[Ardric]]
+- [[Advena]] has a feeling she's seen this [[invoice]] before
+- The group is generally confused about the paper, however [[Ardric]] mentions the only context he has for airships is relating to the [[Air Genasi]]
+- [[Emi]] comes in to join the group
+- [[Ardric]] deduces "U.A.G" could stand for "University of Air Genasi"
+- [[Ardric]] magically turns his stool into a powered wheelchair
+- He wants to go recast forbiddance on places, however [[Emi]] stops him telling him to rest a bit first
+- [[Olivia]] carries [[Melody]] with the group upstairs 
+- The observation room turns into an infirmary as the group enters
+- [[Olivia]] tells [[Fish]] she doesn't want to be alone tonight, so they agree to share a room for the night
+- As [[Emi]] gets [[Ardric]] to his room, she practically collapses against a desk, barely managing to support herself
+- He expounds upon the crown to her, and the developments that have been made regarding it
+- [[Emi]] asks if we would try to kill her as well if she were to fall under the control of [[The Great Eye]]
+- [[Ardric]] casts meld with stone to sleep in a rock, to [[Emi]]'s shock
+- She then leaves him to sleep
+- [[Fish]] and [[Olivia]] wonder upon how they've changed over the course of their journeys while looking into a mirror
+- After discussing their respective discomforts in their own bodies, the conversation then moves to [[Olivia]]'s talk with [[Advena]] earlier in the day
+- After a while, the two fall asleep
+- [[Advena]] finishes casting alarm and goes to check up on [[Ave]]
+- They discuss the Elven migration
+- [[Advena]] leaves and heads back to her room
+- [[Emi]] comes to check on [[Ave]]
+- She enters the room and asks why [[Ave]] was reading about necromancy in the library earlier
+- [[Emi]] then finally heads to be herself
+- As [[Emi]] casts scrying, her vision shoots up to the sky, then plummets right back to looking at [[Advena]] in her room, writing on a scroll
+---------------
+- [[Ardric]] is the first to awake, bursting out into the empty hallway joyously proclaiming he has bodily function again
+- He then goes to check on [[Melody]], triggering the alarm that [[Advena]] set, causing her to week up
+- The two then go downstairs and begin making breakfast
+- The two then discuss [[Advena]]'s "apology" to [[Olivia]]
+- [[Melody]] awakens, speaking through the [[bellhop]] to [[Advena]] and [[Ardric]]
+- [[Advena]] and [[Ardric]] bring him up to speed on what happened after he passed out
+- [[Fish]] and [[Olivia]] wake up together, and [[Fish]] tries to explain his feelings for her
+	- The feelings are mutual, but not traditional romantic love
+- As everyone collects downstairs, we begin discussing our next objective
+- [[Ardric]] and [[Ave]] teleport away to setup forbiddance on towns
+- [[Emi]] is avoiding eye contact with [[Advena]]
+- [[Melody]] has not fully processed the events of the previous day still
+- [[Ardric]] is asking [[Ave]] about the terms of her deal with the [[Raven Queen]]
+- [[Emi]] and [[Advena]] go out on a walk together to talk in private
+- [[Advena]] tells [[Emi]] that she lost her contingency statue in the [[Fae Wild]]
+- [[Advena]] tells [[Emi]] that [[Nadine]] was outside the cabin waiting to talk to her yesterday
+- "It's all fine" -[[Advena]]
+- [[Nadine]] told [[Advena]] to wed [[Emi]]
+- [[Advena]] immediately tries to backpedal after telling [[Emi]] this, saying "We're friends", as [[Emi]] is holding her face
+- They both *finally* admit they have some kind of feeling towards each other, and don't want to lose each other
+- [[Emi]] kisses the inside of [[Advena]]'s wrist
+- ![[Pasted image 20250616153652.png]]
+- idek how to take good notes on this I'll be real. Just go watch the vod
+- [[Emi]] tells [[Advena]] that she thinks she might be the "Mrs. LS" mentioned on the [[invoice]]
+- As [[Ardric]] and [[Ave]] return, they pass [[Advena]] and [[Emi]]
+- [[Melody]] is fast asleep on a pillow on the counter, and almost rolls off in his sleep
+- 

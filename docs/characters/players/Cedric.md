@@ -7,5 +7,5 @@ aliases:
   - Swiftstrike
 ---
 # Bio
-- Tabaxi Sorcerer/Rogue
+- [[Tabaxi]] Sorcerer/Rogue
 - [[Barren Height]]'s brother

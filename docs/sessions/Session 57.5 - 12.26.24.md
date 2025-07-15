@@ -1,0 +1,84 @@
+---
+tags:
+  - dnd
+  - notes
+  - sessions
+---
+# General
+- The group is waking up for the day
+- [[Emi]] asks [[Ardric]] what he plans on giving to his parents
+	- It's a will he's been writing
+- [[Ardric]] is faintly more purple in hue
+- [[Ardric]] isn't feeling particularly great about himself or the decisions he's made and how they'll affect the rest of his journey
+- [[Emi]], [[Ardric]], and [[Jason]] mobilize to awaken the rest of the party
+- [[Fish]] did not sleep well
+- [[Olivia]] also had a night
+- [[Advena]] is having a hard time getting up
+- [[Melody]] is confounded by the fact that [[Ave]] has never actually slept like they do
+- Everyone heads to breakfast at Feydonald's, which is connected to [[Moon n shhhh]]
+- The only drink they have is sprite apparently (this was wrong)
+- [[Melody]] took the last sprite
+- [[Ave]] orders a vanilla ice cream out of curiosity
+- We take a seat after fighting tooth and nail for our food
+- [[Ardric]] regales his past experience as an anthropologist and his travels
+- [[Emi]] gets a raw potato instead of a hashbrown, and uses control flame to heat it up in her hand
+- [[Advena]] rejects her order when it arrives because [[Melody]] was distraught over the concept of someone ordering a 10 piece cockatrice meal
+- [[Ave]]'s drink fizzes as she mixes the vanilla ice cream and the feynta
+- [[Ardric]] shapes water 3 nuts from her drink, one acorn, two metal
+- [[Ardric]] and [[Advena]] begin discussing telportation circles between different locations we frequent and methods of travelling quickly between them
+- [[Melody]] is going through the random items he's accrued in his bag over our travels
+- [[Melody]] has a sending stone to [[Harr]]
+- [[Melody]] and [[Ardric]] are talking about different planes
+	> earth genasi had a great mining cooperative and were very much THE iron provider of the metropolis, situated in the northern parts of the world fire genasi had great pyre cities that were well known places for spiritual pilgrimages, spread all over the world with serenity as the crown jewel of their civilisation air genasis and water genasis had a very symbiotic relationship focused on sea fairing and steam technology, it was rumored that they were on the edge of creating a vessel that could fly, but it was mostly considered a myth, residing mostly south of the world as for today, the great calamity did irreparable damage to their culture and monuments, leaving almost nothing but ruins where was previously incredible architecture , most survivor either went into hiding, died or disappeared without leaving a trace, entire villages emptied without a single trace of struggle
+- [[Emi]] is capable of setting various parts of her body on fire
+- [[Melody]] never knew his uncle through all his life really and suddenly he's just here
+- [[Advena]] suggests asking [[Mammon]] about the [[Silence]]
+- Planning is happening
+- [[Advena]] explains eclipses to the group
+- [[Ardric]] is claiming to have spoken with the literal moon
+- We make our way back to our rooms
+- [[Ardric]] and [[Melody]] head out to walk around the city
+## [[Advena]] & [[Emi]]
+- They're both just concerned about each other's wellbeing
+- [[Advena]] feels as if using contingency is NOT a choice
+- [[Advena]] asks [[Emi]] why she couldn't help [[Melody]]
+- The girls are fighting
+## [[Olivia]] and [[Fish]]
+- [[Olivia]] asks what [[Vesta]] asked him about yesterday after pulling him aside
+	- He does not get into details, and simply says it was extra information on the reincarnation ritual
+- [[Fish]] tells [[Olivia]] that his feelings on the matter could influence the outcome
+- [[Olivia]] still feels a bit selfish when asking to be reincarnated
+- They're having an incredibly heartfelt conversation right now that notes cannot do justice too. Sorry, watch the vod
+- family.
+- The discussion has moved onto the burdens of healing and reviving people
+- [[Emi]] walks past [[Olivia]] and [[Fish]] saying she's fine, then immediately called out
+- [[Emi]] goes to talk with [[Fish]] while [[Olivia]] finds [[Advena]]
+- I'm with stupid shirt that always points to melody when in range, otherwise says I'm not with stupid
+## [[Emi]] and [[Fish]]
+- [[Emi]] is worried about what [[Vesta]] said about the reincarnation spell
+- She's checking to make sure [[Fish]] is actually fine with this
+- He cannot afford to have any doubts about it
+- He doesn't know what to do
+- [[Emi]] has doubts about her abilities to bring someone back from death again
+- [[Fish]] asks how [[Advena]] is
+- [[Emi]]: "We got a little upset at each other."
+## [[Olivia]] and [[Advena]]
+- [[Olivia]] makes her way into the room [[Advena]] is in to check on her
+- She finds [[Advena]] slumped against the wall and crying into her hands
+- [[Olivia]] is clarifying that it was [[Advena]] who healed her in [[Session 51 - 9.13.24|Session 51]] during the [[Belphegor]] fight
+- [[Olivia]] tells [[Advena]] about how when [[Kupex]] was defeated she saw the disintegration energy again
+- [[Olivia]] helps [[Advena]] setup the contingency once again lending her magical energy
+- [[Advena]] has no clue why her hair is progressively becoming more blonde
+- [[Olivia]] asks [[Advena]] if she wants to get her memories back
+- post-adventuring, [[Advena]] doesn't have much that she wants to do
+- The party has given [[Advena]] purpose to keep on going
+- [[Advena]] is telling [[Olivia]] about what she said to [[Emi]] ![[Pasted image 20241226144528.png]]
+
+- [[Emi]] and [[Advena]] are now talking it out and trying to make up
+- [[Fish]] and [[Olivia]] go to check on [[Ave]]
+- They're inquiring about [[Ave]]'s past and her experience growing up
+- Everyone is now reconvening in the lobby, as [[Ardric]] and [[Melody]] return from their excursion
+- [[Ardric]] has put on a facemask that cannot be removed and seems to be preventing him from talking
+- [[Melody]] bought fake Jordans
+- [[Advena]] gives [[Ave]] the contingency ring
+- 

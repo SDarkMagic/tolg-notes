@@ -30,23 +30,23 @@ tags:
 - [[Amber Thornclaw|Amber]] is waiting for us there, holding [[Sapphire]]'s ashes
 - [[Olivia]] enters the church where a [[Matthew|man]] is playing music on an organ
 - Everyone that stayed in [[Redwood]] is in the graveyard
-- Several years ago a letter with a red skull on it arrived in [[Redwood]] ordering them to deliver [[Flint]] to the senders or there would be blood. Thus, the town was attacked
+- Several years ago a letter with a red skull on it arrived in [[Redwood]] ordering them to deliver [[remote/docs/characters/Flint Thornclaw]] to the senders or there would be blood. Thus, the town was attacked
 - [[Matthew|The guy]] knew that [[Sapphire|Saph]] was lost?
 - Snake folks have been coming to [[Redwood]] asking [[Matthew|the man]] to leave saying it belongs to the [[Assassin's Guild]] now
 - "Do not tell me again that you wish to die, because the knowledge of your home; the legacy that you carry, might very well die with you." - [[Ardric]] (who else)
 - [[Olivia]] perception check of nat 20 for a 31
 - [[Matthew|old dude]] is surprised at the mention of [[Amber Thornclaw|Amber]]
-- He gives [[Olivia]] the key to [[Flint]]'s cabin
+- He gives [[Olivia]] the key to [[remote/docs/characters/Flint Thornclaw]]'s cabin
 - We're calling him [[Matthew]] for now
 - [[Matthew]] asks if [[Fish]] is a believer of [[Melora]]
 	- The chapel is to [[Melora]]
 - There seems to be a camp to the east of the town
 - [[Olivia]], [[Ardric]], [[Fish]], and [[Melody]] head to the cemetery to the north and meet up with [[Amber Thornclaw|Amber]]
-- [[Amber Thornclaw|Amber]] made the grave for [[Flint]] herself?
-	- When she first left, she and [[Flint]] formulated a plan to save everyone
-	- [[Amber Thornclaw|Amber]] would go to the coven while [[Flint]] would try to find a cure for the curse.
-	- To protect [[Flint]], [[Amber Thornclaw|Amber]] did some magic to protect him from scrying?
-		- There's a chance [[Flint]] could be alive
+- [[Amber Thornclaw|Amber]] made the grave for [[remote/docs/characters/Flint Thornclaw]] herself?
+	- When she first left, she and [[remote/docs/characters/Flint Thornclaw]] formulated a plan to save everyone
+	- [[Amber Thornclaw|Amber]] would go to the coven while [[remote/docs/characters/Flint Thornclaw]] would try to find a cure for the curse.
+	- To protect [[remote/docs/characters/Flint Thornclaw]], [[Amber Thornclaw|Amber]] did some magic to protect him from scrying?
+		- There's a chance [[remote/docs/characters/Flint Thornclaw]] could be alive
 - [[Olivia]] realizes something was off about [[Matthew]]
 - [[Matthew]] is leaving the church sneakily
 	- He's heading towards the camp to the east
@@ -56,11 +56,11 @@ tags:
 - There are [[Assassin's Guild]] logos around the camp, which seems to be a fortified entrance to a fortress
 - [[Ardric]] goes fast and catches up with [[Matthew]]
 - Man is running from his past
-- oh yeah, also [[Matthew]] is [[Flint]]
-- [[Amber Thornclaw|Amber]] walks up on [[Olivia]] and [[Flint]] having a conversation
+- oh yeah, also [[Matthew]] is [[remote/docs/characters/Flint Thornclaw]]
+- [[Amber Thornclaw|Amber]] walks up on [[Olivia]] and [[remote/docs/characters/Flint Thornclaw]] having a conversation
 - Family (mostly) reunion!
 - There is noise coming from the *supposedly* abandoned mine
-- [[Flint]] says this is an [[Assassin's Guild]] den, and they shouldn't be back until night
+- [[remote/docs/characters/Flint Thornclaw]] says this is an [[Assassin's Guild]] den, and they shouldn't be back until night
 	- He was not just trying to hide in the mine
 	- Also [[Melody]] did 100% hear noises in there
 - There's people in the guild

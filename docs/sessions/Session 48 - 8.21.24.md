@@ -1,0 +1,101 @@
+---
+tags:
+  - dnd
+  - notes
+  - sessions
+---
+# Combat
+- Session begins with beholders turns
+- They immediately beam down [[Fish]], [[Olivia]], and [[Cedric]]
+- [[Cedric]] gets put to sleep for 1 minute
+- [[Olivia]] shakes [[Cedric]] awake
+- [[Advena]] tries to wall of force [[Cain]] out of this area for now
+- Turns are happening, intellect devourers are dying, stuff is transpiring
+- both beholders target [[Fish]] and shoot 6 total beams at him
+	- [[Fish]] is charmed
+	- dodges paralyze
+	- dodges slow
+	- saves disintegration
+	- takes 9 necrotic dmg from innervation ray
+	- saves death ray
+- [[Melody]]'s turn. nat 20 on the beholder
+	- 2d4
+	- 18d6
+		- 96 dmg
+- Other beholder legendary actions and tri-beams [[Melody]]
+	- paralyzed for one minute(there is a disintegration later)
+	- inspiration, saves
+- [[Ave]] guns down the beholder killing it
+- No fighting coming from the top
+- [[Olivia]] is shooting into the other map with her 600ft of no disadvantage range attacks
+- [[Ardric]] is evacuating the remaining people
+- There is a tarrasque at the meteor crash site
+	- Dark purple smoke coming from it, almost out of breath
+- [[Ardric]] and [[Melody]] are investigating
+- [[Vesta]] is bleeding at the temple [[Nadine]] is trying to heal her, but they both seem to be alive
+- Tarrasque is retreating
+- [[Ardric]] puts 4000 ball bearings on the floor arount the tarrasque
+- actually we're using them as shotgun shot with telekinetic shove
+- [[Melody]] is getting targeted by the tarrasque currently
+	- 30 dmg
+	- 24 dmg
+	- 23 dmg
+	- 10 dmg
+	- Final attack, [[Melody]] redirects the attack at [[Ardric]]'s phantom steed, doing 35 dmg and killing it
+- [[Olivia]]'s first turn, she lands two crits with a nat 20 and a nat 19
+- Tarrasque swallows [[Melody]]
+- [[Ave]] drags [[Advena]] to the tarrasque battle
+- [[Melody]] shrinks himself inside the tarrasque, uses an upgrade jelly on the cottage, and opens the cottage inside of it
+- [[Melody]] hits the tarrasque for 42 dmg from within and kills it
+- Says in abyssal as it dies "This terrible, terrible, plane"
+- as the tarrasque dies, the portal it was going for closes
+- [[Advena]] breaks free from [[Ave]]'s grapple and sprints back to where she was
+- [[Olivia]] offers to heal [[Melody]]
+- [[Emi]] heals him instead
+- [[Advena]] yells at [[Ave]] to not go after [[Emi]]
+- [[Ave]] collapses onto the ground
+- [[Emi]] is alone in the garden
+- [[Cain]] is gone, and the garden is being destroyed by the ghasts
+- [[Emi]] conjure animals sixteen wolves killing all the guys in the garden
+- [[Ardric]] has joined her in the garden where she is lamenting the loss of her father since she couldn't save him
+- [[Olivia]] is monitoring [[Nadine]] and [[Vesta]]
+- [[Emi]] is keeping track of her debts to [[Ardric]] who claims he doesn't keep track
+- They're having a talking moment, idk how to distill it into notes here
+- [[Emi]] is almost hysterical over the fact that she can't even burn her father's body like is traditionally done in [[Serenity]]
+- [[Sapphire]] is no longer a werewolf
+	- She wants to get it back
+- [[Emi]] is grabbing [[Advena]] very aggressively and holding her up
+- [[Emi]] blames [[Olivia]] reviving [[Sapphire]] for this
+- The water on [[Ave]]'s armor has a faint red tinge to it, as she discreetly puts away a handaxe
+- [[Vesta]] is yapping with [[Emi]] as usual
+- [[Melody]] daps [[Vesta]] up
+- [[Nadine]] sprints towards the garden
+- [[Advena]] believes he brings death, destruction, and despair wherever she goes
+- [[Vesta]] has something to show us when she has the time, and indicates she was not telling the complete truth previously
+- [[Barren Height|Barren]] is gotten up
+- [[Nadine]] wants [[Emi]] to make [[Cain]] suffer
+- [[Nadine]] believes in revenge
+- [[Barren Height|Barren]] is regaining consciousness
+- [[Barren Height|Barren]] definitely has an eye infection
+- [[Cedric]] uses hold person on [[Barren Height|Barren]]
+- [[Cedric]] puts the [[ring of mind shielding]] onto [[Barren Height|Barren]]'s finger
+- [[Ardric]] suggests [[Barren Height|Barren]] to put on the ring and attune to it
+- He then reads the [[Book of Bedtime]]
+- [[Vesta]] shows [[Emi]] a painting of [[Cain]]
+- ![[Pasted image 20240821152527.png]]
+- [[Cain]] wasn't always like this
+- He was incredibly gentle and kind when [[Nadine]] was born
+- However he also realized he was [[human]] and they were [[Fire Genasi]], meaning they did not age at the same rate
+	- He became obsessed with not wanting to leave [[Vesta]] and [[Nadine]]
+	- He wanted to make the three of them immortal at the cost of everyone else
+- The diamond mine is sealed off
+- [[Ardric]] and [[Melody]] manage to move the the boulder blocking it
+- the [[magmans]] are cackling about the diamond machine being broken
+	- Last diamonds from the machine fell in the lava
+- [[Vesta]] wants [[Emi]] to tell [[Cain]] "If he wasn't so afraid of dying, he could have truly lived"
+- people are gathering around the calamity memorial of [[Serenity]]
+- [[Melody]] takes out the cottage, which seems to be in a state of flux inside
+- The cabin's goods are seriously messed up currently
+- [[Sapphire]] is finally able to eat chocolate again leading to conflicting feelings about not being a werewolf anymore
+- [[Vesta]] gives a speech to inspire the people to rise up
+- 

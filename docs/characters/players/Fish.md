@@ -5,6 +5,7 @@ tags:
   - player-character
 aliases:
   - Fishshine
+  - Gleam of Leaping Fish
 ---
 # Bio
 - Has died once. Was revivified by [[Emi]]

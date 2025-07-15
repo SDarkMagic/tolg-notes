@@ -1,0 +1,66 @@
+---
+tags:
+  - dnd
+  - notes
+  - sessions
+---
+# General
+- [[Ardric]] is doing some praying in his room before bed and trying to contact [[Caiphon]]
+- [[Olivia]] wakes up a bit earlier than everyone and heads over to [[Fish]]'s room
+- [[Fish]] gives a small prayer to [[Melora]]
+- [[Olivia]] offers [[Fish]] the periapt of wound closure
+- Everyone else begins to wake up and gather in the hall
+- [[Rebecca]] has been rummaging around in the cabin during the night, but everything seems mostly all right
+- [[Melody]] checks to see if [[Ave]] and [[Advena]] are awake, and doesn't get a response from the latter
+- [[Melody]] goes to check on [[Advena]], hearing a blood curdling scream followed by a crash as he approaches her room
+	- She's "fine"
+	- [[Advena]] doesn't want to go to breakfast with the group, agreeing 
+- As we enter the main room, [[Rebecca]] immediately complains about the "room service" or lack-there-of
+- She begins talking to [[Ardric]] about the nature of [[Knotts]] and if they would let pirates stay there
+- She then gives [[Jason]] her pirate hat
+- [[Ave]] is actively sitting and eating her breakfast on a moving escalator (it only moves when it's desired to)
+- [[Advena]] asks [[Melody]] to get everyone together and ready while asking [[Emi]] to come talk privately
+- [[Advena]] takes [[Emi]] to her room to tell her she didn't cast the contingency this morning
+- Girl does not know how to rely on other people as a group instead of just putting it all on one person
+- "When are you going to let go of the guilt [[Advena]]" -[[Emi]]
+- [[Advena]] promises to always be by [[Emi]]'s side so she doesn't make this type of mistake again
+- [[Emi]] actually says what she means instead of insinuating her feelings for once
+- ![[Pasted image 20250221112444.png]]
+- The group heads out, [[Ardric]] summons his phantom steeds to pull our carriage and we discuss what to do with [[Rebecca]]
+- [[Rebecca]] asks how she knows we won't ditch her while in the [[Fae Wild]], to which [[Ave]] digs a hole around her to show her what ditching her would actually look like
+- We then proceed to the [[Fae Wild]] where [[Rebecca]] waits outside for us
+- As we approach, [[Amber Thornclaw|Amber]] and [[Sapphire|Saph]] notice something is wrong an ask [[Olivia]] what happened
+- [[Fish]] explains the situation of what happened while [[Olivia]] is lost in tears
+- [[Sapphire|Saph]] is quite upset that we killed [[Flint Thornclaw|Flint]] instead of letting him rampage in the guild
+- She does not like what [[Olivia]] wants for her life
+- generational trauma does it yet again!
+- [[Amber Thornclaw|Amber]] is currently in shock
+- [[Olivia]] begins to say her goodbyes, and gives her dimension door cloak to [[Emi]]
+- [[Ardric]] gives her the book of experimentation from the [[Assassin's Guild]] which documents werewolf studies
+- [[Sapphire|Saph]] goes over to talk to [[Advena]] away from the group
+	- She wants [[Advena]] to give her back her werewolf powers
+	- [[Advena]] says she should have left [[Sapphire|Saph]] for [[The Great Eye]]
+	- [[Sapphire|Saph]] responds saying "At least that side knew how to wage a war"
+- [[Ave]] hands [[Flint Thornclaw|Flint]]'s body off to the [[Dryad]]s' to be dealt with and properly buried
+- We begin to make our way towards [[Distant Rain]] to see if [[Olivia]] could stay there for a bit if needed
+- [[Fish]] and [[Olivia]] say their goodbyes to each other
+- We now make our way to [[Knotts]] to deposit [[Rebecca]]
+- The [[Team One Large Guy|party]] is catching up with various members of the village that they've met before
+- [[Advena]] casts intellect fortress on [[Ardric]]
+- [[Ardric]] is catching up with his parents now
+	- He's trying his best to protect them from harm that may befall them from his actions
+	- He may have a little sister in the future?!
+- [[Emi]] uses detect magic, and notices that [[Jennifer]] is glowing somewhat, as if she has a magic item on her
+- [[Fish]] detects a consecrated area nearby
+- He signs to [[Jennifer]] to ask what she has and if he can take a look at it
+	- She wants the book back when he's done since she likes the story
+	- It's titled "To Know That You are Loved"
+- A water genasi enters town, approaches [[Rebecca]], and asks if there's an adventuring party nearby
+- Her name is [[Isla]], and she was looking for our group
+- [[Nicole]] sent her to find us after learning we were down a party member
+- Most of the party does not seem immediately super open to the idea of a new party member
+- She shakes [[Ardric]]'s hand, to which he immediately casts a subtle remove curse on her
+- A bunch of pirates pull up looking for [[Rebecca]], threatening to take our treasures and whatnot
+- [[Melody]] immediately gestures to where she's hiding behind a building and drags her out in his bone devil form
+- We're attempting to negotiate a way to prevent a murder from happening, however they want to permanently borrow everything from the village
+- [[Ave]] casts catapult to throw the 250g ransom they wanted, however they think we're firing at them, so we're in combat now

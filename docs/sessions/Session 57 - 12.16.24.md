@@ -1,0 +1,102 @@
+---
+tags:
+  - dnd
+  - sessions
+  - notes
+---
+# General
+- We're in combat vs [[Kupex]] in his new mech, who is currently prone
+- [[Emi]] gets pounced on by a clockwork behir from a roof and falls 50 ft, taking no damage because ring of feather falling while the creature hurts itself in the process
+- [[Kupex]] is restrained because of [[Ardric]]'s telekinesis, and remains prone
+- [[Advena]] throws a fireball off a few walls hitting the behir grappling [[Emi]] and [[Kupex]]
+- [[Kupex]] uses a legendary action: replicator and casts the same 4th level fireball as [[Advena]]
+- [[Olivia]] uses bless on [[Ave]], [[Advena]], [[Melody]], and [[Olivia|herself]]
+- [[Ardric]] still keeps this squirrel pinned down, moves it in front of the other behir's line of sight so it won't lunge at him, and succeeds a con save again
+- [[Kupex]] uses blazing edict to hit everyone but [[Advena]] who's behind cover
+	- The mech changes fate so we take 45 radiant damage
+	- Also, we're all (save [[Advena]]) slowed for a turn, meaning half movement speed, one action or bonus action, 50/50 for spells to work
+- [[Kupex]]'s mech gets up, looks at [[Emi]] and says that her dad makes a great test subject
+- [[Emi]] tries to use guiding bolt on [[Kupex]] who replicates it and targets [[Ardric]]
+- [[Olivia]] tries to cast Turn Undead on [[Kupex]] as he reminded her of [[The Enlightened]] from [[Dofleini]]
+- [[Ardric]] entropic wards to reverse time so he doesn't take as much damage from the blazing edict, and [[Jason]] blocks some of it to force a success on the check, dying in the process
+- [[Kupex]] slams [[Olivia]] into the ground dealing 60 damage and downing her immediately
+- He then walks over to [[Advena]] and slams her
+- [[Fish]] kills one of the Behirs with his harpoon from range, causing it to detonate on death
+- [[Advena]] misty steps on top of the building
+- [[Kupex]] replicates misty step and joins her on top of the building
+- [[Ave]] misty steps on top of the building opposite them, and shoots [[Kupex]]
+- [[Kupex]] tells [[Advena]] he was studying false hydras requiring a wisdom save from everyone
+- [[Ave]] fails (5 with advantage), and everyone that fails forgets [[Olivia]] ever existed
+- [[Kupex]] overheats himself trying to attack, losing his concentration on the replicated bless and damaging himself in the process
+- Everyone but [[Advena]], [[Fish]], and [[Emi]] go down
+- [[Emi]] gets [[Olivia]], [[Ardric]], and [[Melody]] back up
+- [[Olivia]] gets [[Ave]] up
+- [[Kupex]] replicates [[Melody]]'s misty step and moves closer to [[Fish]]
+- [[Ardric]] blasts [[Kupex]] up and away and it begins to start beeping incessantly. Also apparently the mech flies too
+- [[Kupex]] grabs [[Fish]], looks at [[Olivia]] saying "this is what happens to your friends" and crushes him twice, downing him
+- [[Advena]]'s contingency pops, and she takes almost 30 necrotic damage while healing [[Fish]]for 58 hp
+- [[Fish]] stabs the mech through the chest, however as it's about to explode [[Kupex]] casts disintegrate on [[Fish]]
+- [[Fish]] dodges it perfectly fine
+- [[Kupex]] ejects and [[Ave]] snipes him out of the air
+- [[Fish]] kills the last remaining Behir, finishing the battle
+- [[Emi]] does the rounds healing each of the party members as needed
+- [[Ardric]] is prepping speak with dead stuff to try and converse with the remnants of [[Kupex]]
+- [[Emi]] is attempting to scry on [[Artemicion]] to figure out where he is
+	- He's drinking a cup of tea with [[Cain]] and reading a little book
+	- He appears to be very happy
+	- [[Cain]] is boasting about himself to [[Artemicion]]
+	- He's making all of this up
+	- [[Artemicion]] is pretending to be interested, but his notes betray his true beliefs on what he's saying
+	- A warforged dressed in very fine clothing enters as the connection ends, saying "the empress is looking for you"
+- [[Cain]] is in [[Sand Fransisco]]
+- [[Cain]] was aware of [[Emi]]'s scrying
+- [[Ardric]] uses speak with dead on the detached head of [[Kupex]]'s robotic corpse
+	- Doesn't know where [[Artemicion]] was taken, says he should be fine
+- [[Emi]] heals [[Olivia]] and [[Advena]]
+- [[Advena]] was sleeping, resting her head on [[Olivia]]'s shoulder
+- [[Advena]] gives the journal with notes back to [[Emi]]
+- She tells [[Olivia]] that whenever we're near [[Serenity]] we need to go talk to [[Vesta]]
+- [[Vesta]] said the reincarnation plan would work, however she wants to talk with the two of them first
+- [[Ardric]] is asking yet another deep philosophical question as we stand in this new york alleyway
+- We begin to make our way to [[Moon n shhhh]] which requires us to walk to the opposite side of the city
+- [[Vesta]] is in the [[Fae Wild]] and appears to be at [[Moon n shhhh]] where we're headed
+- Upon seeing [[Olivia]], [[Vesta]] walks over to her, and tells her she's enough and not to end it all
+- [[Olivia]] says she would want to come back as a [[Tabaxi]] were she to be reincarnated
+- It will also require a flower from [[Dofleini]], some of [[Fish]]'s fur, and a representation of the link between the two
+- [[Fish]] being ok with the outcome of this spell can apparently affect the outcome
+- [[Dolores]] runs upstairs to get stuff from the kitchen as the [[yuan-ti]] from the restaurant walks in
+- [[Dolores]] comes back down with a little [[Elegist]] trailing behind her, staring down at the floor
+- [[Ave]] helps [[Advena]] upstairs to bed as the rest downstairs sort out oils and such
+- [[Melody]] has run off to the kitchen to do *something*
+- [[Emi]] is asking [[Vesta]] about what happened when [[Cain]] died, and she said that strangely, nothing happened
+- According to her, death is not the same for everyone, so when [[Cain]] died, he saw nothing, which caused him to panic in fear of nothingness
+- He became mad/jealous and very distant after learning people in the [[Fae Wild]] experienced death differently
+- He said he couldn't let [[Nadine]] or anyone to have to experience the void, wanting everyone to get what the [[Fae]] gets
+- That's when he "changed"
+	- He found ways to delay the outcome, and refused to accept that he couldn't change it
+- There were many sad years before [[Nadine]] was born according to [[Vesta]], but they're unrelated to [[Cain]] changing
+- One of the threats that [[Dawnfrost]] dealt with was a great illness dubbed the [[Silence]]
+	- It afflicted specifically the dragons worst
+	- Also affected most humanoid races
+- It prevented several births from happening, and treatments needed testing
+	- both [[Etna]] and [[Vesta]] suffered significantly in order to cure the [[Silence]]
+- During the [[Silence]] many solutions were proposed including finding a cure
+	- They also searched for alternatives, including one proposed by [[Cain]]
+		- He may have used it later on
+		- A mix of machine and magic to survive
+		- The first example he showed to the [[Dawnfrost]] were obviously mechanical
+		- As he kept going, it became harder to tell if they were robotic or human
+		- Main caveat is they didn't age
+		- There was a way to discern them from their eyes
+			- If you look into it, after enough time, you wouldn't feel *someone* there
+		- When the cure was found, the project was scrapped (supposedly)
+	- The eventual cure was
+- When [[Dawnfrost]] was active, the [[Assassin's Guild]] was mostly just groups of bandits without much of a plan
+	- They only became more present after the calamity when someone may have begun leading them
+	- [[Cain]] often dismissed discussion regarding the [[Assassin's Guild]] killing [[Etna]]
+- [[Fish]] asks if anyone in [[Dawnfrost]] was involved with a library
+	- [[Sunset]] was a bookworm, and frequently involved with a library
+	- [[Cain]] was constantly interested in the library
+	- [[Vesta]] doesn't have any solid memories of the library burning down 50 years ago
+- [[Cain]] was often quite secretive around his bigger projects
+- [[Vesta]] and [[Olivia]] head outside to look at the moon on a stroll

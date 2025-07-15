@@ -1,0 +1,94 @@
+---
+tags:
+  - dnd
+  - notes
+  - sessions
+---
+# General
+- [[Emi]] shuttles everyone back across the lava pool sequentially
+- The three red dragons from earlier have left the room
+- Tiny hut hours again, courtesy of [[Ardric]]
+- One of the red dragons is heading back up talking to the [[draconids]] mentioning a request for an audience with [[Belphegor]]
+- The dragon walks past but the [[draconids]] do not follow in
+- Red dragon is asking where [[Belphegor]] is
+- [[Ardric]] sends a message to [[Mammon]] asking where he is
+	- He replies that he's at the entrance, and they "Won't let him in"
+- [[Advena]] casts message on the red dragon to try and make him think he had the original idea to check the front door
+- [[Melody]] adds the dragon to the mental link and gaslights him into thinking he had the idea
+- We got one of the [[draconids]] promoted ([[Drake]])
+- [[Melody]] is gaslighting [[Drake]] to get them all to check the front door too
+- They are all now threatening each other
+- [[Ardric]] is checking in on [[Distant Rain]] where he sees [[River]] standing on a roof looking into the distance and everyone is prepared to leave
+- welp, we still don't really know how to get out of this situation
+- Red dragon comes back, sees the chaos, and asks what's happening
+- Everyone must gather in the main hall for an audience because [[Mammon]] is here
+- [[Chromatic parliment]] has been called
+- [[Ardric]] casts invisibility on [[Advena]], [[Ave]], [[Fish]], and [[Emi]]
+- [[Ave]] and [[Fish]] are looking at rocks
+	- They are a mix of adamantine and another unknown material that makes lava when heated
+- [[Ave]] and [[Fish]] both try to take some of the rock, and damage 2/3 of them
+	- [[Emi]] tries, and managed to get a few pounds of the material
+- [[Melody]] gets directions and blurs past the [[draconid]] he was talking to
+- [[Melody]] is attempting to do this with the second guard station
+- This works
+- The last door is locked, and the guards say only the higher ups have the key
+- [[Melody]] takes out the chime of opening saying it's the key
+- We enter the hatchery, where there are two eggs in the lava, and wyverns patrolling
+- The wyverns are looking at [[Olivia]] and [[Melody]] like they're a good snack
+- [[Ardric]] awakened minds the wyverns and tells them there his prey
+- He intimidates the wyverns and they screw off
+- ![[Pasted image 20241002114722.png]]
+- we found [[Mammon]]
+- [[Mammon]] says that everyone is present, although [[Leviathan]] is sadly absent
+- [[Belphegor]] had a kid
+- [[Mammon]] is challenging [[Belphegor]]'s ruling of the [[Chromatic Order]] and proposing he become leader of the order again
+- SHOULD WE INTRODUCE DEMOCRACY??!?!?
+- [[Melody]] is taking [[Fish]] to try and say they killed [[Belphegor]] then pass the leadership to [[Mammon]]
+- [[Melody]] takes responsibility for the kill on [[Belphegor]] and throws the claw on the floor
+- [[Olivia]] casts silence on the child.
+- [[Fish]] is shown as the one to kill [[Belphegor]], and the child goes mad
+- Another dragon enters
+- it's [[Cain]]
+- He's trying to take control of the dragons himself
+- [[Advena]] attempts to dispel magic on the statue
+- [[Olivia]] accuses [[Cain]] of killing [[Etna]]
+- [[Ave]] takes [[Etna]]'s skeleton out of the bag partially
+- [[Mammon]] steps up after [[Melody]] mental links to him telling him this is his responsibility
+- [[Ardric]] is now attempting to share his memories with the fence-sitters of the draconic populace present
+- We're showing the green dragon [[Belphegor]] killing his partner
+- Votes shall now be cast
+	- [[Belphegor Jr. 9th]] gets 0 votes
+		- [[Mammon]] grounds him immediately
+	- [[Mammon]] gets 2 of the larger dragons and one army initially
+	- [[Cain]] gets two armies, and one red dragon initially
+	- It's a tie currently, and the two abstinate parties must now vote
+		- Green dragon votes for [[Mammon]]
+		- The other red dragon also sides with [[Mammon]] seeing the vote go that way
+- [[Mammon]] win. [[Mammon]] good. we all know this.
+- [[Cain]] leaves finally
+- There's cats trapped in another room
+- [[Fish]] is going to investigate
+- There's a mining camp a few rooms over with several exhausted looking [[Tabaxi]]s and [[Fish]] doesn't recognize any of them
+- We freed the [[Tabaxi]]s that came from [[Sierra]]
+- There were three [[Tabaxi]] brohters from [[Sierra]]: [[Barren Height]], [[Quiet Peak]], and [[Serene Valley]]
+- [[Ave]], [[Emi]], [[Advena]] group therapy time
+- Dragons are sending an envoy to offer help to [[Serenity]]
+- We're discussing burial ceremonies for [[Etna]] with [[Mammon]]
+- There's a temple to [[Tiamat]] in the north west
+- Upon entry we're called defilers and reprimanded for our actions
+- Shadow dragons summoned to kill us
+- We're leaving now
+- [[Advena]] hasn't heard about the hit game "Hydra"
+- [[Olivia]] has never heard of gambling
+- [[River]] and [[Fish]] reunite while [[Ardric]] falls in the water
+- [[Ardric]] is purchasing arcane ink
+- [[Advena]] bought a potion of wild magic
+- We're getting food from [[River]]'s house
+- [[Ardric]] is talking with [[jason]]
+- Friendship restored
+- it's soup time
+- People are heading over to the party now
+- nvm [[Olivia]] panic attack
+- full moon tonight
+- We're splitting the party. [[Ardric]] and [[Fish]] are going to the main hall, [[Melody]], [[Ave]], [[Advena]], [[Emi]], and [[Olivia]] are going to the [[Fae Wild]] to try and dodge the moon
+- 

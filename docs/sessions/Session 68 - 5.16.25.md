@@ -1,0 +1,87 @@
+---
+tags:
+  - dnd
+  - sessions
+  - notes
+---
+- The brain proposes an alliance against [[Cain]] because he's accelerating his "project"
+- [[Cain]] seems too close to his goals according to it
+- The group investigates and determines the flower the brain has is definitely the one we're looking for
+- The entire area also appears to be completely sealed
+- The brain offers to give us the flower if we join the collective aka get brain worms
+- The haste that [[Isla]] gave to [[Melody]] and [[Fish]] has already worn off
+- [[Emi]] gives [[Olivia]]'s cloak to [[Fish]]
+- [[Emi]] is a carrier of the brain worms
+- We don't want brain worms, thus initiating combat
+# Combat
+- We roll initiative
+- [[Ave]] throws one ball bearing into the viscous opaque fluid coursing through the arena, and it sinks out of sight
+- [[Emi]] casts bless on [[Fish]], [[Ave]], [[Advena]], [[Isla]], and [[Melody]]
+- [[Advena]] casts fireball
+- [[Fish]] sprints 120 feet to the brain in one action
+	- Buried [[boolywog]] mutants pop out of the ground near the flower as [[Fish]] gets near the brain
+- He notices a magical barrier of some variety surrounding the flower
+- Upon grabbing the flower, [[Fish]] needs to make a wisdom save
+- He then dimension doors out with the flower
+- lair action reinforcements - [[Cedric]] appears
+- He's being chased by several mutated [[boolywog]]s through the portal, however he turns around and fireballs them all, killing them
+- The elder brain casts mind blast on one of the hulks as they surround us
+- They all chain together and explode
+- They also take no damage from this
+- [[Melody]] takes one turn, and kills one of them outright
+- [[Isla]] casts shocking grasp on [[Ardric]]?!
+- She uses dissonant whispers to move one of the gabaghouls to explode [[Ardric]], [[Ave]], and [[Cedric]]
+- [[Isla]] drops haste on [[Fish]] and [[Melody]]
+- [[Ardric]] is now heavily bloodied
+- [[Ave]] chases [[Isla]] and shoots her with a blue whinni dipped bullet to attempt to sleep her, however she saves and just takes 17 damage
+- [[Emi]] uses mass cure wounds
+- [[Advena]] fireballs the gabaghouls
+- [[Fish]] cannot take his turn due to fatigue
+- [[Cedric]] uses hunger of Hadar on the guys
+- [[Emi]] fails a charisma save, and is now subject to [[Isla]]'s instructions for the next turn
+- [[Cedric]] is the only one of the party who fails a wisdom save
+	- He now thinks the entire area is filled with water and he is drowning
+- Everyone but [[Fish]] failed the save for a breath attack and are now infected with tadpoles
+- [[Ardric]] shoots [[Emi]] to force another charisma save, but misses. He then shoots the brain
+- [[Melody]] takes 10 psychic damage at the start of his turn from the tadpoles in his brain. He then action surges to drink a potion of speed and regain haste
+- [[Isla]] twin spells dominate person on [[Melody]] and [[Fish]]
+	- [[Advena]] counterspells it
+	- [[Isla]] counters the counterspell
+	- [[Fish]] gets instructed to go towards [[Cedric]]
+	- [[Emi]] is instructed to move towards [[Isla]] and heal herself
+- [[Ave]] casts hypnotic pattern on herself, the [[boolywog]]s, and [[Isla]]. EVERYONE. SAVES.
+- [[Advena]] fireballs 2 of the [[boolywog]]s and [[Isla]]. The frogs save, however [[Isla]] does not
+- [[Fish]] goes to try and attack [[Cedric]], however [[Ardric]] silvery barbs it and he misses
+- [[Ave]] gets hit by 4 frogs and goes down
+- [[Melody]] redirects the last attack so it doesn't hit [[Ave]] and instead hits one of the gabaghouls
+- One of the frogs grabs [[Ave]] and carries her towards the brain
+- [[Ardric]] blasts one of the gabaghouls to try and kill it, and manages to eviscerate it
+- He then summons [[Jason]], gives a bead of fireball from his necklace to [[Jason]]
+- [[Jason]] throws the bead at the remaining two gabaghouls
+- legendary action, the brain hits [[Ave]] with a tentacle knocking out two of her death saves and grappling her
+- [[Melody]] attacks [[Isla]] with hunter's mark
+- She drops to 0 HP
+- [[Melody]] then ties her hands and feeds her a good berry so she doesn't die
+- The swirl in [[Isla]]'s eyes is falling apart as she tries to telepathically communicate with [[Melody]] in primordial
+- [[Isla]] tastes a copper taste in her mouth, and her eye begins to bleed from a scar beneath her eye
+- [[Ave]] has 13 hours before she's a mindflayer
+- [[Emi]] tries to healing word [[Ave]], but realizes the only way to save her would be greater restoration or wish
+- [[Advena]] vortex warps [[Ave]] over to [[Emi]], where [[Emi]] immediately tries to cast greater restoration on [[Ave]]. This purges the tadpole, and stabilizes her
+- The [[boolywog]]s outright kill [[Cedric]]
+- the brain tries to use dominate monster on [[Fish]] but he saves
+- [[Ardric]] kills the last gabaghoul by critting him when he had 1HP remaining
+- He then proceeds to blast the brain twice, critting with one of the hits
+- [[Melody]] hits the brain with 45 points of thunder damage
+- He then haste action attacks and lands a natural 20
+	- 129 points of fire damage
+- As the brain falls, all the other creatures in the room under it's command fall, including [[Isla]]
+- The process of the entire place collapsing has also accelerated
+- [[Emi]] heals [[Ave]] getting her up
+- [[Advena]] descends to in front of [[Isla]], grabs her by the neck, and begins berating her unconscious body
+- [[Ave]] heals [[Isla]], then casts vicious mockery to try and kill the worm in her brain, but just hits [[Isla]] instead
+- In primordial, [[Isla]] says "The water was falling, where am I?" which [[Emi]] can only understand
+- [[Cedric]], while dead, sits up and a portal opens behind him
+- [[Ardric]] checks and realizes this is [[Cedric]]'s goodbye
+- As people say their goodbyes, we being to exit through the portal
+- We exit the portal to [[Serenity]], as a neothelid tries to follow us and gets lit up by the firing squad on the other side
+- As we leave, we all hear in our mind "Nothing of value was lost today" from [[The Great Eye]]

@@ -7,3 +7,4 @@ tags:
 # Bio
 - [[Fire Genasi]]
 - [[Emi]]'s mother
+- Only child

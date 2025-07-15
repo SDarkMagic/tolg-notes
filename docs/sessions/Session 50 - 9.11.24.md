@@ -1,0 +1,77 @@
+---
+tags:
+  - dnd
+  - sessions
+  - notes
+---
+# General
+- Final preparations are made before approaching [[Belphegor]]'s lair
+- [[Ardric]] casts wheel or woe, and it turns out getting there will be both wheel and woe whatever that means
+- [[Melody]] flies back to [[Ardric]] and [[Emi]] as we approach the lair, telling them we're actually here to confront [[Belphegor]]
+- [[Emi]] casts pass without a trace on the party as we approach to enter
+- [[Ardric]] brought his horse all the way up the mountain, only to learn it cannot fit through the entrance we were planning on using
+- ![[Pasted image 20240911124318.png]]
+- So this entrance was an idea...
+- Anyways, we're being characaturized as child killers by a [[Red Abishai]] preaching to a congregation that all seem to be armed
+- Top doorway is armory and communications, west is mining and research
+- [[Advena]] gives [[Belle]] a dagger to put in her mouth, then sends her off to the side
+	- [[Melody]] also makes [[Belle]] look like a giant rat
+- None of them notice [[Belle]]
+- They take a break from their sermon to attack [[Belle]] in an attempt to kill the rat
+- We split the groups in half. Squad A+B are chasing [[Belle]]
+- [[Belle]] encounters a giant crystalline dragon statue that says "This isn't your true form little one"
+- [[Fish]] is now searching for god in this room
+	- There's a statue of a 5 headed dragon on the east wall of the room
+- [[Belle]] continues on to the next room where a green dragon is talking to [[Belphegor]] through a mirror
+	- They're working on an alternative to Project Lemonade and need the help of you know who to make it work, but [[Belphegor]] disagrees
+- [[Ardric]] attempts to minor illusion speak to the [[Red Abishai]] and convince him to evacuate
+- This works, we've sent the dragons on a rat crusade
+- Squad A attacks rat-[[Belle]] much to the green dragons confusion
+- We're waiting for the [[Red Abishai]] to come guide the second squad out of the room
+- He takes them out and now we're looking for traps and security measures
+- We're perplexed by how to open this chest
+- [[Ardric]] is using telekinesis the chest while [[Melody]] uses the chime of opening on it
+	- This is a layered chest, [[Melody]] is expending multiple chime of opening charges on this
+- Final layer has a note from [[Cain]] saying "It's been a pleasure working with you [[Belphegor]]"
+- [[Advena]] uses dispell magic on the last layer, making it inert and removing the alarm spell from it
+- [[Melody]] picks the final lock, and inside we find 5 arrows of slaying, a dragon slayer sword, and a frost brand
+- We take the stuff then close the chest
+- Short rest time, [[Melody]] gives [[Ave]] his mother's dagger to infuse with the dragon slayer sword's properties
+- [[Ardric]] casts tiny hut while we short rest
+- [[Ave]] effortlessly infuses the magical property into [[Melody]]'s dagger
+- [[Cain]] calls in on the mirror to tell [[Belphegor]] one of the items stopped emanating magic energy. He's gonna raise the alarm on the lair if no response is sent
+- He's counting to 5
+- [[Olivia]] is casting sending to [[Cain]] with her voice masked as the [[Red Abishai]] telling him [[Belphegor]] ordered the items to be moved
+- We now need a name and station of the guy we're impersonating
+- He doesn't actually care about the name or title, and he doesn't believe us
+- [[Cain]] is belittling [[Emi]], to which [[Emi]] blasts the mirror and [[Ave]] throws a bomb at the mirror
+- His pocket watch is not his phyllactory
+- [[Emi]] has destroyed the mirror, however [[Cain]] is still here
+- He "says" he won't raise the alarm because he's too entertained by the thought of [[Team One Large Guy|TOLG]] taking on [[Belphegor]]
+	- both [[Olivia]] and [[Ave]] succeed an insight check to know he's not lying
+- In the next room is a statue of a devil that some of us have seen before
+- [[Emi]] is hearing a voice in her mind as we're crossing the lava room
+- Someone is writing in [[Emi]]'s pocket
+- Stopping above solid land, [[Emi]] opens her scroll to see that is just says "Save me my little Lily" over and over while still being actively written
+- It's in [[Abel]]'s handwriting
+- [[Advena]] uses detect magic and there's a **LOT** coming from both the scroll and the statue
+- ![[Pasted image 20240911143422.png]]
+- Next room has 3 adult red dragons filling the lava lake
+- [[Ave]]'s contract has been changed, but she's gonna look at it later
+- We're trying to figure out if we can negotiate with the green dragon
+- [[Advena]] casts fly on [[Fish]], [[Olivia]], herself, and [[Ave]]
+- [[Ardric]] is using major illusion to try and conceal us
+- We almost fully collide with a dragon as we're moving across the ceiling
+- A large door blocks our path, with a receptacle labelled offering in front of it
+- [[Melody]] dumps the entirety of the 2560 gold we got from drinking poison at the tavern a wild ago
+- A total of 5000 gold is needed
+- we pay the toll, and see a path leading to a chapel
+- We're flying down the path to see if we can find anything
+- In the lava before us, there's a large head similar to the one we saw in the [[Underdark]]
+- [[Belphegor]] has grabbed [[Melody]]
+- oh he's filled the room with lava now
+- He's now jumping into the lava with [[Melody]]
+- [[Belphegor]] belphs fire on [[Fish]], [[Olivia]], [[Advena]], and [[Ave]] doing 92 damage
+- [[Melody]] misty steps out of the grapple
+- [[Olivia]]'s turn to take a swim in the lava
+- 

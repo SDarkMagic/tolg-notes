@@ -16,11 +16,11 @@ tags:
 - The [[yuan-ti]] are looking at [[Olivia]] inquisitively with a hint of malice as she passes
 - They knew that [[Melody]] was there the whole time. [[Ardric]] blames it on [[Melody]] being timid
 - [[Ave]] shares some of the book covers of the books she found
-- [[Amber Thornclaw|Amber]] is returning from the cemetery, but [[Flint]] is nowhere to be found...
+- [[Amber Thornclaw|Amber]] is returning from the cemetery, but [[remote/docs/characters/Flint Thornclaw]] is nowhere to be found...
 - [[Melody]] is suggesting we "kill" them ([[yuan-ti]]) with kindness
 - [[Ave]] begins to repair one of the houses, and does not get far before the rest of the party notices
-- [[Flint]] comes back and says we're gonna need more manpower
-	- The [[yuan-ti]] have been asking [[Flint]] to give them control of the [[Redwood|village]]
+- [[remote/docs/characters/Flint Thornclaw]] comes back and says we're gonna need more manpower
+	- The [[yuan-ti]] have been asking [[remote/docs/characters/Flint Thornclaw]] to give them control of the [[Redwood|village]]
 - The [[Manyvoice Mask]] comes from the [[astral plain]]
 	- It was sitting there for a few years
 - [[Advena]] is asking [[Ave]] why she was so abrupt with wanting to keep it
@@ -34,7 +34,7 @@ tags:
 - [[Melody]] solos the first night watch
 - [[Ardric]], [[Emi]], and [[Ave]] take the next nightwatch
 	- [[Amber Thornclaw|Amber]] was sneaking out for a night stroll
-	- She's going to [[Flint]]'s cabin
+	- She's going to [[remote/docs/characters/Flint Thornclaw]]'s cabin
 - [[Ave]] gives [[Ardric]] 100gp of arcane ink
 - One of the books [[Ave]] found was written by [[Emi]]'s father
 - [[Ardric]] was wondering about [[Sehanine]]

@@ -1,0 +1,107 @@
+---
+tags:
+  - dnd
+  - notes
+  - sessions
+---
+# General
+- We're looking for a normal egg for [[Amber Thornclaw|Amber]]
+- [[Melody]] has fake jordans now too
+- We're on our way to visit the [[Dryad]]s now, and as we approach we hear [[Artemicion]]?!
+- [[Olivia]] approaches [[Sapphire]] and [[Amber Thornclaw|Amber]] with the egg
+- [[Olivia]] informs [[Amber Thornclaw|Amber]] about the situation with [[Flint Thornclaw]]
+- [[Sapphire]] wants her lycanthropy back so she can be "useful" again
+- [[Sapphire]] thinks it's necessary to be dangerous in this world
+- [[Sapphire|Saph]] is considerably upset that [[Olivia|Ruby]]'s solution to the lycanthropy is death
+- [[Ardric]] is discussing herbs with the locals while this is all happening
+- [[Topi Topi]] and [[Artemicion]] are talking with a witch named [[Rita]]
+- [[Advena]] goes behind [[Artemicion]] and begins casting identify on him immediately
+- [[Artemicion]] had to sign an NDA for his interview with [[Cain]]
+	- He started questioning it which began to offend [[Cain]]
+- He believes he's on the edge of something very big with his [[Dawnfrost]] research
+- [[Artemicion]] believes there was a conspiracy to destroy the [[Dawnfrost]] from within
+- He was in the south-most region where there's a lot of sand, in a city
+- There was a "giant worm in the sand that started destroying everything in it's path"
+	- It was of the purple variety
+- We begin making our way to [[Sthertiing]] for a quick stop
+- There's a portal at the bottom of the well in [[Sthertiing]] apparently?
+- A new flower shop has appeared in [[Sthertiing]]
+- [[Melody]], [[Emi]], and [[Fish]] go to the alchemist, however no one can be heard inside even after knocking
+- [[Ardric]] is transferring the properties of the clockwork armor to his typical armor
+- [[Olivia]] gets the dimension door cloak's properties transferred to her typical one
+- [[Ave]] gets the red dragon scale fused to her armor
+- [[Advena]] wants the disguise self hat fused onto her [[Manyvoice Mask]]
+- [[Adam]] knows where [[Stolas]] is and is quite bad at hiding it
+- [[Ave]] stays in the village to help [[Adam]] with the item fusing, leaving him in awe of her magical smithing skills
+- The rest of the party heads to [[Advena's Library]] to drop off the telescope
+- There's a note on the door saying that the library is closed and [[Advena]] should go to the adventurer's guild
+- [[Advena]] drops off the telescope in the library quickly before leaving
+- The adventurer's guild door is wide open and all of the lights are off as the group approaches
+- Whispers can be heard from inside as they approach
+- As [[Advena]] enters, the lights turn on and several people pop out singing happy birthday
+- [[Greelee]] leaves to check the telescope, comes back to hug [[Advena]] then immediately goes to leave again before realizing it's day and he should not look into the sun with a telescope
+- [[Melody]] may have accidentally spent all of his money
+- [[Ardric]] attempts to attune [[Jason]] to the flying apparatus (it's jetpack)
+- [[Jason]] has folded himself to be more compact so he can use the jetpack
+- The party continues to pick up the stuff from the smithy as well as [[Ave]]
+- [[Advena]] and [[Olivia]] show [[Ave]] how to store potions in the contingency band
+- [[Ardric]] summons two phantom steeds for the party to travel to [[Redwood]]
+- [[Ave]] manages to craft a bomb on the bumpy ride to [[Redwood]]
+- [[Olivia]] and [[Emi]] scout the area as we arrive and feel that there is no one in the village
+- [[Ardric]] waters a tree in the rain as thanks for the information it shared
+- [[Fish]] feels pulled to walk towards the cabin for whatever reason
+- as [[Olivia]] and [[Fish]] enter the cabin, [[Fish]] notices a small journal
+	> To the three women of my life I wish I could’ve told you in person, but I lack the courage to do so I tried all that I could to save you all, and I failed I tried, god knows I tried Have things back the way they were, before it all went to hell I quickly realised, I was just one man against an army even then, I didn’t give up, I couldn’t give up but by the time I was ready, it was too late she became a weapon, my little girl was dead I failed as a father, as a husband, as a hunter so I I saved the only place that brought me happiness, but the joy never came back I’m not the same man anymore I probably won’t even be able to look you in the eyes Goodbye my loves Amber, Sapphire and Ruby
+- [[Flint Thornclaw|Flint]] feels shame that he couldn't protect [[Amber Thornclaw|Amber]], [[Sapphire|Saph]], or [[Olivia|Ruby]]
+- There are also a lot of notes about the fortifications and entrances to the [[Assassin's Guild]]
+- There's a recently crafted hunting bow left on the bed
+- Additionally there are 5 arrows of werewolf slaying
+- [[Emi]] casts locate creature on [[Flint Thornclaw|Flint]] as we make our way towards the guild
+	- He is currently not moving
+- There's dried blood all over the place as we arrive, but no corpses; a massacre has occurred here
+- [[Melody]] searches the area for traps
+	- There aren't many, but the few that remain all seem to have been either triggered or destroyed
+- We begin to stealth as we enter
+- [[Ardric]] lops off a lock of hair and leaves it at the entrance?
+- We hear the sound of a beast breathing heavily as we follow the trail of blood deeper into the guild
+- [[Flint Thornclaw|Flint]] is covered in blood, [[yuan-ti]] flesh in his mouth with his skin seeming stretched for his body
+- As [[Olivia]] gets closer, [[Flint Thornclaw|Flint]] raises his head and smells her approaching
+- He believes he did the right thing for once by killing all the "bad" people so they wouldn't come back
+- Also he's a werewolf now
+- He initially wanted to just scare the [[yuan-ti]]
+- After he got caught snooping, he drank about 10 vials of... something?
+- [[Olivia]] shakily proclaims that he isn't family
+- He turns around and extends a blood and flesh covered hand
+- [[Advena]] climbs over the rubble pile while [[Ave]] crouches behind it in wait
+- [[Olivia]] looses an arrow directly in front of [[Flint Thornclaw|Flint]]
+- [[Ardric]] immediately cuts in front of [[Olivia]] and says he's sick and needs help
+- His arm grows more fur and claws begin to form as [[Ardric]] tries to talk him down
+- [[Flint Thornclaw|Flint]] asks if [[Olivia]] is proud of him, to which she immediately tries to shoot him and miss
+- He continues transforming and turns into a massive beast
+- [[Ave]], seeing [[Olivia]] shoot releases two shots into [[Flint Thornclaw|Flint]]
+- [[Advena]] tries to use hold person on him, but fails as he transforms
+- As [[Olivia]] shoots three arrows at him, [[Flint Thornclaw|Flint]] pounces on her dealing 25 slashing damage and knocking her prone
+- Several [[yuan-ti]] appear from hiding, 4 of which attack [[Advena]] dealing 60 damage in one attack
+- [[Emi]] uses twilight sanctuary to give the party in range 7 temp hit points each
+- [[Ardric]] careful spells a sickening radiance onto some of the [[yuan-ti]] and [[Flint Thornclaw|Flint]]
+- [[Fish]] deals 63 damage in one attack, then uses a legendary action to feral instinct and attack [[Olivia]]
+- [[Ave]] tries and fails to talk the [[yuan-ti]] down from attacking the party
+- [[Melody]] uses a maneuvering strike to get [[Olivia]] up from being prone and deal 40 psychic damage to [[Flint Thornclaw|Flint]]
+- He has 16 AC (no clue where to put this)
+- [[Melody]] redirects one of [[Flint Thornclaw|Flint]]'s feral instinct attacks from [[Olivia]] into one of the [[yuan-ti]] instantly killing it with 62 damage
+- His wounds are healing on his turn as he proceeds to attack [[Olivia]] multiple times but misses all of them
+- [[Olivia]] tries to run from [[Flint Thornclaw|Flint]] to which he immediately pounces on her again
+- Tiamat's curse has afflicted us, and suddenly two shadow dragons appear to harass us
+- ![[Pasted image 20250113141308.png]]
+- [[Flint Thornclaw|Flint]] uses four feral instincts on [[Melody]], downing him instantly and doing two death saves
+- [[Advena]] pops her contingency, immediately keeling over again and undoing her health potion she just drank
+- [[Fish]] divine smite crits for 96 damage, then immediately gets hit with the feral instinct
+- [[Fish]] incapacitates [[Flint Thornclaw|Flint]]
+- [[Ave]] heals [[Advena]], then tries to shoot the incapacitated [[Flint Thornclaw|Flint]]
+- [[Flint Thornclaw|Flint]] gets up then attacks the wall of stone dealing 50 necrotic damage
+- [[Advena]] casts fireball on one of the [[yuan-ti]] on the walls, dealing 26 fire damage to him
+- [[Olivia]] darts out from behind the wall and shoots [[Flint Thornclaw|Flint]] with an arrow of werewolf slaying dealing 24 damage
+- He then hits [[Fish]] with the feral instinct
+- As the [[yuan-ti]] see the situation worsening, they seal the place and it begins to fill with oil and fire
+- [[Olivia]] knocks [[Flint Thornclaw|Flint]] unconscious, saying "That's my girl" as he falls
+- 

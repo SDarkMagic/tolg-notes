@@ -1,0 +1,133 @@
+---
+tags:
+  - dnd
+  - notes
+  - sessions
+---
+# General
+- The facility implodes in on itself behind us as we exit the portal back into the [[Material Plain]]
+- [[Ardric]] pulls a disheveled [[Melody]] out of his pocket
+- [[Ave]] pulls [[Harr]] out of the bag
+- [[Harr]] says that something is coming
+	- This guy knows about [[Belphegor]], [[Cain]], and [[The Great Eye]]
+- He was trying to protect [[Dofleini]] by blowing himself and everything up
+- [[Harr]] kept the entire city in the dark about his dealings with [[Cain]] so people wouldn't panic
+>"[[Dofleini]] is about to be a part of someone else's dream soon" - [[Harr]]
+> "Is it not already?" - [[Ardric]]
+
+- oh hey there's more that we don't know apparently
+- One of us is tainted by [[The Great Eye]] and the other by [[Cain]]
+- [[Harr]] made a deal with [[Cain]] a long time ago to protect [[Ave]] at the cost of [[Awan]]
+- [[Awan]] did not agree to this deal
+- [[Cain]] wanted to make an example of [[Awan]], so he turned her to stone
+- [[Harr]] is pointing out that [[Olivia]] is a werewolf and claiming she doesn't know what it's like to be weak
+- [[Cain]] and [[Belphegor]] don't have a great relationship ([[Cain]] thinks he's an idiot)
+- [[Harr]] is still giving up
+- As we exit the facility, we hear people shouting in victory, but there doesn't seem to have been much of a battle
+- The guards didn't put up much of a fight
+- We're gathering all the people in an open area to share the news
+	- Need to figure out how to disperse the information
+	- Tell them there's other villages and groups experiencing similar things
+- [[Ave]] doing public speaking sure is going
+	- nat 3 and nat 1
+	- Got inspirationed
+- Telling them to get in touch with other countries and form an alliance called the [[Thawlight]]
+- [[Ave]] gets fed lines by [[Ardric]] to finish out the speech
+- We identified the threat as [[Cain]] to the general public
+	- Apparently this was a big deal to just say his name
+- [[Fish]] is contacting [[Nicole]] to help gather the alliance of [[Thawlight]] together
+- There's a small church, meaning they probably have a healer of some kind
+- We're returning to the [[Harr & Son]] headquarters
+	- We need diamonds
+	- We're splitting 12000 gold worth of diamonds between the party
+- It's finally night, and the group decides to take a rest before the next day
+# First Nightwatch - [[Ave]], [[Ardric]], [[Melody]], [[Advena]]
+- [[Dofleini]] is bustling as the night grows and people prep to defend themselves
+- The latter events of the day are being recalled, particularly the workshop being destroyed
+- [[Advena]] is apologizing to [[Ardric]] for acting rashly
+- [[Ardric]] isn't quite sure why she's apologizing, but accepts it anyways
+- [[Ave]] talks about parental relationships and sacrifice
+- [[Ave]] asks [[Advena]] about when she could have gotten her memories back
+- [[Ardric]] finally relays [[Cain]]'s message to [[Ave]]
+- [[Ardric]] holds up the [[Crown]] but nothing happens
+- [[Ardric]] says to the crown in abyssal "Would this give me the power to face him on more even terms"
+- [[Melody]] retrieves the contract for [[Ave]] from several sessions ago when she wasn't present
+- [[Ave]] asks what a soul is
+- Everyone isn't quite sure how to respond to this
+- [[Melody]] mentions that [[Fairies]] fade away
+- He feels ashamed that he was almost satisfied enough to die
+- The last things [[Cadence]] ever said to [[Melody]] was that she was disappointed
+	- At first, not in him, but in herself
+- We're consoling [[Melody]] about dying
+- He was satisfied when he died
+- [[Melody]] told the trees he was ready to lay down his life for anyone in [[TOLG]]
+- These wounds *feel* different to [[Melody]]
+- [[Advena]] is being told about how [[Harr]] tried to end her end her
+- [[Ave]]'s contract offers to let her spend one happy day with her biological family
+- [[Ave]] gives [[Advena]] a pepperbox
+- [[Advena]] attempts to shoot a tree with her newly acquired firearm
+	- She misses wildly, and doesn't know how to control the recoil
+	- Next shot lands perfectly
+- [[Ave]] infuses the gun with repeating shot
+- [[Ave]] tells [[Advena]] that [[Harr]] said she used to work for [[Cain]]
+- She also tells [[Ardric]] about the warning from Us back in [[Session 26 - 1.9.24|Session 26]]
+# Second Nightwatch - [[Emi]], [[Fish]], [[Olivia]]
+- [[Emi]] is looking very scarred and bruised from the day
+- [[Olivia]] also has several bullet shells in her skin
+- [[Fish]] is belittling his pain since other people have endured worse during the day
+- He thinks he should have done more
+- *help I left for a few minutes what are they talking about now?*
+- [[Emi]] asks if all the healing she does is actually just selfish to keep other people around 
+- Oh [[Fish]] is talking about that one time he died
+- [[Olivia]] is indifferent on death
+- [[Olivia]] is worried she won't have anywhere to belong after the journey is over
+- [[Emi]] is telling [[Olivia]] and [[Fish]] about her worries for [[Nadine]] and [[Serenity]]
+- [[Emi]] is attempting to scry on [[Nadine]]
+	- Her mother is sleeping
+- [[Emi]]'s contract offered to save [[Serenity]] at the cost of her soul
+- The town is growing quieter as people go to bed for the night
+# Post Nightwatch
+- [[Ardric]] is still awake after the second nightwatch
+- He awakened minds us "I love you all" then puts on the [[Crown]]
+- He hears some "funny teehee words" from the crown when putting it on
+- He succeeds the wisdom throw, then hears "Ah so you put the crown on... Good choice"
+- Nothing happens, and the party knows nothing of what happens
+- [[Olivia]] asks if he wants to take it off
+- He Replies "You know I can't do that"
+- [[Olivia]] tries to cast dispel magic on the crown, and [[Ardric]] subtle counterspells it
+- Bro really just said incorrigible
+- Anyways, [[Ardric]] says it's his decision to make, and the consequences only really affect him
+- [[Olivia]] goes around waking the rest of the party up
+- EVERYONE. IN. THE. GROUP. forgot what this croiwn does
+- [[Ardric]] did not take a long rest
+- [[Advena]] pulls out a statuette of herself made of ivory and decorated with various gems
+- She's doing some kind of ritual or smth
+- The eyes on the statuette now open slowly then glow
+- She setup an auto trigger spell to trigger if ???
+- [[Advena]] refuses to disclose what that spell was
+	- evocatian magic
+	- 6th level
+- [[Ardric]]'s skin is moving
+	- Transmutation magic
+- [[Melody]] goes outside, stops the first passerby, and immediately asks if the town has a therapist
+- [[Melody]] is going to the therapist
+- The therapist is the person from the warehouse
+- [[Melody]] takes one look at her and DIPS
+- [[Ardric]] has awoken
+- The crown has planted roots in his head, and his hair becomes more saturated, then disappears
+- He's covered in illusion magic
+- [[Olivia]] is casting 4th level dispel magic on [[Ardric]], causing his intrinsic disguise self spell to drop
+	- ![[Pasted image 20240731151712.png]]
+- He ourple now
+- The gem from the crown is embedded in his forehead
+- [[Jason]] is freaking out about this and does not trust [[Ardric]]
+- [[Ardric]] disguises himself back to how he used to look, however his new form seems much skinnier
+- [[Harr]] has ended up in prison, and [[Advena]] has gone to talk with him
+- [[Harr]] knows [[Advena]] from [[Cain]] talking about her
+	- They used to work very closely together
+	- [[Cain]] was rather fond of [[Advena]]
+	- She was basically his right hand
+	- [[Advena]] was found while [[Cain]] was working on inter-dimensional travel stuff
+	- He regretted that the two had to part ways in such a manner
+- The locals are helping us prepare to set off to sea once again
+- 

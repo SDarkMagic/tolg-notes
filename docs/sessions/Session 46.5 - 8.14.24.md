@@ -1,0 +1,122 @@
+---
+tags:
+  - dnd
+  - notes
+  - sessions
+---
+# General
+- [[Fish]] is seasick, steering the boat on the way back from [[Dofleini]]
+- We see a body in the water
+	- [[Olivia]] thinks the person is dead, they aren't
+	- [[Ardric]] dives in to save the guy
+- [[Trenchathan Currentrider]] is bumming around with his sprite friend
+- [[Ave]] has mixed ink and seawater to create some "fintastic lemonade"
+- This guy has successfully drunk the brew
+- [[Melody]] is skeptical when [[Trenchathan Currentrider|Trench]] says he's here for adventure recalling how he began on this journey
+- [[Trenchathan Currentrider|Trench]] and [[Nami]] have been at this for 4-7 months
+- [[Trenchathan Currentrider|Trench]] was looking for a big crawfish in the ocean
+- He was trained by the [[piRats]]
+- [[Melody]] brings up the bomb incidents in the squirrel post office
+- [[Ardric]] uses prestidigitation to dry [[Trenchathan Currentrider|Trench]]
+- We're approaching an island, and the boat enters the island as an unnatural current directs it
+- The boat seems to be becoming almost ethereal as it nears
+- [[Ave]] falls through the visage of the boat, and [[Melody]] can't fold it back up
+- Otherworldly chains reach from underwater and grab the boat
+- Other boats are chained here, and all of them are ethereal now
+- [[Trenchathan Currentrider|Trench]] senses that the crawfish is somewhere around here? (something is wrong with the island)
+- [[Melody]] conveys blood and skulls around the area to everyone but [[Trenchathan Currentrider|Trench]] through the mental link
+- [[Fish]] uses divine sense and sees a LOT of undead presence in the area, but only faintly
+- [[Olivia]] casts a spell, and [[Fish]] begins to notice the undead presence becoming stronger
+- [[Cedric]]'s ring is glowing, and [[Fish]] becomes frozen in place
+	- [[Cedric]] allows the unknown communication through
+- Some of the party each hears a voice telling them something different
+- [[Melody]] mental links with the communicator who welcomes us to their house
+- [[Trenchathan Currentrider|Trench]] thinks we're all crazy for commonly hearing each other in our heads
+- It offers to undo the chains if we come
+- The skulls are looking at [[Fish]], [[Melody]], and [[Trenchathan Currentrider|Trench]] as we move forwards
+- one of the skulls looks at [[Melody]] and says "Cadence"
+- [[Advena]] walks up from behind completely soaked from the boat disappearing
+- We continue forward and encounter a gate as the voice beckons us to come in
+- [[Ave]] casts false life on herself, and the ground screams
+- "Dapping" people up is a [[Fae]] thing apparently
+- We approach the manner and see a tree that triggers [[Fish]]'s divine sense of undead
+- [[Ardric]] begins talking to the tree with the acorn charm
+- He hears "She doesn't like you"
+- [[Ardric]] is allowed to enter, being told that just because she doesn't like him doesn't mean he cannot repent
+- It appears to be a research facility bearing markings of the [[Raven Queen]]
+- The place seems pillaged, with blood in multiple places, knives laying around, and a dead body
+- [[Melody]] proceeds forward and finds the woman praying to a tree
+- The research papers scattered around contain notes about crash landing here and a journal being hidden in the library
+- The wall in the room ahead of us has a painting of [[Sapphire]] and a painting of [[Cadence]]
+- This is a domain of the [[Raven Queen]]
+- [[Cedric]] recognizes one of the [[Tabaxi]] paintings as someone he cared for
+- There's also a painting of [[Awan]]
+- A [[Tabaxi]] painting resembles fish
+- As some of the party enters the library, the front door closes
+- A journal that [[Ardric]] finds tells of a couple that landed on the island in need of shelter
+	- The wife's name is [[Susan]]
+	- His wife was revived, and she was hearing a voice saying she was welcome to stay as long as she wanted in the forest
+- Some of the skulls in the previous area have been lit on fire
+- Apparently [[Melody]] has met this person twice before
+	- Coincides with when he has died
+- She's named [[Susan]]
+- She can possibly help us leave
+- She leaves the room and starts walking towards fish, passing through [[Olivia]]
+- She's also met [[Fish]], making snake sounds
+- Tells [[Olivia]] that [[Sapphire]] has said good things about her and is quite energetic
+- She then goes to [[Trenchathan Currentrider|Trench]] and tells him they've met
+- [[Trenchathan Currentrider|Trench]] is "not supposed to be with them anymore"
+- Goes to [[Cedric]], says she doesn't have anything with him personally, but someone inside him.
+	- "Didn't you find it strange that you could spew fire from your very being instead of fighting with just your bare hands"
+	- "You should ask [[Quiet Peak]] about it. Can you?"
+	- "You never could find him, could you? But he was here the entire time"
+- She says that [[Cedric]] is not bound here but he can leave him and be free whenever he wants
+- Passes [[Ardric]] and whispers in his ear "you gave it away"
+- Looks at [[Advena]] and asks if she wants to know what [[Cain|he]] did to her
+	- The two of them were working on a very big project that required a lot of time
+	- [[Advena]] discovered what he wanted to use it for and she stood up
+	- She then saw [[Susan]] and he panicked
+	- He then made sure she wouldn't remember any of this and brought her back
+- [[Susan|She]] looks at [[Ave]] and says she's lived a good life, keep on going!
+- Offers to release the boat on the condition that some of us stay
+	- [[Melody]], [[Fish]], [[Advena]], [[Trenchathan Currentrider|Trench]] since they all died
+- OH APPARENTLY [[Cain|He]]'s SEEN HER NUMEROUS TIMES AND PRACTICALLY KNOWS HER BY NAME?!?
+- [[Advena]] offers to send him back for good if we all get to leave
+- She doesn't think we can stop him
+- [[Ardric]] isn't mortal anymore. He gave it away
+	- She points at the crown on his head
+	- "You were so afraid of me that you would give it away just to get a chance at more time, did you not?"
+- We're allowed to leave, but if those who have died do not stay, THEY'LL make sure they stay
+- She'll make sure our boat is ready to go but the second she gives us her blessing it will begin
+- We prepare to exit the house
+- [[Susan]] starts to disappear and wishes us good luck
+- [[Melody]] sees undead appear all around, and flashbangs the few right in front of him
+	- They are not blinded by it
+- [[Advena]] blocks off the rest of the house with a wall of force
+- the enemy then casts cloud kill inside the wof
+	- We are microwaving ourselves now ig
+- [[Susan]] says she's gonna meet us in [[Serenity]] very soon
+- Darkness begins to close in and all the lights in the building die
+- big skeleton caught in the darkness evaporates
+- [[Ave]] uses hypnotic pattern on the three dudes blocking our exit, incapacitating them
+- [[Fish]] and [[Olivia]] both run out and past the guards
+- The last remaining dude outside tries to grab [[Fish]], and fails miserably
+- We escape the house and darkness, and encounter 3 necrichors (sentient blood)
+- [[Ave]] of course found a trap
+- She found 2 more traps, dodged the immediate effects of all 3, then took 2 attacks of opportunity, went down and lost 47 max hp
+- [[Melody]] crits a dude hiding in the ground, chopping off his finger that's barely poking out of the ground, instantly killing him
+- The initial area is now covered in toxic smog
+- [[Ardric]] tries to dimension door to the boat
+	- A massive creature with a hammer appears to chase them
+	- It's using the darkness
+- The thing hammers the entire group dealing 37 damage
+- [[Advena]] dimension doors herself and [[Ave]] onto the boat
+- [[Trenchathan Currentrider|Trench]] grabs the sledge hammer as it goes up, casts invisibility on himself, and tries to run up to the things shoulders
+- [[Ardric]] dimension doors [[Cedric]] to the boat
+- Combat time we're taking our turns hitting this thing
+- It approaches us, [[Olivia]] shoots it for daring to move
+- Everyone but [[Melody]] is on the boat
+	- He begins moving towards the boat, transforming into his bone devil form, he pushes the ship out to sea
+	- He transforms back and lands on the ship
+- We get a magic item which is effectively 2 free revififies
+- [[Trenchathan Currentrider|Trench]] leaves behind the [[Dream Saber]] for the party
