@@ -1,0 +1,4978 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+        <link rel="prev" href="../Session%2064%20-%203.21.25/">
+      
+      
+        <link rel="next" href="../Session%2066%20-%204.17.25/">
+      
+      
+        <link rel="alternate" type="application/rss+xml" title="RSS feed" href="../../feed_rss_created.xml">
+        <link rel="alternate" type="application/rss+xml" title="RSS feed of updated content" href="../../feed_rss_updated.xml">
+      
+      <link rel="icon" href="../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.6.15">
+    
+    
+      
+        <title>Combat - TOLG Notes</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.342714a4.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="pink" data-md-color-accent="indigo">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#combat" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="TOLG Notes" class="md-header__button md-logo" aria-label="TOLG Notes" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            TOLG Notes
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Combat
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: light)" data-md-color-scheme="default" data-md-color-primary="pink" data-md-color-accent="indigo"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 6H7c-3.31 0-6 2.69-6 6s2.69 6 6 6h10c3.31 0 6-2.69 6-6s-2.69-6-6-6m0 10H7c-2.21 0-4-1.79-4-4s1.79-4 4-4h10c2.21 0 4 1.79 4 4s-1.79 4-4 4M7 9c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: dark)" data-md-color-scheme="slate" data-md-color-primary="pink" data-md-color-accent="blue"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 7H7a5 5 0 0 0-5 5 5 5 0 0 0 5 5h10a5 5 0 0 0 5-5 5 5 0 0 0-5-5m0 8a3 3 0 0 1-3-3 3 3 0 0 1 3-3 3 3 0 0 1 3 3 3 3 0 0 1-3 3"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="TOLG Notes" class="md-nav__button md-logo" aria-label="TOLG Notes" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    TOLG Notes
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Sessions
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Items
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            Items
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Items/Bloodseeker%20Ammunition/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Bloodseeker Ammunition
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Items/Crown/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Crown
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Items/Dream%20Saber/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Dream Saber
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Items/Invoice/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Invoice
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Items/Manyvoice%20Mask/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Manyvoice Mask
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Items/Mind%20Blower/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Mind Blower
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Items/Phylactery/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Phylactery
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Items/Walloping%20Ammunition/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Walloping Ammunition
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Items/Weapon%20of%20Blind%20Faith/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Weapon of Blind Faith
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Races
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            Races
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Races/Death%27s%20Kiss/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Death's Kiss
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Races/Draconian/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Draconian
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Races/Dragon/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Dragon
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Races/Drow/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Drow
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Races/Dryad/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Dryad
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Races/Fairies/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Fairies
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Races/Fire%20Genasi/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Fire Genasi
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Races/Illitherid/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Illitherid
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Races/Kruthiks/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Kruthiks
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Races/Mind%20flayer/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Mind flayer
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Races/Nagpa/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Nagpa
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Races/Neogi/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Neogi
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Races/Red%20Abishai/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Red Abishai
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Races/Sea%20Elf/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Sea Elf
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Races/Spiders/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Spiders
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Races/Tabaxi/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Tabaxi
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Races/The%20Elegists/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    The Elegists
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Races/Tree/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Tree
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Races/Umberhulk/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Umberhulk
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Races/Water%20Genasi/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Water Genasi
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Races/boolywog/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Boolywog
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Races/illithids/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Illithids
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Races/yuan-ti/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Yuan-ti
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Blog
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            Blog
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    
+  
+  
+    <li class="md-nav__item">
+      <a href="../../blog/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Blog
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Archive
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Characters
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            Characters
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../characters/Abel/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Abel
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../characters/Agamemnon/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Agamemnon
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../characters/Alma/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Alma
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../characters/Amber%20Thornclaw/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Amber Thornclaw
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../characters/Arastra/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Arastra
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../characters/Artemicion/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Artemicion
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../characters/Awan/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Awan
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../characters/Barren%20Height/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Barren Height
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../characters/Belle/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Belle
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../characters/Belphegor/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Belphegor
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../characters/Bloody%20Carpet/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Bloody Carpet
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../characters/Cadence/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Cadence
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../characters/Cain/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Cain
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../characters/Cosmo/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Cosmo
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../characters/Deborah/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Deborah
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../characters/Flint%20Thornclaw/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Flint Thornclaw
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../characters/Frederick/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Frederick
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../characters/Greelee/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Greelee
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../characters/Gro/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Gro
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../characters/Harr/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Harr
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../characters/Jacob/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Jacob
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../characters/Jason/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Jason
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../characters/Justin%20Spic/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Justin Spic
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../characters/Kupex/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Kupex
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../characters/Leviathan/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Leviathan
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../characters/Lily/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Lily
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../characters/Lord%20Timmin/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Lord Timmin
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../characters/Mammon/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Mammon
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../characters/Martha/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Martha
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../characters/Matthew/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Matthew
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../characters/Maxim/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Maxim
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../characters/Miko/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Miko
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../characters/Nadine/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Nadine
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../characters/Nelrisah%20the%20ambitious/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Nelrisah the ambitious
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../characters/Pazuzu%2C%20great%20demon%20of%20winds/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Pazuzu, great demon of winds
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../characters/Phil/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Phil
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../characters/River/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    River
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../characters/Sapphire/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Sapphire
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../characters/Stilts/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Stilts
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../characters/Stolas/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Stolas
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../characters/Sunrise/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Sunrise
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../characters/Sunset/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Sunset
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../characters/Syliva/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Syliva
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../characters/Terry/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Terry
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../characters/Thomas/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Thomas
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../characters/Topi%20Topi/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Topi Topi
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../characters/Us/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Us
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../characters/Vesta/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Vesta
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../characters/bubsy/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Bubsy
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5_50" >
+        
+          
+          <label class="md-nav__link" for="__nav_5_50" id="__nav_5_50_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Players
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_5_50_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5_50">
+            <span class="md-nav__icon md-icon"></span>
+            Players
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../characters/players/Advena/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Advena
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../characters/players/Ardric/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Ardric Holt
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../characters/players/Ave/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Ave Cetacean
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../characters/players/Cedric/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Cedric
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../characters/players/Emi/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Emi
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../characters/players/Fish/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Fish
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../characters/players/Iseryn/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Iseryn
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../characters/players/Isla/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Isla
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../characters/players/Melody/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Melody
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../characters/players/Olivia/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Olivia Thornclaw
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../characters/players/Trenchathan%20Currentrider/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Trenchathan Currentrider
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6" >
+        
+          
+          <label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Factions
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6">
+            <span class="md-nav__icon md-icon"></span>
+            Factions
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../factions/Assassin%27s%20Guild/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Assassin's Guild
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../factions/Dawnfrost/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Dawnfrost
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../factions/Harr%20%26%20Son/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Harr &amp; Son
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../factions/Mail%20Squirrels/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Mail Squirrels
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../factions/Nagpa%20Mages/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Nagpa Mages
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../factions/Team%20One%20Large%20Guy/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Team One Large Guy
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6_7" >
+        
+          
+          <label class="md-nav__link" for="__nav_6_7" id="__nav_6_7_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Deities
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_6_7_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6_7">
+            <span class="md-nav__icon md-icon"></span>
+            Deities
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../factions/deities/Caiphon/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Caiphon
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../factions/deities/Melora/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Melora
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../factions/deities/Sehanine/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Sehanine
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../factions/deities/The%20Great%20Eye/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    The Great Eye
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../factions/deities/Tiamat/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Tiamat
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7" >
+        
+          
+          <label class="md-nav__link" for="__nav_7" id="__nav_7_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Locations
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_7_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_7">
+            <span class="md-nav__icon md-icon"></span>
+            Locations
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../locations/Advena%27s%20Library/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Advena's Library
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../locations/Big%20Fae%20Apple/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Big Fae Apple
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../locations/Blossom/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Blossom
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../locations/Distant%20Rain/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Distant Rain
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../locations/Dofleini/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Dofleini
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../locations/Endless%20Stream/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Endless Stream
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../locations/Mizunia/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Mizunia
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../locations/Murder%20Thunderdome/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Murder Thunderdome
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../locations/Redwood/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Redwood
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../locations/Serenity/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Serenity
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../locations/Sthertiing/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Sthertiing
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../locations/Temple%20of%20Caiphon/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Temple of Caiphon
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../locations/The%20Door/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    The Door
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7_14" >
+        
+          
+          <label class="md-nav__link" for="__nav_7_14" id="__nav_7_14_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Dimensions
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_7_14_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_7_14">
+            <span class="md-nav__icon md-icon"></span>
+            Dimensions
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../locations/dimensions/Fae%20Wild/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Fae Wild
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../locations/dimensions/Material%20Plain/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Material Plain
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../locations/dimensions/Underdark/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Underdark
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../locations/dimensions/astral%20plain/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Astral Plain
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_8" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_8" id="__nav_8_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Sessions
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_8_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_8">
+            <span class="md-nav__icon md-icon"></span>
+            Sessions
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Session%2026%20-%201.9.24/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Ave's Perspective
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Session%2027%20-%201.24.24/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    General
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Session%2028%20-%202.5.24/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    General
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Session%2029%20-%202.15.24/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    General
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Session%2029.5%20-%202.20.24/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    General
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Session%2030%20-%202.16.24/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    General
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Session%2031%20-%202.27.24/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    General
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Session%2032%20-%202.29.2024/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    General
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Session%2033%20-%203.4.2024/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    General
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Session%2034%20-%203.19.24/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    General
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Session%2035%20-%203.28.24/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    General
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Session%2036%20-%204.12.24/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    War
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Session%2037%20-%204.15.24/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    General
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Session%2038%20-%204.29.24/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Dream Sequence
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Session%2039%20-%205.6.24/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    General
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Session%2040%20-%205.13.24/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    General
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Session%2041%20-%205.24.24/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    General
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Session%2043%20-%206.17.24/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    General
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Session%2044%20-%207.3.24/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    General
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Session%2045%20-%207.26.24/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    General
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Session%2046%20-%207.31.24/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    General
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Session%2046.5%20-%208.14.24/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    General
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Session%2047%20-%208.8.24/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Session 47   8.8.24
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Session%2048%20-%208.21.24/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Combat
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Session%2048.5%20-%209.2.24/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Night Watch
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Session%2049%20-%209.4.24/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Session 49   9.4.24
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Session%2050%20-%209.11.24/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    General
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Session%2051%20-%209.13.24/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Combat
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Session%2052%20-%2010.2.24/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    General
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Session%2053%20-%2010.28.24/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Melody, Emi, Advena, Ave, Olivia in the Fae Wild
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Session%2054%20-%2011.4.24/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    General
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Session%2055%20-%2011.11.24/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Olivia, Ave, Advena, and Emi drunk hours
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Session%2056%20-%2012.3.24/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Session 56   12.3.24
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Session%2057%20-%2012.16.24/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    General
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Session%2057.5%20-%2012.26.24/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    General
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Session%2058%20-%201.13.25/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    General
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Session%2059%20-%201.14.25/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Combat
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Session%2060%20-%201.24.25/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    General
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Session%2061%20-%202.21.25/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    General
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Session%2062%20-%202.24.25/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Session 62   2.24.25
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Session%2063%20-%203.11.25/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    General
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Session%2064%20-%203.21.25/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Session 64   3.21.25
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    Combat
+    
+  </span>
+  
+
+      </a>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Session%2066%20-%204.17.25/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    General
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Session%2067%20-%205.2.25/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Combat
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Session%2068%20-%205.16.25/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Session 68   5.16.25
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Session%2068.5%20-%205.19.25/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    General
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Session%2069%20-%205.30.25/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    General
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Session%2070%20-%206.2.25/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    General
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Session%2071%20-%206.13.25/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    General
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Session%2071.5%20-%206.16.25/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    General
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Session%2072%20-%207.15.25/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    General
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+<h1 id="combat">Combat<a class="headerlink" href="#combat" title="Permanent link">&para;</a></h1>
+<ul>
+<li><a href="../../characters/players/Emi/">Emi</a> uses <a href="../../characters/Miko/">Miko</a> to fiery teleport <a href="../../characters/players/Advena/">Advena</a> out of her current situation</li>
+<li><a href="../../characters/Cain/">Cain</a> orders [[Viva]]'s monkey familiar to be killed seeing it's plugging her ears</li>
+<li><a href="../../characters/players/Melody/">Melody</a> incapacitates another [[Advena']]</li>
+<li><a href="../../characters/Abel/">Abel</a> breaks his restraint and begins moving towards <a href="../../characters/players/Emi/">Emi</a> and <a href="../../characters/players/Advena/">Advena</a></li>
+<li><a href="../../characters/Abel/">Abel</a> then tries to stomp <a href="../../characters/players/Isla/">Isla</a> dealing 24 damage</li>
+<li>He then turns to attack <a href="../../characters/players/Ave/">Ave</a> with his other two attacks dealing 72 damage</li>
+<li><a href="../../characters/players/Fish/">Fish</a> attacks <a href="../../characters/Abel/">Abel</a> and pushes him back 10 feet in the process</li>
+<li><a href="../../characters/players/Ardric/">Ardric</a> casts hex on <a href="../../characters/Abel/">Abel</a> giving him disadvantage on wisdom checks</li>
+<li>He then eldritch blasts pushing <a href="../../characters/Abel/">Abel</a> away from <a href="../../characters/players/Ave/">Ave</a></li>
+<li><a href="../../characters/players/Advena/">Advena</a> begins her turn by asking <a href="../../characters/Cain/">Cain</a> why he didn't treat her like a pawn<ul>
+<li>He actually cared about her apparently and wanted her to be something</li>
+<li>In just a few months most likely almost all of us will no longer exist apparently</li>
+</ul>
+</li>
+<li>She then vortex warps [[Viva]], leaving the monkey behind in the process</li>
+<li>The [[Advena']]s cast 7 fireballs on the monkey, hitting <a href="../../characters/players/Ave/">Ave</a>, <a href="../../characters/players/Fish/">Fish</a>, <a href="../../characters/players/Advena/">Advena</a>, and <a href="../../characters/players/Emi/">Emi</a><ul>
+<li><a href="../../characters/players/Isla/">Isla</a> counterspells one of them</li>
+</ul>
+</li>
+<li><a href="../../characters/players/Fish/">Fish</a> uses his reaction to shunt the monkey out of the range of the fireballs</li>
+<li><a href="../../characters/players/Advena/">Advena</a> dies</li>
+<li><a href="../../characters/players/Ave/">Ave</a> dies</li>
+<li><a href="../../characters/players/Emi/">Emi</a> immediately goes to revivify <a href="../../characters/players/Advena/">Advena</a></li>
+<li><a href="../../characters/players/Emi/">Emi</a> sees <a href="../../characters/Abel/">Abel</a>'s human form through the lens crying</li>
+<li><a href="../../characters/Cain/">Cain</a> growing bored, summons shadow spirits at the entrance</li>
+<li><a href="../../characters/players/Melody/">Melody</a> lands a crit on one of the [[Advena']]s, and uses his <a href="../../characters/Cadence/">Cadence</a> rune to redirect the damage onto <a href="../../characters/Abel/">Abel</a><ul>
+<li>22d6 damage - 115 non-lethal damage</li>
+</ul>
+</li>
+<li><em>FIRST ATTACK DONE</em></li>
+<li>He then hides and runs from where he just was to avoid danger</li>
+<li><a href="../../characters/Abel/">Abel</a> then runs towards <a href="../../characters/players/Emi/">Emi</a>, which through the lens looks like him crying and running for a hug, but he's just gonna come try to crush her actually</li>
+<li><a href="../../characters/players/Ave/">Ave</a>, while dead, has a conversation in the void with a mysterious entity about a deal for her to come back at the cost of the life of the abandoned child</li>
+<li><a href="../../characters/players/Advena/">Advena</a> uses the <a href="../../Items/Manyvoice%20Mask/">Manyvoice Mask</a> to instruct the other [[Advena']]s to "stand down" in the voice of <a href="../../characters/Cain/">Cain</a></li>
+<li>They accept this order and say "acknowledged master"</li>
+<li><a href="../../characters/players/Emi/">Emi</a> grabs <a href="../../characters/players/Ave/">Ave</a>'s body and teleports her into a hallway to try and revivify her<ul>
+<li>This fails</li>
+</ul>
+</li>
+<li><a href="../../characters/Cain/">Cain</a> says the code: "Redemption25VermillionNadine" and all the [[Advena']]s become "feral"</li>
+<li><a href="../../characters/players/Melody/">Melody</a> attacks <a href="../../characters/Abel/">Abel</a>, then tries to hide, with a nat 1 stealth</li>
+<li><a href="../../characters/Abel/">Abel</a> walks towards <a href="../../characters/players/Emi/">Emi</a> and tries to unleash the shades on her, only for <a href="../../characters/players/Advena/">Advena</a> to vortex warp her away leaving <a href="../../characters/Miko/">Miko</a> to take all of the attack, and dying</li>
+<li><a href="../../characters/players/Isla/">Isla</a> moves the gem into <a href="../../characters/players/Ardric/">Ardric</a>'s radiance</li>
+<li><a href="../../characters/Abel/">Abel</a> moves to try and stomp <a href="../../characters/players/Advena/">Advena</a> but doesn't manage to land the attack</li>
+<li><a href="../../characters/players/Emi/">Emi</a> takes the next attack which would have hit <a href="../../characters/players/Advena/">Advena</a> using the power of doomed yuri</li>
+<li><a href="../../characters/players/Ave/">Ave</a> comes back from the dead, misses two shots, action surges, and shoots <a href="../../characters/Abel/">Abel</a> twice</li>
+<li><a href="../../characters/players/Ardric/">Ardric</a> tries to combine a sacred flame with eldritch blast<ul>
+<li>He hits the growing shadows from the main entrance, and it shrinks significantly</li>
+</ul>
+</li>
+<li><a href="../../characters/players/Advena/">Advena</a> attacks <a href="../../characters/Abel/">Abel</a> with a shadow blade, but he's still standing somehow</li>
+<li><a href="../../characters/Cain/">Cain</a> cannot remember what <a href="../../characters/players/Ave/">Ave</a> likes</li>
+<li><a href="../../characters/players/Emi/">Emi</a> heals herself, <a href="../../characters/players/Ave/">Ave</a>, and <a href="../../characters/players/Advena/">Advena</a></li>
+<li><a href="../../characters/players/Melody/">Melody</a> downs <a href="../../characters/Abel/">Abel</a>, incapacitating him</li>
+<li><a href="../../characters/Abel/">Abel</a> self destructs as <a href="../../characters/Cain/">Cain</a> remembers <a href="../../characters/players/Ave/">Ave</a> likes bombs<ul>
+<li>This kills the surrounding [[Advena']]s who get caught in the blast</li>
+</ul>
+</li>
+<li><a href="../../characters/players/Isla/">Isla</a> moves the gem into <a href="../../characters/players/Ardric/">Ardric</a>'s sickening radiance, making a concentrated beam to attack the shadow doing disintegrate damage but radiant<ul>
+<li>This cuts it in half killing it instantly</li>
+</ul>
+</li>
+</ul>
+<h1 id="general">General<a class="headerlink" href="#general" title="Permanent link">&para;</a></h1>
+<ul>
+<li>[[Viva]] comes up to look for her monkey</li>
+<li><a href="../../characters/players/Melody/">Melody</a> looks around in the room and finds 3500 gold and 500 gold worth of ruby</li>
+<li>When <a href="../../characters/players/Melody/">Melody</a> looks through the lens at the party, <a href="../../characters/players/Emi/">Emi</a> has black tentacles behind her, <a href="../../characters/players/Fish/">Fish</a> is glowing with a halo, and <a href="../../characters/players/Ave/">Ave</a> is wearing a dark robe and has large black feathered wings</li>
+<li><a href="../../characters/players/Fish/">Fish</a> and <a href="../../characters/players/Melody/">Melody</a> are discussing what they see through the lens</li>
+<li><a href="../../characters/players/Ave/">Ave</a> uses mending to fix the 5 remaining [[Advena']]s that <a href="../../characters/players/Melody/">Melody</a> collected</li>
+<li><a href="../../characters/players/Advena/">Advena</a> and <a href="../../characters/players/Emi/">Emi</a> are lamenting the fact that they both want a family and do not currently have one</li>
+<li>Through the lens, only the crown is really visible and <a href="../../characters/players/Ardric/">Ardric</a> is almost translucent</li>
+<li><a href="../../characters/players/Advena/">Advena</a> is discussing what to do about the [[Advena']]s with [[Viva]]</li>
+<li><a href="../../characters/Cain/">Cain</a> was lying the whole time, there was nothing in any of them</li>
+<li><a href="../../characters/players/Isla/">Isla</a> comes up to join the party to be visually inspected using the lens</li>
+<li><a href="../../characters/players/Advena/">Advena</a> determines the lens sees through other plains to detect magical energy attached to people</li>
+<li>[[Viva]] theorized that the lens was a soul lens</li>
+<li>[[Viva]] tries turning on one of the [[Advena']]s but nothing of note happens</li>
+<li><a href="../../characters/players/Melody/">Melody</a> uses his knife to cut a part of the lens out and he has a pocket soul lens<ul>
+<li>No clue how long it will last</li>
+<li>Less accurate than the big one</li>
+</ul>
+</li>
+<li>We return to <a href="../../locations/Serenity/">Serenity</a></li>
+<li>As we head back to the portal area, we hear several voices and notice a lot of defenses have been setup</li>
+<li><a href="../../characters/Artemicion/">Artemicion</a> has a new book for us that he just made<ul>
+<li>It's the interview with <a href="../../characters/Cain/">Cain</a></li>
+</ul>
+</li>
+<li>The entire book is just flaming <a href="../../characters/Cain/">Cain</a></li>
+<li>This squirrel has put a target on his own back</li>
+<li><a href="../../characters/players/Ave/">Ave</a> and <a href="../../characters/players/Ardric/">Ardric</a> help <a href="../../characters/players/Isla/">Isla</a> carry the [[Advena']]s</li>
+<li><a href="../../characters/players/Melody/">Melody</a> flies up and looks down with his new lens<ul>
+<li>The entire crater is glowing purple</li>
+<li><a href="../../characters/Artemicion/">Artemicion</a> looks more heroic through the lens</li>
+</ul>
+</li>
+<li>[[Bob]] goes looking for a pumpkin to give to us</li>
+<li><a href="../../characters/Vesta/">Vesta</a> learns about what happened in the lab and is shocked to learn about the [[Advena']]s</li>
+<li>Recently <a href="../../characters/Vesta/">Vesta</a>'s memories re-appeared, and she's unsure if she willingly forgot or something happened to them</li>
+<li><a href="../../characters/Cain/">Cain</a> changed when <a href="../../characters/Nadine/">Nadine</a> was very young<ul>
+<li>She was being attacked by an undead/demon beast with tentacles of some variety</li>
+<li><a href="../../characters/Cain/">Cain</a> was casting spells to protect her</li>
+<li>It killed <a href="../../characters/Cain/">Cain</a></li>
+<li>When <a href="../../characters/Vesta/">Vesta</a> brought <a href="../../characters/Cain/">Cain</a> back, he was shaken because he couldn't protect <a href="../../characters/Nadine/">Nadine</a></li>
+</ul>
+</li>
+<li>She wants to talk with <a href="../../characters/players/Emi/">Emi</a> in private now<ul>
+<li>This isn't the first time she's seen a perfect replica/simulacrum of someone</li>
+<li>After <a href="../../characters/Cain/">Cain</a> changed and <a href="../../characters/Vesta/">Vesta</a> made him leave <a href="../../locations/Serenity/">Serenity</a></li>
+<li>He came back with a solution to never fear losing <a href="../../characters/Nadine/">Nadine</a> again</li>
+<li>He showed <a href="../../characters/Vesta/">Vesta</a> a perfect synthetic replica of a young <a href="../../characters/Nadine/">Nadine</a></li>
+<li>According to him it was the safest way to make sure <a href="../../characters/Nadine/">Nadine</a> was still alive no matter what</li>
+<li><a href="../../characters/Nadine/">Nadine</a> has never been told about this, and <a href="../../characters/Vesta/">Vesta</a> doesn't want her to ever know</li>
+<li><a href="../../characters/players/Emi/">Emi</a> wants <a href="../../characters/Vesta/">Vesta</a> to keep a secret from <a href="../../characters/Nadine/">Nadine</a> for her<ul>
+<li>It's the fact that <a href="../../characters/Abel/">Abel</a> is gone for good now</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>![[Pasted image 20250324151345.png]]</li>
+<li><a href="../../characters/players/Ardric/">Ardric</a> now tries to cast forbiddance on <a href="../../locations/Serenity/">Serenity</a></li>
+<li>[[Bob]] comes back with a <strong>MASSIVE</strong> pumpkin for [[Viva]]</li>
+<li><a href="../../characters/players/Ardric/">Ardric</a> casts gentle repose on the pumpkin to help prevent decomposition over time</li>
+<li><a href="../../characters/players/Advena/">Advena</a> has a request for <a href="../../characters/Harr/">Harr</a><ul>
+<li>She wants him to "fix" the [[Advena']]s to remove them from his influence and potentially remove the failsafe installed in them</li>
+</ul>
+</li>
+<li><a href="../../characters/players/Advena/">Advena</a> notices something is off about <a href="../../characters/Harr/">Harr</a> since he looked at [[Viva]]<ul>
+<li>This isn't the first time he's seen [[Viva|her]]</li>
+<li>He saw her a few years ago when he started doing work for <a href="../../characters/Cain/">Cain</a></li>
+<li><a href="../../characters/Cain/">Cain</a> gave him access to any spare parts or models from storage when he began working for him</li>
+<li>he found [[Viva]] in there, and helped her escape</li>
+</ul>
+</li>
+<li><a href="../../characters/Harr/">Harr</a> agrees to try to help [[Viva]] regain her memories</li>
+<li><a href="../../characters/Vesta/">Vesta</a> looked into what was needed for petrification restoration</li>
+<li><a href="../../characters/players/Melody/">Melody</a> shows <a href="../../characters/Vesta/">Vesta</a> [[Little Wyrm]] much to her surprise</li>
+<li><a href="../../characters/players/Melody/">Melody</a> then pulls out three cockatrice saliva vials for <a href="../../characters/Vesta/">Vesta</a></li>
+<li><a href="../../characters/players/Emi/">Emi</a> agrees to talk with <a href="../../characters/Nadine/">Nadine</a> later this night</li>
+<li><a href="../../characters/players/Advena/">Advena</a> wants to meet <a href="../../characters/Vesta/">Vesta</a> in her library later</li>
+<li><a href="../../characters/Vesta/">Vesta</a> expects a counter-attack when we open the portal</li>
+<li>[[Viva]] is going to stay with [[Bob]] for the time being</li>
+<li>We now head to <a href="../../characters/Vesta/">Vesta</a>'s library</li>
+<li><a href="../../characters/Vesta/">Vesta</a> gives <a href="../../characters/players/Melody/">Melody</a> 3 doses of anti-petrification potion</li>
+<li><a href="../../characters/players/Ardric/">Ardric</a> acquires a spell of commune with nature</li>
+<li><a href="../../characters/players/Melody/">Melody</a> distributes the gold he found in the lab</li>
+<li><a href="../../characters/players/Advena/">Advena</a> and <a href="../../characters/players/Isla/">Isla</a> split the cost of another spell scroll</li>
+<li><a href="../../characters/Vesta/">Vesta</a> gives <a href="../../characters/players/Emi/">Emi</a> 300 gold worth of diamonds for revivify</li>
+<li>Everyone but <a href="../../characters/players/Advena/">Advena</a> leaves the library</li>
+<li>She stays behind and is talking with <a href="../../characters/Vesta/">Vesta</a> about life transference for various healing methods</li>
+<li><a href="../../characters/Vesta/">Vesta</a> is encouraging the doomed yuri</li>
+<li><a href="../../characters/Nadine/">Nadine</a> wild magicked herself into a sheep at some point when practicing spells when she was younger</li>
+<li><a href="../../characters/players/Ave/">Ave</a> forgot she was in the library while all this was happening, but may have overheard some of it</li>
+<li></li>
+</ul>
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      <script id="__config" type="application/json">{"base": "../..", "features": [], "search": "../../assets/javascripts/workers/search.d50fe291.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.56ea9cef.min.js"></script>
+      
+        <script src="../../javascripts/mathjax.js"></script>
+      
+        <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+      
+        <script src="https://unpkg.com/mermaid/dist/mermaid.min.js"></script>
+      
+    
+  </body>
+</html>
