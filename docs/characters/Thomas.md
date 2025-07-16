@@ -4,6 +4,7 @@ tags:
   - npc
   - dnd
 ---
-# Bio
+# Thomas
+## Bio
 - [[Dryad]] chief
 - From [[Blossom]]

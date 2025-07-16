@@ -66,7 +66,7 @@ tags:
 - [[Isla]] is also looking around flower shops while she's out
 - She gives a bouquet of flowers to [[Emi]]
 - Everyone is now awake
-- Discussion of plans for dealing with the [[astral plain]] commences
+- Discussion of plans for dealing with the [[Astral Plain]] commences
 - [[Advena]] runs off to her room for 10 minutes to do *something*
 - [[Ardric]] casts forbiddance on [[Serenity]] with the tentative password being a fairy break dancing out of the portal
 - The group prepares as [[Vesta]], [[Nadine]], and the villagers re-open the portal

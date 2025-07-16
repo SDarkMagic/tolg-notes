@@ -41,11 +41,11 @@ type: session
 		- She also mentions the Great Elven Migration
 			- From what people know, the [[Elves]] had a prophecy and upon learning of it they wanted a way out of this world
 			- The [[Elves]] predicted something about the end of time, and the prophecy involved "The wheel cannot be stopped"
-			- The temple for the prophecy was created by the [[Elves]] and is now maintained by the [[boolywog]]s who seem to understand its intent
+			- The temple for the prophecy was created by the [[Elves]] and is now maintained by the [[Boolywog]]s who seem to understand its intent
 			- They knew if what they saw was truly coming, there was no hope for this world
 			- [[Ardric]] shares what the mural we saw looked like using minor illusion
 - [[Buttercup]] then looks for [[Boob-ADoob]]
-	- She believes the [[boolywog]]s just stole the remnants of Elven civilization
+	- She believes the [[Boolywog]]s just stole the remnants of Elven civilization
 	- The [[Elves]] who left were primarily the ones in power or wealthy
 	- They did their best to make sure no one followed them using one use portals
 - We now begin to make our way towards the [[Seedier District]] but find we keep looping through the main plaza

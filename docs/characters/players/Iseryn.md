@@ -5,5 +5,6 @@ tags:
   - characters
   - player-character
 ---
-# Bio
-- Human
+# Iseryn
+## Bio
+- [[Human]]

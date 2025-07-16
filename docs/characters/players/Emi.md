@@ -6,9 +6,10 @@ tags:
 aliases:
   - Moonblaze
 ---
-# Bio
+# Emi
+## Bio
 - Got Fae Cancer
-- Started the [[astral plain]] problems?
+- Started the [[Astral Plain]] problems?
 - [[Fire Genasi]] Druid/Cleric
 - Is Yelan
 - Pledged to [[Sehanine|moonweaver]]

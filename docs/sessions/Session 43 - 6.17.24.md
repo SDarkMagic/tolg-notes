@@ -84,7 +84,7 @@ tags:
 - The robots deactivate and leave
   >HAVE YOU EVER SHOT YOUR ENEMIES IN THE HEAD AND THOUGHT MAN, THAT SHOULD’VE DONE MORE HEAD TRAUMA SAY NO MORE PRESENTING THE Mindblower fully automatic, this justice delivering sniper rifle is designed with cutting-edge magitech. It features an extended barrel for increased range and precision, a built-in scope ,target tracking, and an arcane stabilizer that minimizes recoil. The rifle can fire a rapid burst of enchanted bullets that pierce through armor, making it a formidable weapon in any ranged combat scenario. It is the preferred choice for elite marksmen, gunnuts and tyrants who need unmatched accuracy and firepower from a distance. The mindblower, they’re not ready for this
 - [[Ave]] has triggered a mechanism
-- [[Ave]] has acquired a sniper rifle called the [[mind blower]]
+- [[Ave]] has acquired a sniper rifle called the [[Mind Blower]]
 - The next room has a mech in it and as it was entered, a portal started opening
 - The mech is remote controlled and unmanned
 - There are footsteps leading into the portal

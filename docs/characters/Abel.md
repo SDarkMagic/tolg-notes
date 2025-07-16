@@ -4,7 +4,8 @@ tags:
   - characters
   - npc
 ---
-# Bio
+# Abel
+## Bio
 - [[Fire Genasi]]
 - Married to [[Nadine]]
 - Father of [[Emi]]

@@ -9,7 +9,7 @@ tags:
 - [[Stilts]] is telling [[Olivia]] and [[Fish]] exclusively information on bbeg hideouts
 	- [[Cain]] is under the sand of [[Sand Fransisco]]
 		- Town is corrupted by him, everyone is subservient
-		- Moving his [[phylactery]] to underground stronghold
+		- Moving his [[Phylactery]] to underground stronghold
 	- [[The Great Eye]] seems to be growing more and more from [[Sierra]]. There is a portal there that opens only at noon to take you directly to him (What seems to be his hatchery)
 	- [[Belphegor]] is setting up camp on the mountain near [[Distant Rain]]
 		- He personally supervises the camp, meaning he's always there

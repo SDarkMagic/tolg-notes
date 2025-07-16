@@ -49,7 +49,7 @@ tags:
 - [[Belle]] is in a lobby with three doors
 - They're making a new body for [[Cain]]?!
 - [[Ave]] and [[Advena]] fix the portal
-- There are noises in the wall near where [[Ave]] found the [[mind blower]]
+- There are noises in the wall near where [[Ave]] found the [[Mind Blower]]
 - THERE'S DRAGON REMAINS IN THERE?!
 	- Project Lemonade
 - [[Olivia]] is trying to rip machinery out of the dragon, but fails to do so and feels like her life draining from her

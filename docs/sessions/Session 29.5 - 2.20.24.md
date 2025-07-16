@@ -31,7 +31,7 @@ tags:
 - Found scrolls of silence, misty step, and moonbeam
 - [[Greelee]] has a chest he doesn't want us opening
 - [[Emi]] looks for a book on the [[Dawnfrost]], specifically their end. Finds a book called "the meltdown" with a picture of dead people on a battlefield
-- [[Ave]] found a book on [[illithids]] while looking for octopus books
+- [[Ave]] found a book on [[Illithids]] while looking for octopus books
 - We're bullying [[Greelee]] for collecting dice now
 - We did autographs
 ## Murder Thunder

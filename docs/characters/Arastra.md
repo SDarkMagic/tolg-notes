@@ -4,5 +4,6 @@ tags:
   - characters
   - npc
 ---
-# Bio
+# Arastra
+## Bio
 - leader of the [[Spiders]] in the [[Underdark]]

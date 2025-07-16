@@ -60,7 +60,7 @@ tags:
 	- Can't wait to show his daughters what he just did
 	- HE HAS A HIGH KILL COUNT?!?!
 		- IT'S RISING AS WE SPEAK?!?!?!!
-	- He's killing [[yuan-ti]] it would appear
+	- He's killing [[Yuan-ti]] it would appear
 	- He has a lot of guilt and regrets
 	- Lot of mentions of blood
 	- Having trouble holding back something currently

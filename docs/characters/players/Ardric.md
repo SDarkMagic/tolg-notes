@@ -8,7 +8,8 @@ aliases:
   - Rookwatcher
   - Adrian Halibut the Fourth of the Fae out yonder
 ---
-# Bio
+# Ardric Holt
+## Bio
 - Half orc warlock
 - Patron is [[Caiphon]]
 - Highly aware of his own mortality, anxious about dying and wants to leave his mark on the world
@@ -16,5 +17,5 @@ aliases:
 - depressed
 - feels like he needs to be responsible for things?
 - Possessor of the [[Crown]]
-# Background
+## Background
 - 6 different contingencies he has had for a little over a year now - oh wait that's the party

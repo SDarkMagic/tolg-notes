@@ -28,20 +28,20 @@ tags:
 	- Smart and mean
 	- Usually dumb and kind
 - grey-ish skin, white eyes, moving collectively
-- mind flayers/[[illithids]] are responsible
+- mind flayers/[[Illithids]] are responsible
 - Fountain that heals everything in the temple past the city
-- Also we have been talking to a [[boolywog]] named [[Gro]]
+- Also we have been talking to a [[Boolywog]] named [[Gro]]
 - [[River]]'s eye was a dark red/pink spiral
 - Turns out that swamp was not as deep as the ocean
 - Concocting an elaborate plan to distract the frogs
 - [[Emi]] conjure animals 8 giant owls
 - Full party invisibility courtesy of [[Ardric]] [[Fish]] and [[Advena]] so we can sneak through the city
-- [[boolywog]]s all jump into the water in fear of the owls
+- [[Boolywog]]s all jump into the water in fear of the owls
 - [[Ardric]] gets his leg stuck in the bridge
 - THERE WAS A HYDRA IN THE WATER?!?! IT'S FIGHTING THE OWLS
-- THE [[boolywog]] ARMY IS HERE TOO NOW
+- THE [[Boolywog]] ARMY IS HERE TOO NOW
 - so the temple had a welcoming party
-- three [[boolywog]] children are being pushed to the temple to probably get their brains controlled
+- three [[Boolywog]] children are being pushed to the temple to probably get their brains controlled
 - [[Frederick]] is going to explore the river
 - oops great crocodile room
 - ![[Pasted image 20240216124419.png]]
@@ -49,7 +49,7 @@ tags:
 - ![[Pasted image 20240216125308.png]] (sketchy art :D)
 - Draconic voice in the water asking if it's safe?
 - BABY DRAGON TURTLE IN WATER
-- [[Melody]] tries to chase the [[boolywog]]s through the door into the crocodile room
+- [[Melody]] tries to chase the [[Boolywog]]s through the door into the crocodile room
 - There is a mother dragon consumed by an elder brain past the crocodile room
 - [[Ave]] is reverse engineering the door so we can go through
 - potential opening behind gold statue

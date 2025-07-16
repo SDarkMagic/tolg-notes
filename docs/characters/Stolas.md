@@ -4,6 +4,7 @@ tags:
   - characters
   - npc
 ---
-# Bio
+# Stolas
+## Bio
 - [[Fire Genasi]]
 - Alchemist in [[Serenity]]

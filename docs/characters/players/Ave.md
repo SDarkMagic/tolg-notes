@@ -5,10 +5,13 @@ tags:
   - player-character
 aliases:
   - Otterbrook
+  - Ace Cetacean
 ---
-# Bio
+# Ave Cetacean
+## Bio
 - [[Sea Elf]] Fighter/Artificer
-Chaotic individual who cares much more than she lets on. Unresolved trauma hits different. Daughter of [[Cain]] and [[Awan]]
+- Chaotic individual who cares much more than she lets on. Unresolved trauma hits different.
+- Daughter of [[Cain]] and [[Awan]]
 - Left [[Harr & Son]]
 - [[Emi]]'s aunt?!
 - has inherent dark vision

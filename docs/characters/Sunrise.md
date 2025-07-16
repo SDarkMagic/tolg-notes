@@ -4,6 +4,7 @@ tags:
   - characters
   - npc
 ---
-# Bio
+# Sunrise
+## Bio
 - [[Tabaxi]] priestess
 - knows [[Cedric]]

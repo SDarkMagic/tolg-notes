@@ -7,6 +7,7 @@ tags:
 aliases:
   - red dragon
 ---
-# Bio
+# Belphegor
+## Bio
 - [[Dragon]]
 - Wants to start a war and overthrow [[Mammon]] as ruler

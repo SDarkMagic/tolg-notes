@@ -5,6 +5,7 @@ tags:
 aliases:
   - TOLG
 ---
+# Team One Large Guy
 The party; the GUYS
 - [[Melody]]
 - [[Ardric]]

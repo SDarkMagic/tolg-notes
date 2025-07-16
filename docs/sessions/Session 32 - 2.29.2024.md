@@ -5,7 +5,7 @@ tags:
   - sessions
 ---
 # General
-- last room is a crypt for past [[boolywog]] kings
+- last room is a crypt for past [[Boolywog]] kings
 - Lingering magical presence in the room?
 - [[Ardric]] is investigating for history stuff again on the tombs
 	- [[Bropp]], Great king of the first generation
@@ -13,18 +13,18 @@ tags:
 	- [[Sip-Sip]], the conqueror
 	- [[Yama]], the great builder
 - There is an anvil with runes on it, but whatever was powering it dried out long ago
-	- Used for crafting [[boolywog]] sized magic weapons
-	- Too old, and because it's [[boolywog]] technology [[Ave]] cannot fix it. Requires a smith or mage to repair
+	- Used for crafting [[Boolywog]] sized magic weapons
+	- Too old, and because it's [[Boolywog]] technology [[Ave]] cannot fix it. Requires a smith or mage to repair
 - [[Ave]] jumps down a well
 - Path at the bottom of the well
 - Entrance to the back of the temple. Leads to the outskirts of the village leading to the mage's hut
-- [[boolywog]] village is deserted now
+- [[Boolywog]] village is deserted now
 - traces of enchantment magic at [[River]]'s fishing spot in [[Distant Rain]]
 	- Spell used was `Geas`
 - The water changed color since leaving the temple
 	- No longer bright/glittery
 	- now looks like standard water
-- [[boolywog]] god is [[Ramanos]]
+- [[Boolywog]] god is [[Ramanos]]
 - [[Underdark]] beings do not often come to the [[Material Plain]]
 - Apparently [[Mammon]] worked in the [[Underdark]] according to [[Olivia]]
 - [[Ardric]] has tried to go to the [[Underdark]] before?!
@@ -47,7 +47,7 @@ tags:
 ## [[Emi]] and [[Olivia]] night watch
 - Discuss [[Emi]]'s panic attack from [[Session 31 - 2.27.24]] after being in the water
 
-- Head to visit the [[yuan-ti]] in [[Sierra]]
+- Head to visit the [[Yuan-ti]] in [[Sierra]]
 	- lookout towers now have new technological advancements (spyglasses)
 - [[Olivia]] is donating to the cause
 - [[Soyla]] did not fire because of what happened last time
@@ -55,7 +55,7 @@ tags:
 - The general we killed is alive and well in the camp...
 - They have an [[Assassin's Guild]] logo in their camp
 - [[Ardric]] apologizes
-- The person that brought the [[yuan-ti]] back told them specifically to KILL [[Team One Large Guy|US]]
+- The person that brought the [[Yuan-ti]] back told them specifically to KILL [[Team One Large Guy|US]]
 	- Pulls out drawing with all of our visages on it that says we're wanted
 	- [[Advena]] is not there
 - They have heavy machinery

@@ -4,7 +4,8 @@ tags:
   - dnd
   - npc
 ---
-# Bio
+# Lord Timmin
+## Bio
 - Astral soup cat
 - he is full of astral soup
 ![[20240124_113433.jpg]](sketchy art :)

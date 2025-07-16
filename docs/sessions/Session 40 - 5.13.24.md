@@ -8,20 +8,20 @@ tags:
 - Oop we're all surrounded now
 - We're told we can leave peacefully if we return everything we took
 - [[Advena]] tries to keep the mask of voices, and gets seen
-- The [[yuan-ti]] don't know what the mask is
+- The [[Yuan-ti]] don't know what the mask is
 - [[Ave]] has been stacking books while everyone else is dumping their items
-- [[Ardric]] is trying to convince the [[yuan-ti]] that he was just helping when he healed the ones that were being werewolfed
+- [[Ardric]] is trying to convince the [[Yuan-ti]] that he was just helping when he healed the ones that were being werewolfed
 - [[Ardric]] is now asking them why they're here/if there was anything else in the area
 - Everyone begins to head out and leave the area
-- The [[yuan-ti]] are looking at [[Olivia]] inquisitively with a hint of malice as she passes
+- The [[Yuan-ti]] are looking at [[Olivia]] inquisitively with a hint of malice as she passes
 - They knew that [[Melody]] was there the whole time. [[Ardric]] blames it on [[Melody]] being timid
 - [[Ave]] shares some of the book covers of the books she found
 - [[Amber Thornclaw|Amber]] is returning from the cemetery, but [[remote/docs/characters/Flint Thornclaw]] is nowhere to be found...
-- [[Melody]] is suggesting we "kill" them ([[yuan-ti]]) with kindness
+- [[Melody]] is suggesting we "kill" them ([[Yuan-ti]]) with kindness
 - [[Ave]] begins to repair one of the houses, and does not get far before the rest of the party notices
 - [[remote/docs/characters/Flint Thornclaw]] comes back and says we're gonna need more manpower
-	- The [[yuan-ti]] have been asking [[remote/docs/characters/Flint Thornclaw]] to give them control of the [[Redwood|village]]
-- The [[Manyvoice Mask]] comes from the [[astral plain]]
+	- The [[Yuan-ti]] have been asking [[remote/docs/characters/Flint Thornclaw]] to give them control of the [[Redwood|village]]
+- The [[Manyvoice Mask]] comes from the [[Astral Plain]]
 	- It was sitting there for a few years
 - [[Advena]] is asking [[Ave]] why she was so abrupt with wanting to keep it
 - [[Ave]] was afraid it was going to [[Harr & Son]]
@@ -56,7 +56,7 @@ tags:
 - [[Advena]] doesn't trust [[Olivia]] enough to give her a concrete answer to if she's being troubled by something
 - [[Fish]] is explaining the [[Endless Stream]] to [[Olivia]] and [[Advena]]
 - [[Olivia]] feels like she's not allowed control of her life
-- There's a [[yuan-ti]] in the distance watching them
+- There's a [[Yuan-ti]] in the distance watching them
 	- [[Olivia]] waves
 - mindblower is a firearm with no reloading properties and very long range
 - Project lemonade mentions reviving dead dragons

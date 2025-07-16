@@ -8,7 +8,8 @@ aliases:
   - garland
   - mech squirrel
 ---
-# Bio
+# Kupex
+## Bio
 - A squirrel that infiltrated the [[Mail Squirrels]]
 - Builds mechs
 - [[Ardric]] killed him

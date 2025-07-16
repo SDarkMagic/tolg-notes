@@ -16,11 +16,11 @@ tags:
 - As it dies, the dungeon absorbs all of it while a ripple expands out across the floor, the dungeon seemingly entirely alerted of our presence
 # Dungeon
 - We regroup and heal up as necessary
-- [[Ave]] tries to ask the tadpoles what they are while [[Advena]] is just aware that their [[illithids]] tadpoles
+- [[Ave]] tries to ask the tadpoles what they are while [[Advena]] is just aware that their [[Illithids]] tadpoles
 - [[Melody]] almost triggers a trap in the hall as we begin to move down it, however [[Fish]] notices the traps in time
 - He disarms the traps, learning that if he didn't properly cut it, the creature most likely would have detached from the wall and become independent
-- Another neothelid is beginning to form on the floor from discarded [[boolywog]] parts scattered about the floor
-- [[Advena]] learns the room was used to figure out what [[boolywog]] would be best used for creating monsters
+- Another neothelid is beginning to form on the floor from discarded [[Boolywog]] parts scattered about the floor
+- [[Advena]] learns the room was used to figure out what [[Boolywog]] would be best used for creating monsters
 - As we proceed down the next hallway, voices can be heard from a room further down; One that sounds robotic, and one that sounds somewhat like a child's
 - In the room a small [[Beholder]] is poking around the head of a still active [[Warforged]] who isn't very enthused about this
 - [[Ardric]] knows the [[Beholder]] like creature is a "[[Death's Kiss]]"
@@ -28,12 +28,12 @@ tags:
 - [[Advena]] lies to this [[Warforged]] saying the master sent her to get him back
 - [[Ardric]] finds a letter from [[Cain]] on a meeting table saying that he would deliver the people from [[Dofleini]] to [[The Great Eye]]
 	> To my dear collective of the ocular kind I have a brand new opportunity for you it turns out that very recently, an entire city lost most of its military prowess it would be a shame if “someone” would swoop in and “harvest” the entire city, would it not? I can send a few of “them” to assure a peaceful transaction Here are the exact coordinates, (dofleini) and no worries, the entire place is completely isolated, it would take weeks for anyone to notice Nobody fails to deliver their part of a deal with me and gets away with it Signed “the greatest man to ever be”
-- The [[boolywog]]s were not fit for mind flayer stuff, however with a few modifications they were able to be transformed to be more useful
+- The [[Boolywog]]s were not fit for mind flayer stuff, however with a few modifications they were able to be transformed to be more useful
 - [[Ave]] discovers a flesh recycling bin in the corner of the room
 - [[Melody]] checks another door and finds three [[Sea Elf|Sea Elves]] staring vacantly forward
-- [[Fish]] checks a different room which appears to be a barrack, and notices several mutated [[boolywog]]s waiting in ambush on the ceiling
+- [[Fish]] checks a different room which appears to be a barrack, and notices several mutated [[Boolywog]]s waiting in ambush on the ceiling
 - [[Advena]] continues talking with the [[Warforged]] and learns that "master" plans to ascend soon with the [[little empress]]
-- [[Ave]] reinvestigates the cage from earlier and notices a [[boolywog]] in it who appears incredibly malnourished
+- [[Ave]] reinvestigates the cage from earlier and notices a [[Boolywog]] in it who appears incredibly malnourished
 - [[Isla]] touches one of the [[Sea Elf]] and notices spirals beginning to form in their eyes as they say "Water Genasis to the next room"
 - [[Ardric]] removes curse on two of the [[Sea Elf]]as two tadpoles die and crawl out of their eyes
 - The third one is being held person-ed in place as [[Ardric]] awakened minds them to stay there
@@ -44,7 +44,7 @@ tags:
 - [[Ardric]] then starts blasting and kills the other one
 - [[Ave]] ritual casts detect magic in the room to find any tadpoles on [[Sea Elf|Sea Elves]] in the room
 - Any remaining [[Sea Elf|Sea Elves]] were transported elsewhere
-- [[Ardric]] reads the sign on the [[boolywog]]'s cage which just says "Don't feed the frog"
+- [[Ardric]] reads the sign on the [[Boolywog]]'s cage which just says "Don't feed the frog"
 - He will NOT shut up, which is why he was in a cage since it seemed to inocculate him against the [[Mind flayer]]'s effects
 - The elder brain is through the portal in the upper area of the dungeon, there was a squirrel there too. The [[Mind flayer]]'s didn't pay attention to the squirrel, despite him trying to get the portal open
 - [[Melody]] break dances and opens the portal

@@ -7,7 +7,8 @@ tags:
 aliases:
   - Trench
 ---
-# Bio
+# Trenchathan Currentrider
+## Bio
 - [[Half-elf]]
 - [[Fae]]-like
 - Has a sprite familiar named [[Nami]]

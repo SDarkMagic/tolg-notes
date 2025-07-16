@@ -5,6 +5,7 @@ tags:
   - player-character
   - npc
 ---
-# Bio
+# Belle
+## Bio
 - [[Advena]]'s familiar
 - flying cat

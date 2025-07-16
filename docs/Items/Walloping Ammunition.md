@@ -4,4 +4,5 @@ tags:
   - notes
   - items
 ---
+# Walloping Ammunition
 ![[walloping_ammunition.png]]

@@ -4,5 +4,6 @@ tags:
   - characters
   - npc
 ---
-# Bio
+# Bubsy
+## Bio
 - [[Nagpa]] familiar that was a rocc?

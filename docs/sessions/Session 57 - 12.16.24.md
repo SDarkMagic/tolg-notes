@@ -64,7 +64,7 @@ tags:
 - [[Olivia]] says she would want to come back as a [[Tabaxi]] were she to be reincarnated
 - It will also require a flower from [[Dofleini]], some of [[Fish]]'s fur, and a representation of the link between the two
 - [[Fish]] being ok with the outcome of this spell can apparently affect the outcome
-- [[Dolores]] runs upstairs to get stuff from the kitchen as the [[yuan-ti]] from the restaurant walks in
+- [[Dolores]] runs upstairs to get stuff from the kitchen as the [[Yuan-ti]] from the restaurant walks in
 - [[Dolores]] comes back down with a little [[Elegist]] trailing behind her, staring down at the floor
 - [[Ave]] helps [[Advena]] upstairs to bed as the rest downstairs sort out oils and such
 - [[Melody]] has run off to the kitchen to do *something*

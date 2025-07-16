@@ -3,7 +3,8 @@ tags:
   - factions
   - dnd
 ---
-# Bio
+# Caiphon
+## Bio
 - [[Ardric]]'s patron
 - Enemy of [[The Great Eye]]
-- Dwells in the [[astral plain]]
+- Dwells in the [[Astral Plain]]

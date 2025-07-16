@@ -64,11 +64,11 @@ tags:
 - We begin to stealth as we enter
 - [[Ardric]] lops off a lock of hair and leaves it at the entrance?
 - We hear the sound of a beast breathing heavily as we follow the trail of blood deeper into the guild
-- [[Flint Thornclaw|Flint]] is covered in blood, [[yuan-ti]] flesh in his mouth with his skin seeming stretched for his body
+- [[Flint Thornclaw|Flint]] is covered in blood, [[Yuan-ti]] flesh in his mouth with his skin seeming stretched for his body
 - As [[Olivia]] gets closer, [[Flint Thornclaw|Flint]] raises his head and smells her approaching
 - He believes he did the right thing for once by killing all the "bad" people so they wouldn't come back
 - Also he's a werewolf now
-- He initially wanted to just scare the [[yuan-ti]]
+- He initially wanted to just scare the [[Yuan-ti]]
 - After he got caught snooping, he drank about 10 vials of... something?
 - [[Olivia]] shakily proclaims that he isn't family
 - He turns around and extends a blood and flesh covered hand
@@ -81,14 +81,14 @@ tags:
 - [[Ave]], seeing [[Olivia]] shoot releases two shots into [[Flint Thornclaw|Flint]]
 - [[Advena]] tries to use hold person on him, but fails as he transforms
 - As [[Olivia]] shoots three arrows at him, [[Flint Thornclaw|Flint]] pounces on her dealing 25 slashing damage and knocking her prone
-- Several [[yuan-ti]] appear from hiding, 4 of which attack [[Advena]] dealing 60 damage in one attack
+- Several [[Yuan-ti]] appear from hiding, 4 of which attack [[Advena]] dealing 60 damage in one attack
 - [[Emi]] uses twilight sanctuary to give the party in range 7 temp hit points each
-- [[Ardric]] careful spells a sickening radiance onto some of the [[yuan-ti]] and [[Flint Thornclaw|Flint]]
+- [[Ardric]] careful spells a sickening radiance onto some of the [[Yuan-ti]] and [[Flint Thornclaw|Flint]]
 - [[Fish]] deals 63 damage in one attack, then uses a legendary action to feral instinct and attack [[Olivia]]
-- [[Ave]] tries and fails to talk the [[yuan-ti]] down from attacking the party
+- [[Ave]] tries and fails to talk the [[Yuan-ti]] down from attacking the party
 - [[Melody]] uses a maneuvering strike to get [[Olivia]] up from being prone and deal 40 psychic damage to [[Flint Thornclaw|Flint]]
 - He has 16 AC (no clue where to put this)
-- [[Melody]] redirects one of [[Flint Thornclaw|Flint]]'s feral instinct attacks from [[Olivia]] into one of the [[yuan-ti]] instantly killing it with 62 damage
+- [[Melody]] redirects one of [[Flint Thornclaw|Flint]]'s feral instinct attacks from [[Olivia]] into one of the [[Yuan-ti]] instantly killing it with 62 damage
 - His wounds are healing on his turn as he proceeds to attack [[Olivia]] multiple times but misses all of them
 - [[Olivia]] tries to run from [[Flint Thornclaw|Flint]] to which he immediately pounces on her again
 - Tiamat's curse has afflicted us, and suddenly two shadow dragons appear to harass us
@@ -99,9 +99,9 @@ tags:
 - [[Fish]] incapacitates [[Flint Thornclaw|Flint]]
 - [[Ave]] heals [[Advena]], then tries to shoot the incapacitated [[Flint Thornclaw|Flint]]
 - [[Flint Thornclaw|Flint]] gets up then attacks the wall of stone dealing 50 necrotic damage
-- [[Advena]] casts fireball on one of the [[yuan-ti]] on the walls, dealing 26 fire damage to him
+- [[Advena]] casts fireball on one of the [[Yuan-ti]] on the walls, dealing 26 fire damage to him
 - [[Olivia]] darts out from behind the wall and shoots [[Flint Thornclaw|Flint]] with an arrow of werewolf slaying dealing 24 damage
 - He then hits [[Fish]] with the feral instinct
-- As the [[yuan-ti]] see the situation worsening, they seal the place and it begins to fill with oil and fire
+- As the [[Yuan-ti]] see the situation worsening, they seal the place and it begins to fill with oil and fire
 - [[Olivia]] knocks [[Flint Thornclaw|Flint]] unconscious, saying "That's my girl" as he falls
 - 

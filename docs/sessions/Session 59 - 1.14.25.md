@@ -21,7 +21,7 @@ tags:
 - [[Flint Thornclaw|Flint]] gets back up and begins running, then immediately goes back down as [[Fish]] attacks him
 - [[Advena]] uses dimension door to travel to the east-most room with the two portals but cannot surmise how to operate them
 - [[Ardric]] sickening radiance is putting in work, shreds the shadow, and damages one of the dragons as it flies into it like an idiot
-- The dragons both breath attack [[Fish]], [[Emi]], and [[Ardric]], killing [[Emi]] and [[Flint Thornclaw|Flint]] and creating several shadows as the dead [[yuan-ti]] turns into one too
+- The dragons both breath attack [[Fish]], [[Emi]], and [[Ardric]], killing [[Emi]] and [[Flint Thornclaw|Flint]] and creating several shadows as the dead [[Yuan-ti]] turns into one too
 - [[Jason]] shoots 240 feet in one turn, and discovers that there's an emergency exit in a dried out well on the west side
 - [[Ardric]] pops sickening radiance back up, and it hits both dragons and all of the shadows currently on the field
 - One of the shadow dragons is the wife of leviathan, but highly corrupted
@@ -32,7 +32,7 @@ tags:
 - [[Melody]] slides down the well taking the bodies of [[Emi]] and [[Flint Thornclaw|Flint]] with him
 - *someone* appears from the portal, calling for [[Advena]], however she doesn't hear
 - [[Advena]] then dimension doors to the west side where the rest of the party is
-- The four [[yuan-ti]] from the lower area all see [[Advena]] peaking out to check on [[Fish]], and all begin to shoot at her
+- The four [[Yuan-ti]] from the lower area all see [[Advena]] peaking out to check on [[Fish]], and all begin to shoot at her
 - [[Ardric]] casts feather fall on everyone then jumps down the well
 - [[Fish]] begins laying into the dragon who followed us, killing it
 - He then also jumps down the well
@@ -41,7 +41,7 @@ tags:
 - [[Fish]] is conflicted about bringing [[Olivia]] back although [[Emi]] wants to
 - [[Ardric]] begins casting gentle repose on [[Olivia]], as [[Melody]] grabs [[Fish]], [[Ardric]], and [[Olivia]]('s body) and begins carrying them out
 - [[Advena]] drops down the well, then begins looking for [[Olivia]] panickedly then chases after [[Melody]]
-- The [[yuan-ti]]s high five each other as [[Advena]] leaves, then die as the expanding fire consumes them
+- The [[Yuan-ti]]s high five each other as [[Advena]] leaves, then die as the expanding fire consumes them
 # Escape
 - [[Advena]] rushes up to [[Melody]] and presses a revivify scroll onto [[Olivia]] alongside a diamond she found in [[Olivia]]'s bag
 - [[Ave]] puts [[Flint Thornclaw|Flint]]'s body into the bag of holding and chases after the party
@@ -72,7 +72,7 @@ tags:
 	- There's no trace of fighting or struggle
 - [[Melody]] pulls out the sending stone linked with [[Harr]] to check for a response
 	- There is no response
-- [[Emi]] is using the [[mind blower]] to try and locate [[Harr]] with scrying
+- [[Emi]] is using the [[Mind Blower]] to try and locate [[Harr]] with scrying
 - It's almost as if [[Dofleini]] never received our orders in the first place
 - [[Emi]] sees [[Harr]] alone in his cell, whispering to himself that he "tried to warn them"
 	- The cell is in the same place as it was before

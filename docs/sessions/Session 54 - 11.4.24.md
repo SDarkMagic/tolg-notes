@@ -63,7 +63,7 @@ tags:
 - The situation has gotten out of hand, there are too many customers
 - [[Fish]] is making BANGER seafood
 - one squirrel tries to leave the circle of silence, but gets immediately vortex warped back in by [[Advena]]
-- A [[yuan-ti]] named Agitha comes in and immediately starts hitting on [[Melody]]
+- A [[Yuan-ti]] named Agitha comes in and immediately starts hitting on [[Melody]]
 - [[Emi]] commands the geese to be quiet after they upset the children
 - [[Topi Topi]] has come by to check on [[Artemicion]] and the other squirrels
 - [[Ave]] needs to reprogram the song on the piano for the couple
@@ -80,7 +80,7 @@ tags:
 - We now have licensed building inspectors from [[checkacheck]] looking for 3 separate tables at different locations
 - The creatures [[Advena]] is serving need a con saving throw, releasing spores that make people fall asleep
 - [[Ardric]] is helping someone who needs a charisma saving throw? They're inviting [[Melody]] to meet them north past the gate
-- [[Melody]] is **still** flirting with the [[yuan-ti]]
+- [[Melody]] is **still** flirting with the [[Yuan-ti]]
 - one of the squirrels vomits onto the floor
 - The two sun/moon people still have no idea what they want
 - [[Artemicion]] gives us his new book with the tip

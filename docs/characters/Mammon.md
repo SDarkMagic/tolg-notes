@@ -4,6 +4,7 @@ tags:
   - characters
   - npc
 ---
-# Bio
+# Mammon
+## Bio
 - White [[Dragon]]
 - Current Ruler of the dragons

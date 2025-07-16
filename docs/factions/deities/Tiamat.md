@@ -3,8 +3,10 @@ tags:
   - dnd
   - characters
   - npc
+  - factions
 ---
-# Bio
+# Tiamat
+## Bio
 - Goddess of all chromatic dragons
 - Lawful evil dragon
 - Goddess of Greed

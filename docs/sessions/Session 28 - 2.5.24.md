@@ -14,8 +14,8 @@ tags:
 - [[Ardric]] tries to persuade [[Lily]] to come back with us using minor illusion of the village people telling us to come back
 - [[Nagpa]] knew about [[Melody]] hiding under the bridge?!
 - chozo wannabe is wanting to fight us :(
-	- (his familiar is named [[bubsy]])
-- [[bubsy]] no longer a chill raven
+	- (his familiar is named [[Bubsy]])
+- [[Bubsy]] no longer a chill raven
 - DEATH RAY!?!?!
 - It is fish's turn (sneak attack + crit + smite) 73 dmg (This was an opportunity attack)
 - HARPY JUMPSCARE

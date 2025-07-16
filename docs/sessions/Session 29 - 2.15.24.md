@@ -37,7 +37,7 @@ tags:
 - We head to [[Distant Rain]] to check on [[River]] and do some shopping
 - [[River]] is gone now... Disappeared about 3 days ago after exhibiting signs reminiscent of [[The Great Eye]]
 	- Remove curse did not get rid of the effects. Could be pink eye?
-- [[Sunrise]] has met the [[yuan-ti]] before
+- [[Sunrise]] has met the [[Yuan-ti]] before
 	- Wants to know which sister we met
 	- apparently one of the sisters was a very nice person and the other is a warmonger
 - Apparently [[River]] went to find a doctor in a swamp somewhere

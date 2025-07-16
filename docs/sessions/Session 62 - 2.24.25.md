@@ -40,10 +40,10 @@ tags:
 	- This works, he's stuck in the rock
 - Discussion moves to whether or not [[Isla]] will be coming along with us
 - The remainder of the [[Water Genasi]] were in hiding after the calamity, until one day the water in the cavern they were hiding in began to drain
-- Likely [[illithids]] descended upon them and took the people through the portals forcefully
+- Likely [[Illithids]] descended upon them and took the people through the portals forcefully
 	- The people were turned to stone in the process
 - This happened about 20 years ago when [[Isla]] was still a young girl
-- Her crystal is originally from the [[astral plain]]
+- Her crystal is originally from the [[Astral Plain]]
 - People begin to head off to bed
 - [[Ardric]] returns to his parent's house to sleep
 	- He casts ceremony: wedding on his parents
@@ -60,7 +60,7 @@ tags:
 ## [[Isla]], [[Advena]], [[Melody]], [[Ave]]
 - [[Advena]] approaches [[Isla]] and introduces herself
 - She asks why [[Isla]] was in the [[Assassin's Guild]]
-- [[Advena]] is comparing experiences in the [[astral plain]] with [[Isla]]
+- [[Advena]] is comparing experiences in the [[Astral Plain]] with [[Isla]]
 - [[Isla]] rarely went to the surface when she lived with her people in a cavern underwater
 - Most of the [[Water Genasi]] blamed humans for the suffering they endured as a result of the calamity
 	- They hid from the dragons, which were being manipulated by humans

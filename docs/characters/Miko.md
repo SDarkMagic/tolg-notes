@@ -4,5 +4,6 @@ tags:
   - npc
   - dnd
 ---
-# Bio
+# Miko
+## Bio
 - [[Emi]]'s familiar

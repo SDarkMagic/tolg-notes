@@ -6,8 +6,10 @@ tags:
 aliases:
   - Ruby
   - Rubyheart
+  - Olivia Thornclaw
 ---
-# Bio
+# Olivia Thornclaw
+## Bio
 - Used to be named Ruby
 - From the town of [[Redwood]]
 - Werewolf ranger/fighter

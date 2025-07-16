@@ -3,7 +3,8 @@ tags:
   - dnd
   - "#characters"
 ---
-# Bio
+# Frederick
+## Bio
 - [[Ave]]'s familiar
 - Blew himself up once
 - Currently an octopus

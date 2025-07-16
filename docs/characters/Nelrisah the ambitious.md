@@ -7,5 +7,6 @@ tags:
 aliases:
   - Nelrisah
 ---
-# Bio
+# Nelrisah the ambitious
+## Bio
 - One of the four [[Nagpa Mages]]

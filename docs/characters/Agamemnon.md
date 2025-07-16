@@ -4,6 +4,7 @@ tags:
   - characters
   - "#enemy"
 ---
-# Bio
+# Agamemnon
+## Bio
 - [[Red Abishai]]
 - One of [[Belphegor]]'s generals

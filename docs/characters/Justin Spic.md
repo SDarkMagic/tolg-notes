@@ -4,5 +4,6 @@ tags:
   - characters
   - npc
 ---
-# Bio
-- Fire spirite from the [[astral plain]]
+# Justin Spic
+## Bio
+- Fire sprite from the [[Astral Plain]]

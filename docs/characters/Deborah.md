@@ -6,5 +6,7 @@ tags:
 aliases:
   - Debbie
 ---
-# Bio
+# Deborah
+## Bio
  - Is Yae Miko
+ - [[Hags|Hag]]

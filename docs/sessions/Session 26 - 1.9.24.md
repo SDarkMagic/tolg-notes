@@ -24,7 +24,7 @@ tags:
 	- [[Ardric]] investigating the crown, which is in better condition no for some reason
 	- He sees a reflection of himself with pitch black eyes that is pointing at him
 	- Conversation regarding their respective powers from higher entities
-	- Something about how loved ones are sent on to the [[astral plain]]
+	- Something about how loved ones are sent on to the [[Astral Plain]]
 - [[Advena]] and [[Emi]] take third watch
 	- [[Ave]] rejoins the group
 	- [[Advena]] questions why [[Emi]] trusts the party to watch her back but doesn't trust them with the truth

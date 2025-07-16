@@ -6,8 +6,8 @@ tags:
 ---
 # General
 - [[Flint Thornclaw|Flint]] and [[Amber Thornclaw|Amber]] are talking about plans for rebuilding [[Redwood]]
-- [[Flint Thornclaw|Flint]] was planning on murdering all of the [[yuan-ti]]
-- The two are not super keen on the idea of living alongside the [[yuan-ti]]
+- [[Flint Thornclaw|Flint]] was planning on murdering all of the [[Yuan-ti]]
+- The two are not super keen on the idea of living alongside the [[Yuan-ti]]
 - [[Ardric]] wants to handle the situation reactively
 - the [[Assassin's Guild]] wanted [[Redwood]] for their new base since the area is fertile land
 - [[Ardric]] is the lorax, he speaks to the trees
@@ -16,7 +16,7 @@ tags:
 - [[Jacob]] asks [[Ardric]] to use simpler words
 - [[Jacob]] is going to make the west side of [[Redwood]] harder to get into
 - [[Melody]] is unsure if the trees had a change in demeanor
-- [[Melody]] is checking on the status of the [[yuan-ti]]
+- [[Melody]] is checking on the status of the [[Yuan-ti]]
 	- They seem to be standing guard at the fort, but nothing else is happening there
 - A [[harengon]] approaches the party
 - [[Olivia]] is forging [[Emi]]'s signature for a package by using [[Emi]]'s hand to sign since she's unconcious

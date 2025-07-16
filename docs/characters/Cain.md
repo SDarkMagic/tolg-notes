@@ -5,7 +5,8 @@ tags:
   - characters
   - enemy
 ---
-# Bio
+# Cain
+## Bio
 - [[Ave]]'s father
 - Human chronomancer/necromancer?
 - Lich?

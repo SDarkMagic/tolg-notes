@@ -4,4 +4,5 @@ tags:
   - Races
   - notes
 ---
-- First developmental stage of [[illithids]]
+# Mind flayer
+- First developmental stage of [[Illithids]]

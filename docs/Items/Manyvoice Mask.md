@@ -4,6 +4,7 @@ tags:
   - items
   - notes
 ---
-- Originated from the [[astral plain]]
+# Manyvoice Mask
+- Originated from the [[Astral Plain]]
 - Found in the [[Assassin's Guild]]
 - ![[Pasted image 20240513113731.png]]

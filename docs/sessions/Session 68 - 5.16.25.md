@@ -19,12 +19,12 @@ tags:
 - [[Emi]] casts bless on [[Fish]], [[Ave]], [[Advena]], [[Isla]], and [[Melody]]
 - [[Advena]] casts fireball
 - [[Fish]] sprints 120 feet to the brain in one action
-	- Buried [[boolywog]] mutants pop out of the ground near the flower as [[Fish]] gets near the brain
+	- Buried [[Boolywog]] mutants pop out of the ground near the flower as [[Fish]] gets near the brain
 - He notices a magical barrier of some variety surrounding the flower
 - Upon grabbing the flower, [[Fish]] needs to make a wisdom save
 - He then dimension doors out with the flower
 - lair action reinforcements - [[Cedric]] appears
-- He's being chased by several mutated [[boolywog]]s through the portal, however he turns around and fireballs them all, killing them
+- He's being chased by several mutated [[Boolywog]]s through the portal, however he turns around and fireballs them all, killing them
 - The elder brain casts mind blast on one of the hulks as they surround us
 - They all chain together and explode
 - They also take no damage from this
@@ -49,8 +49,8 @@ tags:
 	- [[Isla]] counters the counterspell
 	- [[Fish]] gets instructed to go towards [[Cedric]]
 	- [[Emi]] is instructed to move towards [[Isla]] and heal herself
-- [[Ave]] casts hypnotic pattern on herself, the [[boolywog]]s, and [[Isla]]. EVERYONE. SAVES.
-- [[Advena]] fireballs 2 of the [[boolywog]]s and [[Isla]]. The frogs save, however [[Isla]] does not
+- [[Ave]] casts hypnotic pattern on herself, the [[Boolywog]]s, and [[Isla]]. EVERYONE. SAVES.
+- [[Advena]] fireballs 2 of the [[Boolywog]]s and [[Isla]]. The frogs save, however [[Isla]] does not
 - [[Fish]] goes to try and attack [[Cedric]], however [[Ardric]] silvery barbs it and he misses
 - [[Ave]] gets hit by 4 frogs and goes down
 - [[Melody]] redirects the last attack so it doesn't hit [[Ave]] and instead hits one of the gabaghouls
@@ -67,7 +67,7 @@ tags:
 - [[Ave]] has 13 hours before she's a mindflayer
 - [[Emi]] tries to healing word [[Ave]], but realizes the only way to save her would be greater restoration or wish
 - [[Advena]] vortex warps [[Ave]] over to [[Emi]], where [[Emi]] immediately tries to cast greater restoration on [[Ave]]. This purges the tadpole, and stabilizes her
-- The [[boolywog]]s outright kill [[Cedric]]
+- The [[Boolywog]]s outright kill [[Cedric]]
 - the brain tries to use dominate monster on [[Fish]] but he saves
 - [[Ardric]] kills the last gabaghoul by critting him when he had 1HP remaining
 - He then proceeds to blast the brain twice, critting with one of the hits

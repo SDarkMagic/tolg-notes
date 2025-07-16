@@ -2,5 +2,5 @@
 tags:
   - dnd
 ---
-
-Located in the [[astral plain]]. Large structure I guess we are in now.
+# Temple of Caiphon
+Located in the [[Astral Plain]]. Large structure I guess we are in now.

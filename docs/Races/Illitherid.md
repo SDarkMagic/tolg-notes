@@ -4,6 +4,7 @@ tags:
   - Races
   - notes
 ---
-# Bio
+# Illitherid
+## Bio
 - Evolved form of [[Mind flayer]]s
-- [[illithids]]
+- [[Illithids]]

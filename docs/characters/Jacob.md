@@ -5,5 +5,6 @@ tags:
   - characters
   - npc
 ---
-# Bio
+# Jacob
+## Bio
 - [[Tree]] on the outskirts of [[Redwood]]

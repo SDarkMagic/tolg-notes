@@ -4,7 +4,8 @@ tags:
   - characters
   - npc
 ---
-# Bio
+# Sunset
+## Bio
 - [[Tabaxi]] cleric
 - Deceased
 - Member of the [[Dawnfrost]]

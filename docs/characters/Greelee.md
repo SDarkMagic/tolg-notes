@@ -4,6 +4,7 @@ tags:
   - characters
   - npc
 ---
-# Bio
+# Greelee
+## Bio
 - [[Owlin]] in a wheelchair
 - Librarian who works closely with [[Advena]]

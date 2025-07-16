@@ -73,7 +73,7 @@ tags:
 - [[Advena]] has [[Belle]] touch the somewhat ominous chest
 	- magic missile wand
 - Stairs leading to a wall in another room
-- There's a [[yuan-ti]] working on an alter, and also some stuff floating in the air in a transparent gelatinous cube
+- There's a [[Yuan-ti]] working on an alter, and also some stuff floating in the air in a transparent gelatinous cube
 - [[Stilts]] is hunting for something
 - Flat [[Jason]] is pushed through a door
 - He's now stuck in this room
@@ -95,15 +95,15 @@ tags:
 - Upon putting a paw on the mirror, her paw goes through it
 - The [[Manyvoice Mask]] is in there, we keep it and give [[Stilts]] the magic missile wand
 - [[Cedric]] and [[Advena]] are going to checkout the portal to [[Sierra]]
-- In the other doors were small barracks with three sleeping [[yuan-ti]]
+- In the other doors were small barracks with three sleeping [[Yuan-ti]]
 - [[Melody]] screws up the locks on the doors trapping them in there
-- [[Ave]] saunters into the room with the book of bedtime in one hand, chats with the [[yuan-ti]] until they turn to look at her, and upon their realization immediately beings reading the book to knock them out
+- [[Ave]] saunters into the room with the book of bedtime in one hand, chats with the [[Yuan-ti]] until they turn to look at her, and upon their realization immediately beings reading the book to knock them out
 - There's an altar to the god of the [[Assassin's Guild]] in the next room, the [[Masked Serpent]]
 - The door in here is locked with a sign saying "Simply say a prayer to open"
 	- [[Melody]] stabs the lock on the door opening it
 - [[Melody]] is checking each of the doors in the hall while rapidly flying down the hall
 - The farthest room is a medbay/torture room and [[Melody]] has no clue what it is
-- [[yuan-ti]] cooking a potion with a gun. [[Ave]] sprints in and starts reading the book knocking him out
+- [[Yuan-ti]] cooking a potion with a gun. [[Ave]] sprints in and starts reading the book knocking him out
 	- She steals his musket
 	- Also he was trying to make purple worm poison
 - [[Harr & Son]] shipment book in the library
@@ -112,11 +112,11 @@ tags:
 		- Homunculus construct records
 		- One mentioning dragon remains
 	- Weapons galore
-- [[Ave]] begins to exit, and on the way out re-sleeps the first [[yuan-ti]]
-- [[Ardric]] and [[Melody]] aid the two [[yuan-ti]] that were tied down in the medbay(?)
+- [[Ave]] begins to exit, and on the way out re-sleeps the first [[Yuan-ti]]
+- [[Ardric]] and [[Melody]] aid the two [[Yuan-ti]] that were tied down in the medbay(?)
 - They were being experimented on by a small man named [[Gallahad]] or something
 - [[Ardric]] did remove curse on them and removed smth from them
 - [[Ardric]] tells them his name is [[Ardric|Aphuc]]
-- [[Ardric]] and [[Fish]] want to untie the [[yuan-ti]] we tied up previously
+- [[Ardric]] and [[Fish]] want to untie the [[Yuan-ti]] we tied up previously
 - [[Melody]] and [[Advena]] go to the loot room and find greater healing potions, upgrade jellies, and several magic items
 - 

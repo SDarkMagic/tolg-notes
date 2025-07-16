@@ -4,5 +4,6 @@ tags:
   - characters
   - npc
 ---
-# Bio
+# Cosmo
+## Bio
 - [[Mail Squirrels|Mail Squirrel]] 

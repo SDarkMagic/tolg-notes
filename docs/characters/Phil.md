@@ -4,7 +4,8 @@ tags:
   - characters
   - npc
 ---
-# Bio
+# Phil
+## Bio
 - Beholder
 - Works for [[The Great Eye]]
 - Colleagues with [[Maxim]]

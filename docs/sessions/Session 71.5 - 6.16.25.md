@@ -10,8 +10,8 @@ type: session
 - We decompress in the cabin and eat croissants for dinner
 - [[Advena]] comes back through the door to the cabin with her mask on
 	- [[Olivia]], [[Fish]], and [[Jason]] notice that her face is flushed and beet red as she turns to go sit at a table
-- [[Olivia]] brings the [[invoice]] we found over to [[Ardric]]
-- [[Advena]] has a feeling she's seen this [[invoice]] before
+- [[Olivia]] brings the [[Invoice]] we found over to [[Ardric]]
+- [[Advena]] has a feeling she's seen this [[Invoice]] before
 - The group is generally confused about the paper, however [[Ardric]] mentions the only context he has for airships is relating to the [[Air Genasi]]
 - [[Emi]] comes in to join the group
 - [[Ardric]] deduces "U.A.G" could stand for "University of Air Genasi"
@@ -59,7 +59,7 @@ type: session
 - [[Emi]] kisses the inside of [[Advena]]'s wrist
 - ![[Pasted image 20250616153652.png]]
 - idek how to take good notes on this I'll be real. Just go watch the vod
-- [[Emi]] tells [[Advena]] that she thinks she might be the "Mrs. LS" mentioned on the [[invoice]]
+- [[Emi]] tells [[Advena]] that she thinks she might be the "Mrs. LS" mentioned on the [[Invoice]]
 - As [[Ardric]] and [[Ave]] return, they pass [[Advena]] and [[Emi]]
 - [[Melody]] is fast asleep on a pillow on the counter, and almost rolls off in his sleep
 - 

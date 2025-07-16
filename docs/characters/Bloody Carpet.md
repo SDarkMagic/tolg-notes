@@ -4,6 +4,7 @@ tags:
   - "#characters"
   - npc
 ---
-# Bio
+# Bloody Carpet
+## Bio
 - [[Tabaxi]] who runs [[Murder Thunderdome]]
 - Not super literate

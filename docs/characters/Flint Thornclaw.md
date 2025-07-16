@@ -6,7 +6,8 @@ tags:
 aliases:
   - Flint
 ---
-# Bio
+# Flint Thornclaw
+## Bio
 - [[Olivia]] and [[Sapphire]]'s father
 - Married to [[Amber Thornclaw|Amber]]
 - From [[Redwood]]

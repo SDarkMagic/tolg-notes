@@ -45,7 +45,7 @@ tags:
 - [[Olivia]] is telling [[Ardric]] about her [[Session 32 - 2.29.2024#Emi and Olivia night watch|discussion]] with [[Emi]] and apologizing
 - [[Ardric]] is not super surprised by this
 - [[Melody]] is doing his nails during this?
-- [[Ardric]] is talking about how he saw our reactions to him in the [[astral plain|astral sea]]
+- [[Ardric]] is talking about how he saw our reactions to him in the [[Astral Plain|astral sea]]
 	- He's "seen enough of those looks to know what they meant"
 - [[Olivia]] trust [[Ardric]]'s intentions with the [[Crown]], but she's still wary of it
 - [[Ardric]] knew [[Olivia]] would have killed him if given the chance

@@ -4,7 +4,8 @@ tags:
   - characters
   - npc
 ---
-# Bio
+# Nadine
+## Bio
 - [[Fire Genasi]]
 - [[Emi]]'s mother
 - Only child

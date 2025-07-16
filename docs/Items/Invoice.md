@@ -4,6 +4,9 @@ tags:
   - items
   - notes
 ---
+# Invoice
+------------------------
+
 Date: 05/22/1025
 **Due: 01/02/1020**
 ## U.A.G
@@ -23,5 +26,5 @@ Date: 05/22/1025
 *All amounts are due on the first of the following month, pending previous payment arrangements.*
 For more information, visit us at [[The Capital Ship]] (currently over [[Tawfret]])
 
-
+----------------------
 ![[Pasted image 20250616114524.png]] 

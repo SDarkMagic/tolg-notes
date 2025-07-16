@@ -4,6 +4,7 @@ tags:
   - "#characters"
   - npc
 ---
-# Bio
-- Child Dryad from [[Blossom]] in the [[Fae Wild]]
+# Lily
+## Bio
+- Child [[Dryad]] from [[Blossom]] in the [[Fae Wild]]
 - 

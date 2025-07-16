@@ -4,6 +4,7 @@ tags:
   - characters
   - npc
 ---
-# Bio
+# Topi Topi
+## Bio
 - [[Kobold]]
 - 

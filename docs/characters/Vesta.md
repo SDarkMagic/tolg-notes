@@ -4,7 +4,8 @@ tags:
   - characters
   - npc
 ---
-# Bio
-- [[Fire Genasi]] druid
+# Vesta
+## Bio
+- [[Fire Genasi]] arch-druid
 - [[Emi]]'s grandmother
 - turns into a bear

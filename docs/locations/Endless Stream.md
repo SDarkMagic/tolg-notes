@@ -2,4 +2,5 @@
 tags:
   - dnd
 ---
-Somewhere in the [[astral plain]]?
+# Endless Stream
+Somewhere in the [[Astral Plain]]?

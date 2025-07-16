@@ -20,7 +20,7 @@ type: session
 - [[Melody]] goes to check on [[Advena]] who is laying  still on her bed
 - [[Ardric]] uses remove curse on [[Isla]], however it only seems to suppress the tadpole and would need a greater restoration or similar to remove it
 - [[Emi]] casts greater restoration on [[Isla]], removing the tadpole
-- [[Isla]] claims to only remember feelings from the past 24 hours, however she remembers [[Cedric]] appearing in the [[astral plain]] to aid us
+- [[Isla]] claims to only remember feelings from the past 24 hours, however she remembers [[Cedric]] appearing in the [[Astral Plain]] to aid us
 - She joined our group for the purpose of leading us somewhere
 - [[Melody]] asks [[Advena]] over the mental link if she wants to be kept up to date (she does)
 - [[Ardric]] asks what the last thing [[Isla]] remembers comprehensively is
@@ -28,7 +28,7 @@ type: session
 	- Came back from a supply run, however after a while the water in the cavern began to drain
 	- Her mother was turned to stone in front of her
 	- Taken with them through the portal, then gets fuzzy
-- [[Isla]] was "chosen" to be useful to the [[illithids]]
+- [[Isla]] was "chosen" to be useful to the [[Illithids]]
 - They gave her the necklace she uses for spellcasting to channel the magic [[The Great Eye]] gave her
 - She had something tattooed onto her upper back
 	- tattoo of the eye
@@ -72,7 +72,7 @@ type: session
 - How to skin a fish
 - [[Emi]] and [[Ardric]] commiserate about the loss of [[Cedric]]
 - [[Advena]] returns and ritually casts alarm on the door into the cabin
-- [[Isla]] wakes up, and [[Advena]] questions her about the crystals in the [[astral plain]]
+- [[Isla]] wakes up, and [[Advena]] questions her about the crystals in the [[Astral Plain]]
 - [[Isla]] is confused and doesn't remember the crystals
 - [[Advena]] returns to her room as the rest of the group finishes preparing their fish
 - [[Ave]] goes out of the cabin setting off [[Advena]]'s alarm and interrupting her train of thought talking with [[Emi]]

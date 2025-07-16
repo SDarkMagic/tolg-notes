@@ -6,5 +6,6 @@ tags:
   - "#enemy"
 aliases:
 ---
-# Bio
+# Leviathan
+## Bio
 - Blue [[Dragon]], a supporter of [[Belphegor]]

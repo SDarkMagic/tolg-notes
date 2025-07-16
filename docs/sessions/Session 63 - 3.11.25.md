@@ -24,9 +24,9 @@ tags:
 - [[Advena]] uses detect magic to locate where the portals were specifically
 - People go to look for their orders in the warehouse while [[Isla]] looks at the portal remnants with [[Ave]]
 - [[Advena]] finds a scroll of vortex warp and takes it
-- The portal has two pathways: one leading to the [[astral plain]], one leading to [[Serenity]]
-	- The most recently used one was to the [[astral plain]]
-- The portal near the museum leads to the [[astral plain]] and another location we do not know
+- The portal has two pathways: one leading to the [[Astral Plain]], one leading to [[Serenity]]
+	- The most recently used one was to the [[Astral Plain]]
+- The portal near the museum leads to the [[Astral Plain]] and another location we do not know
 - [[Isla]] blunders the second portal and gets hit by a laser.
 - [[Ardric]] sees her rolling on the floor in pain, while [[Melody]] and [[Ave]] see her disintegrating
 - [[Ave]] slaps herself in the face seeing the other's reactions not congruent with her own and dispels the illusion magic from herself

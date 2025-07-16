@@ -4,5 +4,6 @@ tags:
   - dnd
   - npc
 ---
-# Bio
-- [[boolywog]] doctor found in the swamp near [[Kingdom of Boob-ADoob]]
+# Gro
+## Bio
+- [[Boolywog]] doctor found in the swamp near [[Kingdom of Boob-ADoob]]

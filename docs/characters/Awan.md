@@ -4,7 +4,8 @@ tags:
   - dnd
   - npc
 ---
-# Bio
+# Awan
+## Bio
 - [[Ave]]'s mother
 	- Father was [[Cain]]
 - [[Sea Elf]]
